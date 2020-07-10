@@ -1,1 +1,5 @@
-Welcome to the thoth wiki!
+<img src="https://www.openbookpublishers.com/shopimages/thoth.png" alt="Thoth" height="300" />
+
+# Wiki
+
+* [[Platform Metadata Formats]]
