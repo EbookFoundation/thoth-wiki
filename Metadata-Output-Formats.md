@@ -14,14 +14,22 @@
 ### KBART
 [Issue 88](https://github.com/thoth-pub/thoth/issues/88)
 
+KBART is a NISO Recommended Practice. A definition of the KBART format is provided in NISO's ["Knowledge Bases and Related Tools (KBART) Recommended Practice" (NISO RP-9-2014)](https://www.niso.org/publications/rp/rp-9-2014/).
+
+It is recommended that COPIM/Thoth seek [KBART Endorsement](https://www.niso.org/standards-committees/kbart/kbart-endorsement) with NISO, and is listed in the [KBART Registry](https://sites.google.com/site/kbartregistry/) before making this feature public.
+
 ### BIBFRAME
 [Issue 86](https://github.com/thoth-pub/thoth/issues/86)
 
 ### CSV
 [Issue 101](https://github.com/thoth-pub/thoth/issues/101)
 
+The CSV format is defined by the [RFC4180](https://tools.ietf.org/html/rfc4180) standard.
+
 ### BibTeX
 [Issue 104](https://github.com/thoth-pub/thoth/issues/104)
+
+BibTeX is the metadata format used in [LaTeX](https://www.ctan.org/) typesetting environments, which is particularly popular in the STEM disciplines. A basic definition of the format is found on the [BibTeX](http://www.bibtex.org/Format/) website. More information of the specific formatting of BibTeX metadata files can be found in the documentation of the [BibTeX package](https://www.ctan.org/pkg/bibtex). A short guide is available [here](https://www.economics.utoronto.ca/osborne/latex/BIBTEX.HTM).
 
 ## Maker Metadata
 
