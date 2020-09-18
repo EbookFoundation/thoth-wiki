@@ -58,6 +58,8 @@ Last checked July 2020
  - Metadata format: KBART format obtained by exporting the Excel Spreadsheet to a tab separated txt file.
  - Other accepted formats: csv, MARC, XML
 
+### Folio
+
 ## Book Distributors
 
 ### 3.1. Amazon KDP
