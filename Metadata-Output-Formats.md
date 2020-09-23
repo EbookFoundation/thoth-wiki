@@ -1,4 +1,4 @@
-# Metadata Output Formata
+# Metadata Output Formats
 
 ## Object Metadata
 * [[ONIX 2.1]]
