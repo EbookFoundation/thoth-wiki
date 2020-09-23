@@ -6,4 +6,4 @@
 * Metadata format: [[XLSX]], [[ONIX 3.0]]
 * Other accepted metadata formats:
 
-OAPEN has provided the following guidelines for [uploading books and metadata](https://cloud.copim.ac.uk/s/C7KPbNDaLwJcfL5) and a [sample ONIX 3.0 file](https://cloud.copim.ac.uk/s/PjxsDr7TbjxGgPJ). 
+OAPEN provides guidelines for [uploading books and metadata](https://cloud.copim.ac.uk/s/C7KPbNDaLwJcfL5) and a [sample ONIX 3.0 file](https://cloud.copim.ac.uk/s/PjxsDr7TbjxGgPJ). 
