@@ -3,13 +3,14 @@
 # Metadata Output Formats
 
 ## Object Metadata
+* [[BIBFRAME]]
+* [[BibTeX]]
+* [[CSV]]
+* [[KBART]]
+* [[MARC XML]]
 * [[ONIX 2.1]]
 * [[ONIX 3.0]]
-* [[MARC XML]]
-* [[KBART]]
-* [[BIBFRAME]]
-* [[CSV]]
-* [[BibTeX]]
+* [[XLSX]]
 
 ## Maker Metadata
 
