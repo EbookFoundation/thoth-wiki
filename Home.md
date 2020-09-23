@@ -1,6 +1,4 @@
-<img src="https://www.openbookpublishers.com/shopimages/thoth.png" alt="Thoth" height="300" />
-
-<img src="https://cloud.copim.ac.uk/s/g68Sn3H5cR8H7aQ" alt="Thoth" height="300" />
+<img src="https://punctumbooks.com/punctum/wp-content/uploads/2020/09/thoth-logo-latin.png" alt="Thoth" height="300" />
 
 # Metadata Output Formats
 
