@@ -15,7 +15,7 @@
 
 * [[CreDiT]]
 
-# Platform Metadata Formats
+# [[Platform Metadata Formats]]
 
-* [[Platform Metadata Formats]]
+* [[OAPEN]]
 
