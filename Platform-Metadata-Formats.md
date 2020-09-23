@@ -120,13 +120,6 @@ Last checked July 2020
  - Metadata format: Excel spreadsheet (.xlsx)
  - Other accepted metadata formats: ONIX (they require a sample beforehand)
 
-### 3.8. OAPEN
-Last checked July 2020
- - http://oapen-uk.jiscebooks.org/;
- - File transfer: via ftp
- - Content files: PDF
- - Metadata format: Excel spreadsheet (.xlsx)
- - Other accepted metadata formats: Info not available
 
 ### 3.9. OpenEdition Books
 Last checked July 2020
