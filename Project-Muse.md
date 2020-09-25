@@ -15,23 +15,23 @@ For metadata uploads in [[XLSX]] there is a [proprietary template](https://about
 
 Regardless of format, the following fields are required for a metadata feed to successfully load into our system:
 
-*     eISBN
-*     Title
-*     Subtitle [if applicable]
-*     [At least 1] BISAC or BIC subject code(s)
-*     [At least 1] Contributor
-*     Contributor Role
-*     Contributor Statement
-*     Digital List Price
-*     Print Publication Date
+* eISBN
+* Title
+* Subtitle [if applicable]
+* [At least 1] BISAC or BIC subject code(s)
+* [At least 1] Contributor
+* Contributor Role
+* Contributor Statement
+* Digital List Price
+* Print Publication Date
 
 ## Preparing and Submitting Book PDFs
 
 * Format the book PDF according to [these instructions](https://cloud.copim.ac.uk/s/gm2GdExdtDeX453), making sure that all fonts are fully embedded and that you have not subset the fonts. (Fonts that are not fully embedded are incompatible with our search engine and will be undiscoverable.)
-*     Name the book PDF with the book's eISBN.
-*     Bookmark each section of the ebook PDF, including the Cover, Front Matter, TOC, Chapters, and Back Matter.
-*     Prepare the cover image file (JPEG, GIF, or PNG) for submission with the ebook PDF and name it with the same eISBN as the book PDF. (Do not submit the cover as a PDF. It will overwrite your book PDF.)
-*     Submit the book PDF and the cover image file using the Project MUSE book uploader.
+* Name the book PDF with the book's eISBN.
+* Bookmark each section of the ebook PDF, including the Cover, Front Matter, TOC, Chapters, and Back Matter.
+* Prepare the cover image file (JPEG, GIF, or PNG) for submission with the ebook PDF and name it with the same eISBN as the book PDF. (Do not submit the cover as a PDF. It will overwrite your book PDF.)
+* Submit the book PDF and the cover image file using the Project MUSE book uploader.
 
 ## Preparing and Submitting Book EPUB Files
 
