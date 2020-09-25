@@ -1,1 +1,1 @@
-[Hathi Trust](https://www.hathitrust.org/) is a not-for-profit collaborative of academic and research libraries preserving 17+ million digitized items. 
+[Hathi Trust Digital Library](https://www.hathitrust.org/) is a not-for-profit collaborative of academic and research libraries preserving 17+ million digitized items. 
