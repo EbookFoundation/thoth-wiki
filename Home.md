@@ -13,11 +13,13 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[BIBFRAME 2.0]]*
 * [[BibTeX]]*
 * [[CSV]]*
+* [[EndNote]]
 * [[KBART]]*
 * [[MARC 21]]
 * [[MARCXML]]*
 * [[ONIX 2.1]]*
 * [[ONIX 3.0]]*
+* [[RefMan]]
 * [[XLSX]]
 
 ## Maker Metadata Formats
