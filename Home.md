@@ -99,14 +99,6 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[EBSCOhost]]
 * [[Book Citation Index]]
 
-***
-Still to be organized
-# [[Platform Metadata Formats]]
-
-(was Ebrary)
-* [[OpenEdition Books]]
-
-* [[Book Citation Index]]
 
 
 * [[OPERAS]]*
