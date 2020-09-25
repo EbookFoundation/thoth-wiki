@@ -76,6 +76,8 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 ## Ebook Distributors
 
+* [[Google Books]]*
+* [[Google Play]]
 * [[OverDrive]]*
 * [[RNIB Bookshare]]
 * [[Unglue.it]]
@@ -100,7 +102,7 @@ Still to be organized
 
 ## Ebook Distributors
 
-* [[Google Books/Play]]
+
 * [[StreetLib]]
 * [[EBSCOhost]]
 * [[Elib]]
