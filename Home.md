@@ -56,7 +56,7 @@
 
 # Bibliographic Management Software
 
-* [[Zotero]]
+* [[Zotero]]*
 * [[BibDesk]]
 
 ***
