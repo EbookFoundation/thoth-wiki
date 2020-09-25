@@ -80,7 +80,7 @@ Still to be organized
 
 ## DOI Assigners
 
-* [[CrossRef]]
+* [[CrossRef]]*
 * [[EZID]]
 
 ## Metadata Aggregators
