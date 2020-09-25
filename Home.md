@@ -24,22 +24,12 @@
 * [[JSTOR]]
 * [[OAPEN]]
 * [[Project Muse]]
-* [[Open Research Library]]
 
 ## Discovery Systems
 
 * [[DOAB]]
+* [[Open Research Library]]
 * [[Hathi Trust Digital Library]]
-
-## Library Management Platforms
-
-* [[Folio]]
-
-## Publishing Platforms
-
-* [[Fulcrum]]
-* [[Editoria]]
-
 
 ## Public Libraries
 
@@ -47,6 +37,21 @@
 * [[Aaaaargh]]
 * [[Internet Archive]]
 * [[Library Genesis]]
+
+# Persistent Identifiers
+
+* [[DOI]]
+* [[ROR]]
+* [[ORCiD]]
+
+# Library Management Platforms
+
+* [[Folio]]
+
+# Publishing Platforms
+
+* [[Fulcrum]]
+* [[Editoria]]
 
 
 ***
@@ -99,9 +104,5 @@ Still to be organized
 * [[Unglue.it]]
 * [[RNIB Bookshare]]
 
-# Persistent Identifiers
 
-* [[DOI]]
-* [[ROR]]
-* [[ORCiD]]
 
