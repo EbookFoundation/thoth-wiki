@@ -75,6 +75,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Jisc Knowledge Base]]
 * [[Library Hub Discover]]*
 * [[OCLC]]
+* [[ProQuest 360 Core]]
 
 ## Ebook Distributors
 
