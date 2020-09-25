@@ -21,6 +21,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 * [[JSTOR]]*
 * [[OAPEN]]*
+* [[Open Edition Books]]
 * [[Project Muse]]*
 * [[Zenodo]]
 
