@@ -42,7 +42,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## Persistent Identifiers
 
 * [[DOI]]
-* [[Funder Registry]]
+* [[Funder Registry]]*
 * [[ROR]]
 * [[ORCiD]]*
 
