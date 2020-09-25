@@ -3,7 +3,7 @@
 # Metadata Output Formats
 
 ## Object Metadata
-* [[BIBFRAME]]
+* [[BIBFRAME 2.0]]
 * [[BibTeX]]
 * [[CSV]]
 * [[KBART]]
