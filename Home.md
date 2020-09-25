@@ -32,12 +32,12 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 ## Public Libraries
 
-* [[Aaaaargh]]
+* [[Aaaaarg.fail]]*
 * [[British Library]]*
 * [[Internet Archive]]*
 * [[Library Genesis]]*
 * [[Library of Congress]]*
-* [[Memory of the World]]
+* [[Memory of the World]]*
 
 ## Persistent Identifiers
 
@@ -59,7 +59,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 ## Print Book Distributors
 
-* [[Amazon KDP]]
+* [[Amazon KDP]]*
 * [[Ingram Lightning Source]]
 
 ## Bibliographic Management Software
