@@ -31,15 +31,21 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## Discovery Systems
 
 * [[DOAB]]*
-* [[Open Research Library]]
 * [[Hathi Trust Digital Library]]
+* [[Open Research Library]]
+
 
 ## Public Libraries
 
-* [[Memory of the World]]
 * [[Aaaaargh]]
+* [[British Library]]*
 * [[Internet Archive]]*
 * [[Library Genesis]]
+* [[Library of Congress]]*
+* [[Memory of the World]]
+
+
+
 
 # Persistent Identifiers
 
