@@ -2,8 +2,6 @@
 
 The following wiki lists all output formats, platforms, and other stakeholders that relate to the development of Thoth. Those wikis marked with an asterisk (*) are identified in the [WP5 Scoping Report](https://copim.pubpub.org/pub/wp5-scoping-report-building-open-dissemination-system/) and are indexed as an issue in the [Thoth Project](https://github.com/thoth-pub/thoth/projects).
 
-# Metadata Output Formats
-
 ## Object Metadata Output Formats
 * [[BIBFRAME 2.0]]*
 * [[BibTeX]]*
@@ -19,8 +17,6 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 * [[CreDiT]]*
 
-# [[Platform Metadata Formats]]
-
 ## Vendor Platforms
 
 * [[JSTOR]]*
@@ -34,7 +30,6 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Hathi Trust Digital Library]]
 * [[Open Research Library]]
 
-
 ## Public Libraries
 
 * [[Aaaaargh]]
@@ -44,32 +39,34 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Library of Congress]]*
 * [[Memory of the World]]
 
-
-
-
-# Persistent Identifiers
+## Persistent Identifiers
 
 * [[DOI]]
 * [[ROR]]
 * [[ORCiD]]*
 
-# Library Management Platforms
+## Library Management Platforms
 
 * [[Folio]]
 
-# Publishing Platforms
+## Publishing Platforms
 
 * [[Fulcrum]]
 * [[Editoria]]
 
-# Bibliographic Management Software
+## Print Book Distributors
+
+* [[Amazon KDP]]
+* [[Ingram Lightning Source]]
+
+## Bibliographic Management Software
 
 * [[Zotero]]*
 * [[BibDesk]]
 
 ***
 Still to be organized
-
+# [[Platform Metadata Formats]]
 
 ## DOI Assigners
 
@@ -86,10 +83,7 @@ Still to be organized
 * [[ProQuest]] (was ExLibris)
 * [[ProQuest KB]] (was Serial Solutions)
 
-## Print Book Distributors
 
-* [[Amazon KDP]]
-* [[Ingram Lightning Source]]
 
 ## Ebook Distributors
 
@@ -115,6 +109,7 @@ Still to be organized
 
 * [[Unglue.it]]
 * [[RNIB Bookshare]]
+* [[OPERAS]]*
 
 
 
