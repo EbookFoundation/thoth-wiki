@@ -42,6 +42,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## Persistent Identifiers
 
 * [[DOI]]
+* [[Funder Registry]]
 * [[ROR]]
 * [[ORCiD]]*
 
@@ -72,28 +73,28 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[OCLC]]
 
 ## Ebook Distributors
-* [[OverDrive]]*
 
-***
-Still to be organized
-# [[Platform Metadata Formats]]
+* [[OverDrive]]*
+* [[RNIB Bookshare]]
+* [[Unglue.it]]
+
 
 ## DOI Assigners
 
 * [[CrossRef]]*
 * [[EZID]]
 
+***
+Still to be organized
+# [[Platform Metadata Formats]]
+
+
+
 ## Metadata Aggregators
 
-
-* [[CNKI]]
-
 * [[JISC Knowledge Base (KB)]]
-
 * [[ProQuest]] (was ExLibris)
 * [[ProQuest KB]] (was Serial Solutions)
-
-
 
 ## Ebook Distributors
 
@@ -101,7 +102,6 @@ Still to be organized
 * [[StreetLib]]
 * [[EBSCOhost]]
 * [[Elib]]
-
 * [[ProQuest]] (was Ebrary)
 * [[OpenEdition Books]]
 * [[Worldreader]]
@@ -117,8 +117,7 @@ Still to be organized
 
 ## Other
 
-* [[Unglue.it]]
-* [[RNIB Bookshare]]
+
 * [[OPERAS]]*
 
 
