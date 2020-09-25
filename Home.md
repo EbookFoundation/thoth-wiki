@@ -71,6 +71,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 * [[BDSLive]]*
 * [[EBSCO Knowledge Base (KB)]]*
+* [[Ex Libris]]
 * [[Jisc Knowledge Base]]
 * [[Library Hub Discover]]*
 * [[OCLC]]
@@ -98,7 +99,7 @@ Still to be organized
 ## Metadata Aggregators
 
 
-* [[ProQuest]] (was ExLibris)
+
 * [[ProQuest KB]] (was Serial Solutions)
 
 ## Ebook Distributors
