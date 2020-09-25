@@ -19,16 +19,18 @@
 
 # [[Platform Metadata Formats]]
 
-## Repositories
+## Vendor Platforms
 
 * [[JSTOR]]
 * [[OAPEN]]
 * [[Project Muse]]
+* [[Fulcrum]]
+* [[Open Research Library]]
 
-## Aggregators
+## Discovery Systems
 
 * [[DOAB]]
-* [[Unglue.it]]
+* [[Hathi Trust Digital Library]]
 
 ## DOI Assigners
 
@@ -75,5 +77,6 @@
 
 ## Other
 
+* [[Unglue.it]]
 * [[RNIB Bookshare]]
 
