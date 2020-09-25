@@ -21,7 +21,6 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 * [[JSTOR]]*
 * [[OAPEN]]*
-* [[Open Edition Books]]
 * [[Project Muse]]*
 * [[Zenodo]]
 
@@ -83,10 +82,12 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Axiell]]
 * [[Google Books]]*
 * [[Google Play Books]]
+* [[Open Edition Books]]
 * [[OverDrive]]*
 * [[RNIB Bookshare]]
 * [[StreetLib]]
 * [[Unglue.it]]
+* [[Worldreader]]
 
 ## DOI Assigners
 
@@ -103,7 +104,7 @@ Still to be organized
 
 (was Ebrary)
 * [[OpenEdition Books]]
-* [[Worldreader]]
+
 * [[Book Citation Index]]
 
 
