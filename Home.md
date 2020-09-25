@@ -54,6 +54,10 @@
 * [[Fulcrum]]
 * [[Editoria]]
 
+# Bibliographic Management Software
+
+* [[Zotero]]
+* [[BibDesk]]
 
 ***
 Still to be organized
