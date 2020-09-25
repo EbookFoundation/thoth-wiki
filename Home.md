@@ -83,8 +83,8 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Google Play Books]]
 * [[OverDrive]]*
 * [[RNIB Bookshare]]
+* [[StreetLib]]
 * [[Unglue.it]]
-
 
 ## DOI Assigners
 
@@ -95,18 +95,9 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 Still to be organized
 # [[Platform Metadata Formats]]
 
-
-
-## Metadata Aggregators
-
-
-
-* [[ProQuest KB]] (was Serial Solutions)
-
 ## Ebook Distributors
 
 
-* [[StreetLib]]
 * [[EBSCOhost]]
 * [[Elib]]
 * [[ProQuest]] (was Ebrary)
@@ -114,13 +105,7 @@ Still to be organized
 * [[Worldreader]]
 * [[Book Citation Index]]
 
-## OER Distributors and Repositories
 
-* [[Open Textbooks]]
-* [[BC Open Textbooks Collections]]
-* [[OER Commons]]
-* [[Orange Grove Open Textbooks]]
-* [[Merlot]]
 
 ## Other
 
