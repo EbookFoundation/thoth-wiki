@@ -1,0 +1,1 @@
+The Thoth Wiki has been developed in the context of the [COPIM (Community-led Open Publication Infrastructures for Monographs)](https://www.copim.ac.uk/) project. All data are available under a [CC-BY 4.0 license.](https://creativecommons.org/licenses/by/4.0/).
