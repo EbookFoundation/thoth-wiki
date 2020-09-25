@@ -101,7 +101,3 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 
 
-* [[OPERAS]]*
-
-
-
