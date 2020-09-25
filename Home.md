@@ -32,6 +32,18 @@
 * [[DOAB]]
 * [[Hathi Trust Digital Library]]
 
+## Library Management Platforms
+
+* [[Folio]]
+
+
+## Public Libraries
+
+* [[Memory of the World]]
+* [[Aaaaargh]]
+* [[Internet Archive]]
+* [[Library Genesis]]
+
 
 ***
 Still to be organized
@@ -48,7 +60,6 @@ Still to be organized
 
 * [[CNKI]]
 * [[Ebsco Knowledge Base (KB)]]
-* [[Folio]]
 * [[JISC Knowledge Base (KB)]]
 * [[OCLC Knowledge Base (KB)]]
 * [[ProQuest]] (was ExLibris)
@@ -79,13 +90,6 @@ Still to be organized
 * [[OER Commons]]
 * [[Orange Grove Open Textbooks]]
 * [[Merlot]]
-
-## Public Libraries
-
-* [[Memory of the World]]
-* [[Aaaaargh]]
-* [[Internet Archive]]
-* [[Library Genesis]]
 
 ## Other
 
