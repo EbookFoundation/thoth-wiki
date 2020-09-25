@@ -79,6 +79,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 ## Ebook Distributors
 
+* [[Axiell]]
 * [[Google Books]]*
 * [[Google Play Books]]
 * [[OverDrive]]*
@@ -91,23 +92,18 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[CrossRef]]*
 * [[EZID]]
 
+## Research Search Engines
+
+* [[EBSCOhost]]
+
 ***
 Still to be organized
 # [[Platform Metadata Formats]]
 
-## Ebook Distributors
-
-
-* [[EBSCOhost]]
-* [[Elib]]
-* [[ProQuest]] (was Ebrary)
+(was Ebrary)
 * [[OpenEdition Books]]
 * [[Worldreader]]
 * [[Book Citation Index]]
-
-
-
-## Other
 
 
 * [[OPERAS]]*
