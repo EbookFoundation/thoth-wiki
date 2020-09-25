@@ -69,7 +69,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[BDSLive]]*
 * [[Ebsco Knowledge Base (KB)]]*
 * [[Library Hub Discover]]*
-* [[OCLC Knowledge Base (KB)]]
+* [[OCLC]]
 
 ***
 Still to be organized
