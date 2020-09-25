@@ -29,6 +29,8 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[DOAB]]*
 * [[Hathi Trust Digital Library]]
 * [[Open Research Library]]
+* [[EBSCOhost]]
+* [[Book Citation Index]]
 
 ## Public Libraries
 
@@ -94,10 +96,6 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[CrossRef]]*
 * [[EZID]]
 
-## Research Search Engines
-
-* [[EBSCOhost]]
-* [[Book Citation Index]]
 
 
 
