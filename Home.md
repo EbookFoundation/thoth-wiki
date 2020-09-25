@@ -2,7 +2,7 @@
 
 # Metadata Output Formats
 
-## Object Metadata
+## Object Metadata Output Formats
 * [[BIBFRAME 2.0]]
 * [[BibTeX]]
 * [[CSV]]
@@ -13,7 +13,7 @@
 * [[ONIX 3.0]]
 * [[XLSX]]
 
-## Maker Metadata
+## Maker Metadata Output Formats
 
 * [[CreDiT]]
 
