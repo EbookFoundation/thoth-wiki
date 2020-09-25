@@ -70,8 +70,7 @@ Still to be organized
 
 ## Metadata Aggregators
 
-* [[BDSLive]]
-
+* [[BDSLive]]*
 * [[CNKI]]
 * [[Ebsco Knowledge Base (KB)]]
 * [[JISC Knowledge Base (KB)]]
