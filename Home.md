@@ -24,7 +24,6 @@
 * [[JSTOR]]
 * [[OAPEN]]
 * [[Project Muse]]
-* [[Fulcrum]]
 * [[Open Research Library]]
 
 ## Discovery Systems
@@ -35,6 +34,11 @@
 ## Library Management Platforms
 
 * [[Folio]]
+
+## Publishing Platforms
+
+* [[Fulcrum]]
+* [[Editoria]]
 
 
 ## Public Libraries
