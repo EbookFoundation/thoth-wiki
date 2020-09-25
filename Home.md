@@ -19,6 +19,14 @@
 
 # [[Platform Metadata Formats]]
 
+## Repositories
+
+* [[JSTOR]]
+* [[OAPEN]]
+* [[Project Muse]]
+* [[RNIB Bookshare]]
+
+
 ## DOI Assigners
 
 * [[CrossRef]]
@@ -40,13 +48,6 @@
 
 * [[Amazon KDP]]
 * [[Ingram Lightning Source]]
-
-## Repositories
-
-* [[JSTOR]]
-* [[OAPEN]]
-* [[Project Muse]]
-* [[RNIB Bookshare]]
 
 ## Ebook Distributors
 
