@@ -24,7 +24,7 @@
 * [[JSTOR]]
 * [[OAPEN]]
 * [[Project Muse]]
-* [[RNIB Bookshare]]
+
 
 
 ## DOI Assigners
@@ -69,4 +69,8 @@
 * [[OER Commons]]
 * [[Orange Grove Open Textbooks]]
 * [[Merlot]]
+
+## Other
+
+* [[RNIB Bookshare]]
 
