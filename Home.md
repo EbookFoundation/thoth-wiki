@@ -32,6 +32,11 @@
 * [[DOAB]]
 * [[Hathi Trust Digital Library]]
 
+
+***
+Still to be organized
+
+
 ## DOI Assigners
 
 * [[CrossRef]]
@@ -74,6 +79,13 @@
 * [[OER Commons]]
 * [[Orange Grove Open Textbooks]]
 * [[Merlot]]
+
+## Public Libraries
+
+* [[Memory of the World]]
+* [[Aaaaargh]]
+* [[Internet Archive]]
+* [[Library Genesis]]
 
 ## Other
 
