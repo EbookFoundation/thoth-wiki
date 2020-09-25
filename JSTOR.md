@@ -7,6 +7,6 @@
 * File transfer: through FTP upload
 * Cover file: [[TIFF 6.0]], [[JPEG]], [[GIF]], [[PNG]]
 * Content files: [[PDF]]
-* Chapter support: No
+* Chapter support: Yes
 
 JSTOR has provided [submission guidelines](https://cloud.copim.ac.uk/s/8GaEgtz9Q77DaeD) with detailed specs on required metadata fields, as well as a [sample XLSX metadata file](https://cloud.copim.ac.uk/s/2CHTm3miQT4MRjY).
