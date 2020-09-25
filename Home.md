@@ -19,9 +19,18 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[ONIX 3.0]]*
 * [[XLSX]]
 
-## Maker Metadata Output Formats
+## Maker Metadata Formats
 
 * [[CreDiT]]*
+
+## Persistent Identifiers
+
+* [[DOI]]
+* [[Funder Registry]]*
+* [[ISNI]]*
+* [[RAiD]]*
+* [[ROR]]*
+* [[ORCiD]]*
 
 ## Vendor Platforms
 
@@ -46,15 +55,6 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Library Genesis]]*
 * [[Library of Congress]]*
 * [[Memory of the World]]*
-
-## Persistent Identifiers
-
-* [[DOI]]
-* [[Funder Registry]]*
-* [[ISNI]]*
-* [[RAiD]]*
-* [[ROR]]*
-* [[ORCiD]]*
 
 ## Library Management Platforms
 
@@ -97,11 +97,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Unglue.it]]
 * [[Worldreader]]
 
-## DOI Assigners
+## DOI Assigning Entities
 
 * [[CrossRef]]*
 * [[EZID]]
-
-
-
-
