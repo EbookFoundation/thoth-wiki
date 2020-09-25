@@ -35,7 +35,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Aaaaargh]]
 * [[British Library]]*
 * [[Internet Archive]]*
-* [[Library Genesis]]
+* [[Library Genesis]]*
 * [[Library of Congress]]*
 * [[Memory of the World]]
 
