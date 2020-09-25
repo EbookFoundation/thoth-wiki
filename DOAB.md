@@ -1,6 +1,6 @@
 [Issue 47](https://github.com/thoth-pub/thoth/issues/47)
 
-The [DOAB](https://www.doabooks.org/)(Directory of Open Access Books) is a discovery service for Open Access monographs, a joint project of [[OAPEN]], OpenEdition, CNRS and Aix-Marseille Université.
+The [DOAB](https://www.doabooks.org/) (Directory of Open Access Books) is a discovery service for Open Access monographs, a joint project of [[OAPEN]], OpenEdition, CNRS and Aix-Marseille Université.
 
 * Preferred metadata format: through [custom form](https://www.doabooks.org/doabAdmin?func=books) with the following [fields](https://www.doabooks.org/docs/doabUploadFieldDescription.xlsx)
 * Other supported formats: [[XLSX]]
