@@ -64,6 +64,12 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Zotero]]*
 * [[BibDesk]]
 
+## Metadata Aggregators
+
+* [[BDSLive]]*
+* [[Library Hub Discover]]*
+* [[OCLC Knowledge Base (KB)]]
+
 ***
 Still to be organized
 # [[Platform Metadata Formats]]
@@ -75,11 +81,11 @@ Still to be organized
 
 ## Metadata Aggregators
 
-* [[BDSLive]]*
+
 * [[CNKI]]
 * [[Ebsco Knowledge Base (KB)]]
 * [[JISC Knowledge Base (KB)]]
-* [[OCLC Knowledge Base (KB)]]
+
 * [[ProQuest]] (was ExLibris)
 * [[ProQuest KB]] (was Serial Solutions)
 
