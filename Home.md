@@ -24,6 +24,7 @@
 * [[JSTOR]]
 * [[OAPEN]]
 * [[Project Muse]]
+* [[Zenodo]]
 
 ## Discovery Systems
 
