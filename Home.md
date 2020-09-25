@@ -77,7 +77,6 @@ Still to be organized
 * [[EBSCOhost]]
 * [[Elib]]
 * [[OverDrive]]
-* 
 * [[ProQuest]] (was Ebrary)
 * [[OpenEdition Books]]
 * [[Worldreader]]
@@ -95,4 +94,10 @@ Still to be organized
 
 * [[Unglue.it]]
 * [[RNIB Bookshare]]
+
+# Persistent Identifiers
+
+* [[DOI]]
+* [[ROR]]
+* [[ORCiD]]
 
