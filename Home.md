@@ -97,6 +97,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## Research Search Engines
 
 * [[EBSCOhost]]
+* [[Book Citation Index]]
 
 ***
 Still to be organized
