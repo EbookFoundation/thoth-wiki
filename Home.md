@@ -3,32 +3,32 @@
 # Metadata Output Formats
 
 ## Object Metadata Output Formats
-* [[BIBFRAME 2.0]]
-* [[BibTeX]]
-* [[CSV]]
-* [[KBART]]
+* [[BIBFRAME 2.0]]*
+* [[BibTeX]]*
+* [[CSV]]*
+* [[KBART]]*
 * [[MARC 21]]
-* [[MARCXML]]
-* [[ONIX 2.1]]
-* [[ONIX 3.0]]
+* [[MARCXML]]*
+* [[ONIX 2.1]]*
+* [[ONIX 3.0]]*
 * [[XLSX]]
 
 ## Maker Metadata Output Formats
 
-* [[CreDiT]]
+* [[CreDiT]]*
 
 # [[Platform Metadata Formats]]
 
 ## Vendor Platforms
 
-* [[JSTOR]]
-* [[OAPEN]]
-* [[Project Muse]]
+* [[JSTOR]]*
+* [[OAPEN]]*
+* [[Project Muse]]*
 * [[Zenodo]]
 
 ## Discovery Systems
 
-* [[DOAB]]
+* [[DOAB]]*
 * [[Open Research Library]]
 * [[Hathi Trust Digital Library]]
 
@@ -36,14 +36,14 @@
 
 * [[Memory of the World]]
 * [[Aaaaargh]]
-* [[Internet Archive]]
+* [[Internet Archive]]*
 * [[Library Genesis]]
 
 # Persistent Identifiers
 
 * [[DOI]]
 * [[ROR]]
-* [[ORCiD]]
+* [[ORCiD]]*
 
 # Library Management Platforms
 
