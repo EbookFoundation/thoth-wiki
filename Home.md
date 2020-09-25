@@ -80,7 +80,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## Ebook Distributors
 
 * [[Google Books]]*
-* [[Google Play]]
+* [[Google Play Books]]
 * [[OverDrive]]*
 * [[RNIB Bookshare]]
 * [[Unglue.it]]
