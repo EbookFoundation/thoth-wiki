@@ -7,6 +7,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[EPUB]]
 * [[MOBI]]
 * [[PDF]]
+* [[XML]]
 
 ## Object Metadata Formats
 * [[BIBFRAME 2.0]]*
