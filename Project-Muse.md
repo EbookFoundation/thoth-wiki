@@ -7,7 +7,7 @@
 * File transfer: via uploader tool
 * Cover file: [[JPEG]], [[GIF]], [[PNG]]
 * Content files: [[PDF]], [[EPUB]]
-* Chapter support: No
+* Chapter support: Yes
 
 For metadata uploads in [[XLSX]] there is a [proprietary template](https://about.muse.jhu.edu/media/uploads/metadata_submission_template.xls).
 
