@@ -71,6 +71,9 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[Library Hub Discover]]*
 * [[OCLC]]
 
+## Ebook Distributors
+* [[OverDrive]]*
+
 ***
 Still to be organized
 # [[Platform Metadata Formats]]
@@ -98,7 +101,7 @@ Still to be organized
 * [[StreetLib]]
 * [[EBSCOhost]]
 * [[Elib]]
-* [[OverDrive]]
+
 * [[ProQuest]] (was Ebrary)
 * [[OpenEdition Books]]
 * [[Worldreader]]
