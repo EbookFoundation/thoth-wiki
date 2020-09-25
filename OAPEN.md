@@ -1,9 +1,12 @@
 [Issue 48](https://github.com/thoth-pub/thoth/issues/48)
 
-* [Website](https://oapen.org/)
-* File transfer: FTP, download link
-* Content files: [[PDF]]
-* Metadata format: [[XLSX]], [[ONIX 3.0]]
-* Other accepted metadata formats:
+[OAPEN](https://oapen.org/) is an online library and publication platform promoting and supporting the transition to open access for academic books by providing open infrastructure services to stakeholders in scholarly communication. 
 
-OAPEN provides guidelines for [uploading books and metadata](https://cloud.copim.ac.uk/s/C7KPbNDaLwJcfL5) and a [sample ONIX 3.0 file](https://cloud.copim.ac.uk/s/PjxsDr7TbjxGgPJ). 
+* Preferred metadata format: [[ONIX 3.0]], encoded in UTF-8
+* Other supported formats: [[DOCX]], [[XLSX]], [[CSV]]
+* File transfer: through URL in [[ONIX 3.0]] spec
+* Cover file: Extracted from content file
+* Content files: [[PDF]]
+* Chapter support: No
+
+OAPEN provides guidelines for [uploading books and metadata](https://cloud.copim.ac.uk/s/C7KPbNDaLwJcfL5) and a [sample ONIX 3.0 file](https://cloud.copim.ac.uk/s/PjxsDr7TbjxGgPJ).
