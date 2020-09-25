@@ -70,8 +70,8 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## Metadata Aggregators
 
 * [[BDSLive]]*
-* [[Ebsco Knowledge Base (KB)]]*
-* [[JISC Knowledge Base (KB)]]
+* [[EBSCO Knowledge Base (KB)]]*
+* [[Jisc Knowledge Base]]
 * [[Library Hub Discover]]*
 * [[OCLC]]
 
