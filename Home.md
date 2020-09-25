@@ -2,7 +2,13 @@
 
 The following wiki lists all output formats, platforms, and other stakeholders that relate to the development of Thoth. Those wikis marked with an asterisk (*) are identified in the [WP5 Scoping Report](https://copim.pubpub.org/pub/wp5-scoping-report-building-open-dissemination-system/) and are indexed as an issue in the [Thoth Project](https://github.com/thoth-pub/thoth/projects).
 
-## Object Metadata Output Formats
+## Object Data Formats
+
+* [[EPUB]]
+* [[MOBI]]
+* [[PDF]]
+
+## Object Metadata Formats
 * [[BIBFRAME 2.0]]*
 * [[BibTeX]]*
 * [[CSV]]*
