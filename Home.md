@@ -26,11 +26,11 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 ## Discovery Systems
 
+* [[Book Citation Index]]
 * [[DOAB]]*
+* [[EBSCOhost]]
 * [[Hathi Trust Digital Library]]
 * [[Open Research Library]]
-* [[EBSCOhost]]
-* [[Book Citation Index]]
 
 ## Public Libraries
 
