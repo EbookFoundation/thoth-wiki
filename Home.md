@@ -25,7 +25,10 @@
 * [[OAPEN]]
 * [[Project Muse]]
 
+## Aggregators
 
+* [[DOAB]]
+* [[Unglue.it]]
 
 ## DOI Assigners
 
@@ -35,7 +38,7 @@
 ## Metadata Aggregators
 
 * [[BDSLive]]
-* [[DOAB]]
+
 * [[CNKI]]
 * [[Ebsco Knowledge Base (KB)]]
 * [[Folio]]
@@ -56,7 +59,7 @@
 * [[EBSCOhost]]
 * [[Elib]]
 * [[OverDrive]]
-* [[Unglue.it]]
+* 
 * [[ProQuest]] (was Ebrary)
 * [[OpenEdition Books]]
 * [[Worldreader]]
