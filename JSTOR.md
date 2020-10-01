@@ -9,4 +9,4 @@
 * Content files: [[PDF]]
 * Chapter support: Yes
 
-JSTOR has provided [submission guidelines](https://cloud.copim.ac.uk/s/8GaEgtz9Q77DaeD) with detailed specs on required metadata fields, as well as a [sample XLSX metadata file](https://cloud.copim.ac.uk/s/2CHTm3miQT4MRjY).
+JSTOR has provided [submission guidelines](https://cloud.copim.ac.uk/s/f5Z8YKGDakEb8ac) with detailed specs on required metadata fields, as well as a [ONIX 3.0 record](https://cloud.copim.ac.uk/s/BCFMAA3qMmQtris) containing "a bare bones representation of ONIX that we accept—we are also able to process metadata that is more robust, but this file includes all fields that we currently recognize."
