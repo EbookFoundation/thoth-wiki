@@ -4,6 +4,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 ## Object Data Formats
 
+* [[azx3]]
 * [[EPUB]]
 * [[html]]
 * [[MOBI]]
