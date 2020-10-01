@@ -5,6 +5,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## Object Data Formats
 
 * [[EPUB]]
+* [[html]]
 * [[MOBI]]
 * [[PDF]]
 * [[XML]]
@@ -103,4 +104,5 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 ## DOI Assigning Entities
 
 * [[CrossRef]]*
+* [[DataCite]]
 * [[EZID]]
