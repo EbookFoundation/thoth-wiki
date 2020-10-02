@@ -109,3 +109,46 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 * [[EZID]]
 
 ## OER
+
+To be organized:
+## OER Distributors and Repositories
+
+### 4.1. Open Textbooks 
+Last checked July 2020
+ - https://open.umn.edu/opentextbooks
+ - File Transfer: We send links to new titles via email to our contact at UMN 
+ - Content Files: Link
+ - Metadata Format: manually filling the information
+ - Other accepted metadata format: Info not available
+
+### 4.2. BC Open Textbooks Collections
+Last checked July 2020
+ - https://open.bccampus.ca/browse-our-collection/suggestion-for-the-collection/
+ - File Transfer: online interface
+ - Content Files: Link
+ - Metadata Format: manually filling the information
+ - Other accepted metadata format: Info not available
+
+### 4.3. OER Commons
+Last checked July 2020
+ - https://www.oercommons.org/
+ - File Transfer: online interface
+ - Content Files: Link
+ - Metadata Format: manually filling the information
+ - Other accepted metadata format: Info not available
+
+### 4.4. Orange Grove Open Textbooks
+Last checked July 2020
+ - https://florida.theorangegrove.org/og/
+ - File Transfer: online interface
+ - Content Files: Link
+ - Metadata Format: manually filling the information
+ - Other accepted metadata format: Info not available
+
+### 4.5. Merlot
+Last checked July 2020
+ - https://merlot.org/
+ - File Transfer: online interface
+ - Content Files: Link
+ - Metadata Format: manually filling the information
+ - Other accepted metadata format: Info not available
