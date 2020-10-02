@@ -44,7 +44,6 @@ The transfer protocols and file specifications listed in this wiki are those whi
 * [[JSTOR]]*
 * [[OAPEN]]*
 * [[Project Muse]]*
-* [[Zenodo]]
 
 ## Discovery Systems
 
@@ -154,3 +153,8 @@ Last checked July 2020
  - Content Files: Link
  - Metadata Format: manually filling the information
  - Other accepted metadata format: Info not available
+
+## Archiving Platforms
+
+* [[Internet Archive – Wayback Machine]]
+* [[Zenodo]]
