@@ -52,7 +52,7 @@ The transfer protocols and file specifications listed in this wiki are those whi
 * [[EBSCOhost]]
 * [[Hathi Trust Digital Library]]
 * [[Open Research Library]]
-*[[ScienceOpen]]
+* [[ScienceOpen]]
 
 ## Public Libraries
 
