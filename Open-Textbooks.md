@@ -1,0 +1,5 @@
+ - https://open.umn.edu/opentextbooks
+ - File Transfer: We send links to new titles via email to our contact at UMN 
+ - Content Files: Link
+ - Metadata Format: manually filling the information
+ - Other accepted metadata format: Info not available
