@@ -36,6 +36,11 @@ The transfer protocols and file specifications listed in this wiki are those whi
 ### Object Identifiers
 * [[DOI]]
 
+DOI Registration Agencies
+* [[CrossRef]]*
+* [[DataCite]]
+* [[EZID]]
+
 ### Institution Identifiers
 * [[Funder Registry]]*
 * [[ROR]]*
@@ -111,12 +116,6 @@ The transfer protocols and file specifications listed in this wiki are those whi
 * [[StreetLib]]
 * [[Unglue.it]]
 * [[Worldreader]]
-
-## DOI Registration Agencies
-
-* [[CrossRef]]*
-* [[DataCite]]
-* [[EZID]]
 
 ## OER
 
