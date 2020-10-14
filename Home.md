@@ -38,8 +38,10 @@ The transfer protocols and file specifications listed in this wiki are those whi
 
 ### Institution Identifiers
 * [[Funder Registry]]*
-* [[RAiD]]*
 * [[ROR]]*
+
+### Project Identifiers
+* [[RAiD]]*
 
 ### Maker Identifiers
 * [[ORCiD]]*
