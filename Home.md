@@ -4,27 +4,12 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 The transfer protocols and file specifications listed in this wiki are those which have current or future support by Thoth. Any updates are welcome at wp5@copim.ac.uk.
 
-## Object Data Formats
+### Object Data Formats
 
-* [[azx3]]
-* [[EPUB]]
-* [[html]]
-* [[MOBI]]
-* [[PDF]]
-* [[XML]]
+[[AZX3]]; [[EPUB]]; [[HTML]]; [[MOBI]]; [[PDF]]; [[XML]]
 
-## Object Metadata Formats
-* [[BIBFRAME 2.0]]*
-* [[BibTeX]]*
-* [[CSV]]*
-* [[EndNote]]
-* [[KBART]]*
-* [[MARC 21]]
-* [[MARCXML]]*
-* [[ONIX 2.1]]*
-* [[ONIX 3.0]]*
-* [[RefMan]]
-* [[XLSX]]
+### Object Metadata Formats
+[[BIBFRAME 2.0]]*; [[BibTeX]]*; [[CSV]]*; [[EndNote]]; [[KBART]]*; [[MARC 21]]; [[MARCXML]]*; [[ONIX 2.1]]*; [[ONIX 3.0]]*; [[RefMan]]; [[XLSX]]
 
 ## Maker Metadata Formats
 
