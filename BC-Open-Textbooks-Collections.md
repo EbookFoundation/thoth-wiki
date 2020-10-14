@@ -1,0 +1,5 @@
+ - https://open.bccampus.ca/browse-our-collection/suggestion-for-the-collection/
+ - File Transfer: online interface
+ - Content Files: Link
+ - Metadata Format: manually filling the information
+ - Other accepted metadata format: Info not available
