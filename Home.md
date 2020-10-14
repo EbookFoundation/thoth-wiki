@@ -4,7 +4,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 The transfer protocols and file specifications listed in this wiki are those which have current or future support by Thoth. Any updates are welcome at wp5@copim.ac.uk.
 
-### Object Data Formats
+## Data Formats
 
 * [[AZX3]]
 * [[EPUB]]
@@ -12,6 +12,8 @@ The transfer protocols and file specifications listed in this wiki are those whi
 * [[MOBI]]
 * [[PDF]]
 * [[XML]]
+
+## Metadata Formats
 
 ### Object Metadata Formats
 * [[BIBFRAME 2.0]]*
@@ -26,18 +28,22 @@ The transfer protocols and file specifications listed in this wiki are those whi
 * [[RefMan]]
 * [[XLSX]]
 
-## Maker Metadata Formats
-
+### Maker Metadata Formats
 * [[CreDiT]]*
 
 ## Persistent Identifiers
 
+### Object Identifiers
 * [[DOI]]
+
+### Institution Identifiers
 * [[Funder Registry]]*
-* [[ISNI]]*
 * [[RAiD]]*
 * [[ROR]]*
+
+### Maker Identifiers
 * [[ORCiD]]*
+* [[ISNI]]*
 
 ## Vendor Platforms
 
