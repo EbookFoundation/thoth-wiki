@@ -104,7 +104,7 @@ The transfer protocols and file specifications listed in this wiki are those whi
 * [[Unglue.it]]
 * [[Worldreader]]
 
-## DOI Assigning Entities
+## DOI Registration Agencies
 
 * [[CrossRef]]*
 * [[DataCite]]
