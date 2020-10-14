@@ -112,6 +112,12 @@ The transfer protocols and file specifications listed in this wiki are those whi
 
 ## OER
 
+* [[Open Textbooks]]
+* [[BC Open Textbooks Collections]]
+* [[OER Commons]]
+* [[Orange Grove Open Textbooks]]
+* [[Merlot]]
+
 To be organized:
 ## OER Distributors and Repositories
 
