@@ -1,1 +1,1 @@
-[DataCite](https://datacite.org/)
+[DataCite](https://datacite.org/) is a [[DOI]] registration agency.
