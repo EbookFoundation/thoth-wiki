@@ -1,0 +1,1 @@
+[EndNote](https://endnote.com/) is a commercial reference software package owned by Clarivate Analytics, which has a proprietary file format ENL to store metadata. 
