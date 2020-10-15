@@ -66,11 +66,12 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 Digital libraries acquire and maintain collections of digital objects. The table below summarizes the available platforms, also providing information on their governance structure; membership fees; type of ingest; what they provide; whether they feature OA and/or non-OA content; whether they are curated (in a loose sense of the word); and whether ingest happens via push (active upload by publisher) or through the exposition of the metadata of the object to a scraper.
 
-| Name                     | Governance    | Membership Fee| Ingest | Provides | OA | non-OA | Curated | Push/Expose |
+| Name                     | Governance    | Membership Fee| In     | Out      | OA | non-OA | Curated | Ingest      |
 |--------------------------|---------------|---------------|--------|----------|----|--------|---------|-------------|
 | [[JSTOR]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
 | [[Project MUSE]]*        | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
 | [[OAPEN]]*               | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | N       | Push        |
+| [[DOAB]]*                | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | N       | Push/Expose |
 | [[Internet Archive]]*    | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
 | [[Open Research Library]]| Commercial    | N             | Bk     | Bk       | Y  | N      | N       | Expose      |
 | [[Library Genesis]]*     | Pirate        | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
@@ -91,7 +92,6 @@ Digital libraries acquire and maintain collections of digital objects. The table
 ## Discovery Systems
 
 * [[Book Citation Index]]
-* [[DOAB]]*
 * [[EBSCOhost]]
 * [[Hathi Trust Digital Library]]
 
