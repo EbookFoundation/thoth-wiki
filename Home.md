@@ -66,24 +66,20 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 Digital libraries acquire and maintain collections of digital object, usually books and/or chapter. 
 
-| Name             | Governance    | Membership Fee| Ingest | Provides | OA | non-OA | Curated | Push/Expose |
-|------------------|---------------|---------------|--------|----------|----|--------|---------|-------------|
-| [[JSTOR]]*       | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Y       | Push        |
-| [[Project MUSE]]*| Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Y       | Push        |
+| Name                  | Governance    | Membership Fee| Ingest | Provides | OA | non-OA | Curated | Push/Expose |
+|-----------------------|---------------|---------------|--------|----------|----|--------|---------|-------------|
+| [[JSTOR]]*            | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
+| [[Project MUSE]]*     | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
+| [[OAPEN]]*            | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | N       | Push        |
+| [[Internet Archive]]* | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
 
 
-[[push]] [[metadata]]
+ 
 
-### Private
-
-* [[JSTOR]]*
-* 
 
 ### Public
 
-* [[OAPEN]]*
 * [[British Library]]*
-* [[Internet Archive]]*
 * [[Library of Congress]]*
 
 ### Pirate
