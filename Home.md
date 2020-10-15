@@ -56,6 +56,8 @@ DOI Registration Agencies
 
 ## Vendor Platforms
 
+[[push]] [[metadata]]
+
 * [[JSTOR]]*
 * [[OAPEN]]*
 * [[Project Muse]]*
@@ -98,6 +100,8 @@ DOI Registration Agencies
 * [[BibDesk]]
 
 ## Metadata Aggregators
+
+[[expose]] [[metadata]]
 
 * [[BDSLive]]*
 * [[EBSCO Knowledge Base (KB)]]*
