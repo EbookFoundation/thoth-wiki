@@ -1,0 +1,1 @@
+Hypertext Markup Language (HTML) is the standard markup language for documents design to be displayed in a web browser. The current version is [HTML 5.2](https://www.w3.org/TR/2017/REC-html52-20171214/) published by the W3C.
