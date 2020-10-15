@@ -97,10 +97,12 @@ DOI Registration Agencies
 * [[Amazon KDP]]*
 * [[Ingram Lightning Source]]
 
-## Bibliographic Management Software
+## Reference Management Software
 
-* [[Zotero]]*
 * [[BibDesk]]
+* [[Mendeley]]
+* [[Papers]]
+* [[Zotero]]*
 
 ## Metadata Aggregators
 
