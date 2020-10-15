@@ -1,0 +1,1 @@
+Extendable Markup Language (XML) is a markup language designed for both [[human-readable]] and [[machine-readable]] documents. XML is defined as a syntax, without fixed vocabulary. XML is also used as syntax for [[ONIX 3.0]] and [[MARCXML]] metadata records.
