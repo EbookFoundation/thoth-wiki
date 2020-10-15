@@ -62,7 +62,9 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 * [[ORCiD]]*
 * [[ISNI]]*
 
-## Digital Libraries
+## Libraries
+
+### Digital Libraries
 
 Digital libraries acquire and maintain collections of digital objects. The table below summarizes the available platforms, also providing information on their governance structure; membership fees; type of ingest; what they provide; whether they feature OA and/or non-OA content; whether they are curated (in a loose sense of the word); and whether ingest happens via push (active upload by publisher) or through the exposition of the metadata of the object to a scraper.
 
@@ -78,25 +80,17 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | [[Aaaaarg.fail]]*        | Pirate        | N             | Bk     | Bk       | Y  | Y      | Y       | Push        |
 | [[Memory of the World]]* | Pirate        | N             | Bk     | Bk       | Y  | Y      | Y       | Push        |
  
-
-
-
-### Public
+### National Libraries
 
 * [[British Library]]*
 * [[Library of Congress]]*
-
-### Pirate
-
 
 ## Discovery Systems
 
 * [[Book Citation Index]]
 * [[EBSCOhost]]
 * [[Hathi Trust Digital Library]]
-
 * [[ScienceOpen]]
-
 
 ## Library Management Platforms
 
@@ -120,8 +114,6 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[Zotero]]*
 
 ## Metadata Aggregators
-
-[[expose]] [[metadata]]
 
 * [[BDSLive]]*
 * [[EBSCO Knowledge Base (KB)]]*
