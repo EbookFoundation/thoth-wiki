@@ -8,7 +8,7 @@ The transfer protocols and file specifications listed in this wiki are those whi
 
 Data formats are the formats in which the textual content of an [[object]] are commonly digitally encoded. The Thoth project is agnostic as to which data format is used.
 
-* [[AZX3]]
+* [[AZW3]]
 * [[EPUB]]
 * [[HTML]]
 * [[MOBI]]
