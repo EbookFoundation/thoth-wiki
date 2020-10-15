@@ -24,6 +24,7 @@ Object metadata formats encode the metadata of [[objects]].
 
 * [[BIBFRAME 2.0]]*
 * [[BibTeX]]*
+* [[CreDiT]]*
 * [[CSV]]*
 * [[EndNote]]
 * [[KBART]]*
@@ -34,10 +35,6 @@ Object metadata formats encode the metadata of [[objects]].
 * [[RefMan]]
 * [[XLSX]]
 
-### Maker Metadata Formats
-Maker metadata formats encode the metadata of [[makers]]
-
-* [[CreDiT]]*
 
 ## Persistent Identifiers
 
