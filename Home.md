@@ -32,7 +32,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[RefMan]]
 * [[XLSX]]
 
-### Citations and Bibligraphies
+### Citations and Bibliographies
 
 * [[BibTeX]]*
 * [[CSL]]
