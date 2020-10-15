@@ -1,0 +1,1 @@
+AZW3 is a proprietary Amazon Kindle file format, supporting a subset of [[HTML]] and [[CSS]] features, acting like a container for a [[MOBI]] file. It is has been superseded by [[KFX]].
