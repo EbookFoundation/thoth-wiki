@@ -11,6 +11,7 @@ Data formats are the formats in which the textual content of an [[object]] are c
 * [[AZW3]]
 * [[EPUB]]
 * [[HTML]]
+* [[JSON]]
 * [[KFX]]
 * [[MOBI]]
 * [[PDF]]
