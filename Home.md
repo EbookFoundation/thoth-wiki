@@ -51,6 +51,7 @@ DOI Registration Agencies
 
 ### Institution Identifiers
 * [[Funder Registry]]*
+* [[GRID]]
 * [[ROR]]*
 
 ### Project Identifiers
