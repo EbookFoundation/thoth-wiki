@@ -10,3 +10,5 @@
 * Chapter support: No
 
 OAPEN provides guidelines for [uploading books and metadata](https://cloud.copim.ac.uk/s/C7KPbNDaLwJcfL5) and a [sample ONIX 3.0 file](https://cloud.copim.ac.uk/s/PjxsDr7TbjxGgPJ).
+
+OAPEN provides multiple [metadata feeds](https://oapen.org/librarians/15635975-metadata), including [[MARCXML]], [[ONIX 3.0]], and [[CSV]].
