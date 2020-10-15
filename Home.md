@@ -64,15 +64,15 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 ## Digital Libraries
 
-Digital libraries acquire and maintain collections of digital object, usually books and/or chapter. 
+Digital libraries acquire and maintain collections of digital objects. The table below summarizes the available platforms, also providing information on their governance structure; membership fees; type of ingest; what they provide; whether they feature OA and/or non-OA content; whether they are curated (whether a librarian manually accepts or rejects ingested objects); and whether ingest happens via push (active upload by publisher) or through the exposition of the metadata of the object to a scraper.
 
-| Name                  | Governance    | Membership Fee| Ingest | Provides | OA | non-OA | Curated | Push/Expose |
-|-----------------------|---------------|---------------|--------|----------|----|--------|---------|-------------|
-| [[JSTOR]]*            | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
-| [[Project MUSE]]*     | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
-| [[OAPEN]]*            | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | N       | Push        |
-| [[Internet Archive]]* | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
-
+| Name                     | Governance    | Membership Fee| Ingest | Provides | OA | non-OA | Curated | Push/Expose |
+|--------------------------|---------------|---------------|--------|----------|----|--------|---------|-------------|
+| [[JSTOR]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
+| [[Project MUSE]]*        | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
+| [[OAPEN]]*               | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | N       | Push        |
+| [[Internet Archive]]*    | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
+| [[Open Research Library]]| Commercial    | N             | Bk     | Bk       | Y  | N      | N       | Expose      |
 
  
 
@@ -94,7 +94,7 @@ Digital libraries acquire and maintain collections of digital object, usually bo
 * [[DOAB]]*
 * [[EBSCOhost]]
 * [[Hathi Trust Digital Library]]
-* [[Open Research Library]]
+
 * [[ScienceOpen]]
 
 
