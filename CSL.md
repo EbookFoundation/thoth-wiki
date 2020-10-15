@@ -1,1 +1,1 @@
-Citation Style Language (CSL) format is an open format for saving citations and bibliographies, used by [[Zotero]], [[Mendeley]], and [[Papers]]. More information available on the [CSL GitHub](https://github.com/citation-style-language).
+Citation Style Language (CSL) format is an [[open]] file format for saving citations and bibliographies, used by [[Zotero]], [[Mendeley]], and [[Papers]]. More information available on the [CSL GitHub](https://github.com/citation-style-language).
