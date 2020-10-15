@@ -1,0 +1,1 @@
+PDF is [[human-readable]] file format developed by Adobe in 1993. It is based on Postscript and encodes the appearance of information on a printed page, as such it contains a complete description of layout and typography. There are multiple PDF extensions, with PDF/A being the preferred format for long-term preservation. 
