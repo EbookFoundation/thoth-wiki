@@ -38,13 +38,14 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[EndNote]]
 * [[RefMan]]
 
-
 ## Persistent Identifiers
+
+Persistent identifiers allow the unique identification of an [[object]] such as a book or chapter, institution, project, or [[maker]].
 
 ### Object Identifiers
 * [[DOI]]
 
-DOI Registration Agencies
+#### DOI Registration Agencies
 * [[CrossRef]]*
 * [[DataCite]]
 * [[EZID]]
@@ -61,13 +62,29 @@ DOI Registration Agencies
 * [[ORCiD]]*
 * [[ISNI]]*
 
-## Vendor Platforms
+## Digital Libraries
+
+Digital libraries acquire and maintain collections of digital object, usually books and/or chapter
 
 [[push]] [[metadata]]
 
+### Commercial
+
 * [[JSTOR]]*
-* [[OAPEN]]*
 * [[Project Muse]]*
+
+### Non-profit
+
+* [[OAPEN]]*
+
+### Public
+
+* [[Aaaaarg.fail]]*
+* [[British Library]]*
+* [[Internet Archive]]*
+* [[Library Genesis]]*
+* [[Library of Congress]]*
+* [[Memory of the World]]*
 
 ## Discovery Systems
 
@@ -78,14 +95,6 @@ DOI Registration Agencies
 * [[Open Research Library]]
 * [[ScienceOpen]]
 
-## Public Libraries
-
-* [[Aaaaarg.fail]]*
-* [[British Library]]*
-* [[Internet Archive]]*
-* [[Library Genesis]]*
-* [[Library of Congress]]*
-* [[Memory of the World]]*
 
 ## Library Management Platforms
 
