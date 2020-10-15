@@ -6,6 +6,8 @@ The transfer protocols and file specifications listed in this wiki are those whi
 
 ## Data Formats
 
+Data formats are the formats in which the textual content of an [[object]] are commonly digitally encoded. The Thoth project is agnostic as to which data format is used.
+
 * [[AZX3]]
 * [[EPUB]]
 * [[HTML]]
@@ -15,7 +17,11 @@ The transfer protocols and file specifications listed in this wiki are those whi
 
 ## Metadata Formats
 
+Metadata formats are the formats in which the [[metadata]] of an [[object]] are stored. Metadata formats have been developed both as part of software packages or as consortial standards. Different stakeholders in the scholcomm pipeline use different metadata format for different purposes. Moreover, different stakeholders maintain different subsets of the metadata potentially contained in specific formats. Thoth aims for a holistic approach, being able to export as many formats in as many flavors as possible.
+
 ### Object Metadata Formats
+Object metadata formats encode the metadata of [[objects]].
+
 * [[BIBFRAME 2.0]]*
 * [[BibTeX]]*
 * [[CSV]]*
@@ -29,6 +35,8 @@ The transfer protocols and file specifications listed in this wiki are those whi
 * [[XLSX]]
 
 ### Maker Metadata Formats
+Maker metadata formats encode the metadata of [[makers]]
+
 * [[CreDiT]]*
 
 ## Persistent Identifiers
