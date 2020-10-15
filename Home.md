@@ -24,6 +24,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[BIBFRAME 2.0]]*
 * [[BibTeX]]*
 * [[CreDiT]]*
+* [[CSL]]
 * [[CSV]]*
 * [[EndNote]]
 * [[KBART]]*
