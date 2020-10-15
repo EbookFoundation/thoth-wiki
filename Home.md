@@ -64,26 +64,32 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 ## Digital Libraries
 
-Digital libraries acquire and maintain collections of digital object, usually books and/or chapter
+Digital libraries acquire and maintain collections of digital object, usually books and/or chapter. 
+
+| Name       | Governance | Ingest | Provides | OA | non-OA | Curated | Push/Expose |
+|------------|------------|--------|----------|----|--------|---------|-------------|
+| [[JSTOR]]* | Private    | Bk     | Bk/Ch    | X  | X      | X       | Push        |
+
+
 
 [[push]] [[metadata]]
 
-### Commercial
+### Private
 
 * [[JSTOR]]*
 * [[Project Muse]]*
 
-### Non-profit
-
-* [[OAPEN]]*
-
 ### Public
 
-* [[Aaaaarg.fail]]*
+* [[OAPEN]]*
 * [[British Library]]*
 * [[Internet Archive]]*
-* [[Library Genesis]]*
 * [[Library of Congress]]*
+
+### Pirate
+
+* [[Aaaaarg.fail]]*
+* [[Library Genesis]]*
 * [[Memory of the World]]*
 
 ## Discovery Systems
