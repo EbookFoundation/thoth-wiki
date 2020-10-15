@@ -1,0 +1,1 @@
+The [Global Research Identifier Database](https://grid.ac/) (GRID) is an [[open]] database of unique identifiers for research institutions. The database is licensed under CC0 license.
