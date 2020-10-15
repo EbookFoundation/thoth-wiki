@@ -1,0 +1,1 @@
+EPUB is an ebook file format published by the International Digital Publishing Forum. It is supported by a variety of e-readers. The most recent release is [EPUB 3.2](https://www.w3.org/publishing/epub3/epub-spec.html).
