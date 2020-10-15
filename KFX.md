@@ -1,0 +1,1 @@
+KFX is proprietary file format used by Amazon Kindle. For more info see the [Mobileread Wiki](https://wiki.mobileread.com/wiki/KFX).
