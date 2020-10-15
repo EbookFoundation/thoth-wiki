@@ -1,0 +1,1 @@
+Originally created by the French company Mobipocket, MOBI was a file format for ebooks. The company was acquired by Amazon, which then used MOBI as basis for its [[AZW3]] file format. Support and development of MOBI has ended.
