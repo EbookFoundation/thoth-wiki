@@ -76,10 +76,11 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | [[DOAB]]*                | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | N       | Push/Expose |
 | [[Internet Archive]]*    | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
 | [[Open Research Library]]| Commercial    | N             | Bk     | Bk       | Y  | N      | N       | Expose      |
+| [[EBSCO ebooks]]         | Commercial    | Y             | Bk     | Bk       | Y  | Y      | Y       | Push        |
 | [[Library Genesis]]*     | Pirate        | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
 | [[Aaaaarg.fail]]*        | Pirate        | N             | Bk     | Bk       | Y  | Y      | Y       | Push        |
 | [[Memory of the World]]* | Pirate        | N             | Bk     | Bk       | Y  | Y      | Y       | Push        |
- 
+
 ### National Libraries
 
 * [[British Library]]*
@@ -87,11 +88,12 @@ Digital libraries acquire and maintain collections of digital objects. The table
 
 ## Citation Indexes/Discovery Platforms
 
+* [[Scopus]]
+* [[Web of Science]]
+
 * [[EBSCOhost]]
 * [[Hathi Trust Digital Library]]
 * [[ScienceOpen]]
-* [[Scopus]]
-* [[Web of Science]]
 
 ## Publishing Platforms
 
