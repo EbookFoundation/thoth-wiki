@@ -99,6 +99,13 @@ Citation Indexes and Discovery Platforms are  search engines built on top of spe
 
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
+## Metadata Aggregators
+
+* [[BDSLive]]*
+* [[Ex Libris]]
+* [[OCLC]]
+* [[ProQuest 360 Core]]
+
 ## Publishing Platforms
 
 * [[Fulcrum]]
@@ -121,14 +128,6 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 * [[Mendeley]]
 * [[Papers]]
 * [[Zotero]]*
-
-## Metadata Aggregators
-
-* [[BDSLive]]*
-* [[Ex Libris]]
-* [[Library Hub Discover]]*
-* [[OCLC]]
-* [[ProQuest 360 Core]]
 
 ## Ebook Distributors
 
