@@ -1,4 +1,4 @@
-[Scopus](https://www.scopus.com), owned by RELX/Reed Elsevier, is an abstract and citation database. Scopus has a [title suggestion interface](https://suggestor.step.scopus.com/suggestTitle/step1.cfm). 
+[Scopus](https://www.scopus.com), owned by RELX/Reed Elsevier, is an abstract and citation database. Scopus has a [title suggestion interface](https://suggestor.step.scopus.com/suggestTitle/step1.cfm) for the upload of single books and metadata through a custom form.
 
 ## Scopus content policy
 
