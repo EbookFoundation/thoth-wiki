@@ -1,7 +1,6 @@
 [Issue 100](https://github.com/thoth-pub/thoth/issues/100)
 
-[BDSLive](https://www.bdslive.com/)
+[BDSLive](https://www.bdslive.com/) is a commercial metadata aggregator. Metadata upload instructions are provided (here)[https://www.bdslive.com/publishers/upload-your-metadata/].
 
 * File transfer: via email
-* Metadata format: [[XLSX]]
-* Other accepted formats: Info not available. According to https://www.bdslive.com/data/benefits-standards-delivery/ they accept a variety of standards so worth getting in touch.
+* Metadata format: [[ONIX 3.0]]
