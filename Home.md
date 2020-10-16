@@ -70,17 +70,18 @@ Digital libraries acquire and maintain collections of digital objects. The table
 
 | Name                            | Governance    | Membership Fee| In     | Out      | OA | non-OA | Ingest      |
 |---------------------------------|---------------|---------------|--------|----------|----|--------|-------------|
-| [[JSTOR]]*                      | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
-| [[Project MUSE]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
-| [[OAPEN]]*                      | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | Push        |
-| [[DOAB]]*                       | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | Push/Expose |
-| [[Internet Archive]]*           | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | Push        |
-| [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Bk     | Bk       | Y  | N      | Push        |
-| [[Open Research Library]]       | Commercial    | N             | Bk     | Bk       | Y  | N      | Expose      |
-| [[EBSCO ebooks]]*               | Commercial    | Y             | Bk     | Bk       | Y  | Y      | Push        |
-| [[Library Genesis]]*            | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
 | [[Aaaaarg.fail]]*               | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
+| [[DOAB]]*                       | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | Push/Expose |
+| [[EBSCO ebooks]]*               | Commercial    | Y             | Bk     | Bk       | Y  | Y      | Push        |
+| [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Bk     | Bk       | Y  | N      | Push        |
+| [[Internet Archive]]*           | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | Push        |
+| [[JSTOR]]*                      | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
+| [[Library Genesis]]*            | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
 | [[Memory of the World]]*        | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
+| [[OAPEN]]*                      | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | Push        |
+| [[Open Research Library]]       | Commercial    | N             | Bk     | Bk       | Y  | N      | Expose      |
+| [[Project MUSE]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
+
 
 ### National Libraries
 
