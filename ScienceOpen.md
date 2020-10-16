@@ -1,0 +1,1 @@
+[ScienceOpen](https://www.scienceopen.com/) is a discovery platform for scholarly research. Its database is openly accessible to users, but is solely focused on articles.
