@@ -92,10 +92,6 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[Hathi Trust Digital Library]]
 * [[ScienceOpen]]
 
-## Library Management Platforms
-
-* [[Folio]]
-
 ## Publishing Platforms
 
 * [[Fulcrum]]
@@ -106,7 +102,13 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[Amazon KDP]]*
 * [[Ingram Lightning Source]]
 
-## Reference Management Software
+## Catalog Management Platforms
+
+### Institutional
+
+* [[Folio]]
+
+### Individual
 
 * [[BibDesk]]
 * [[Mendeley]]
