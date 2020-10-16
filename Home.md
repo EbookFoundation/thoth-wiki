@@ -125,7 +125,6 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
 * [[BDSLive]]*
 * [[Ex Libris]]
-* [[Jisc Knowledge Base]]
 * [[Library Hub Discover]]*
 * [[OCLC]]
 * [[ProQuest 360 Core]]
