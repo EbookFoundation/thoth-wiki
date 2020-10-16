@@ -101,7 +101,7 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
 ## Metadata Aggregators
 
-Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building.
+Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
 
 * [[BDSLive]]*
 * [[Ex Libris]]
