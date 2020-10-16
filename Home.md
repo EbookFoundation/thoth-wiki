@@ -93,8 +93,8 @@ Digital libraries acquire and maintain collections of digital objects. The table
 Citation Indexes and Discovery Platforms are commercial search engines built on top of specific publication databases tailored toward researches. 
 
 * [[ScienceOpen]]
-* [[Scopus]]
-* [[Web of Science]]
+* [[Scopus]] (RELX)
+* [[Web of Science]] (Clarivate)
 
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
