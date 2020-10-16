@@ -97,6 +97,7 @@ Citation Indexes and Discovery Platforms are  search engines built on top of spe
 * [[ScienceOpen]]
 * [[Scopus]] (RELX)
 * [[Web of Science]] (Clarivate)
+* [[WorldCat Discovery]]* (OCLC)
 
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
@@ -105,7 +106,6 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
 
 * [[BDSLive]]*
-* [[OCLC]]
 * [[ProQuest 360 Core]]
 
 ## Publishing Platforms
