@@ -1,1 +1,3 @@
-[Hathi Trust Digital Library](https://www.hathitrust.org/) is a not-for-profit collaborative of academic and research libraries preserving 17+ million digitized items. 
+[Hathi Trust Digital Library](https://www.hathitrust.org/) is a not-for-profit collaborative of academic and research libraries preserving 17+ million digitized items. The process of getting content into the Hath Trust Digital Library is described [here](https://www.hathitrust.org/ingest).
+
+Metadata in [[MARCXML]] ingest happens through Zephir, and the process is documented [here](https://docs.google.com/document/d/1tpGWJsD7hb9ZeVtMDXDl_vJM6ioyDG4UXtoHUb72ReQ/edit).
