@@ -92,7 +92,7 @@ Digital libraries acquire and maintain collections of digital objects. The table
 
 Citation Indexes and Discovery Platforms are  search engines built on top of specific publication databases tailored toward researches. 
 
-* [[Library Hub Discover]] (Jisc)
+* [[Library Hub Discover]]* (Jisc)
 * [[ScienceOpen]]
 * [[Scopus]] (RELX)
 * [[Web of Science]] (Clarivate)
