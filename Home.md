@@ -85,12 +85,13 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[British Library]]*
 * [[Library of Congress]]*
 
-## Discovery Systems
+## Citation Indexes/Discovery Platforms
 
-* [[Book Citation Index]]
 * [[EBSCOhost]]
 * [[Hathi Trust Digital Library]]
 * [[ScienceOpen]]
+* [[Scopus]]
+* [[Web of Science]]
 
 ## Publishing Platforms
 
