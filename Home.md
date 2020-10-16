@@ -66,20 +66,21 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 ### Digital Libraries
 
-Digital libraries acquire and maintain collections of digital objects. The table below summarizes the available platforms, also providing information on their governance structure; membership fees; type of ingest; what they provide; whether they feature OA and/or non-OA content; whether they are curated (in a loose sense of the word); and whether ingest happens via push (active upload by publisher) or through the exposition of the metadata of the object to a scraper.
+Digital libraries acquire and maintain collections of digital objects. The table below summarizes the available platforms, also providing information on their governance structure; membership fees; type of ingest; what they provide; whether they feature OA and/or non-OA content; and whether ingest happens via push (active upload by publisher) or through the exposition of the metadata of the object to a scraper.
 
-| Name                     | Governance    | Membership Fee| In     | Out      | OA | non-OA | Curated | Ingest      |
-|--------------------------|---------------|---------------|--------|----------|----|--------|---------|-------------|
-| [[JSTOR]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
-| [[Project MUSE]]*        | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | N       | Push        |
-| [[OAPEN]]*               | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | N       | Push        |
-| [[DOAB]]*                | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | N       | Push/Expose |
-| [[Internet Archive]]*    | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
-| [[Open Research Library]]| Commercial    | N             | Bk     | Bk       | Y  | N      | N       | Expose      |
-| [[EBSCO ebooks]]*        | Commercial    | Y             | Bk     | Bk       | Y  | Y      | Y       | Push        |
-| [[Library Genesis]]*     | Pirate        | N             | Bk     | Bk       | Y  | Y      | N       | Push        |
-| [[Aaaaarg.fail]]*        | Pirate        | N             | Bk     | Bk       | Y  | Y      | Y       | Push        |
-| [[Memory of the World]]* | Pirate        | N             | Bk     | Bk       | Y  | Y      | Y       | Push        |
+| Name                            | Governance    | Membership Fee| In     | Out      | OA | non-OA | Ingest      |
+|---------------------------------|---------------|---------------|--------|----------|----|--------|-------------|
+| [[JSTOR]]*                      | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
+| [[Project MUSE]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
+| [[OAPEN]]*                      | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | Push        |
+| [[DOAB]]*                       | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | Push/Expose |
+| [[Internet Archive]]*           | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | Push        |
+| [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Bk     | Bk       | Y  | N      | Push        |
+| [[Open Research Library]]       | Commercial    | N             | Bk     | Bk       | Y  | N      | Expose      |
+| [[EBSCO ebooks]]*               | Commercial    | Y             | Bk     | Bk       | Y  | Y      | Push        |
+| [[Library Genesis]]*            | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
+| [[Aaaaarg.fail]]*               | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
+| [[Memory of the World]]*        | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
 
 ### National Libraries
 
@@ -93,8 +94,6 @@ Citation Indexes and Discovery Platforms are commercial search engines built on 
 * [[ScienceOpen]]
 * [[Scopus]]
 * [[Web of Science]]
-
-* [[Hathi Trust Digital Library]]
 
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
