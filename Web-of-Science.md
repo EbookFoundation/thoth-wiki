@@ -1,6 +1,1 @@
-The [Book Citation Index](http://wokinfo.com/products_tools/multidisciplinary/bookcitationindex/) is part of Clarivate's Web of Science
-
-* File transfer: [[FTP]]
-* Cover file:
-* Content files: [[PDF]]
-* Metadata format: [[XLSX]]
+Clarivate's Web of Science citation index and "research intelligence platform" uses the so-called [Book Citation Index](http://wokinfo.com/products_tools/multidisciplinary/bookcitationindex/) as its index of citation.
