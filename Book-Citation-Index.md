@@ -1,4 +1,4 @@
-Clarivate Web of Science [Book Citation Index](http://wokinfo.com/products_tools/multidisciplinary/bookcitationindex/) 
+The [Book Citation Index](http://wokinfo.com/products_tools/multidisciplinary/bookcitationindex/) is part of Clarivate's Web of Science
 
 * File transfer: [[FTP]]
 * Cover file:
