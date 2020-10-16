@@ -1,7 +1,6 @@
 [Scopus](https://www.scopus.com), owned by RELX/Reed Elsevier, is an abstract and citation database. Scopus has a [title suggestion interface](https://suggestor.step.scopus.com/suggestTitle/step1.cfm). 
 
-
-Scopus content policy as regards book publication is outlined [here](https://www.elsevier.com/solutions/scopus/how-scopus-works/content/content-policy-and-selection).
+Scopus content policy as regards book publication is outlined [here](https://www.elsevier.com/solutions/scopus/how-scopus-works/content/content-policy-and-selection):
 
 > Scopus covers scholarly books that represent fully-referenced, original research or literature reviews.
 
