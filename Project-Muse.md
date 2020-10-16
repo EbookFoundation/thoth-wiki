@@ -9,7 +9,9 @@
 * Content files: [[PDF]], [[EPUB]]
 * Chapter support: Yes
 
-For metadata uploads in [[XLSX]] there is a [proprietary template](https://about.muse.jhu.edu/media/uploads/metadata_submission_template.xls).
+For metadata uploads in [[XLSX]] there is a [proprietary template](https://about.muse.jhu.edu/media/uploads/metadata_submission_template.xls). They also provided a [sample ONIX 3.0 file](https://cloud.copim.ac.uk/s/tWfeyRH7bi9reHa).
+
+Project MUSE exposes a [[KBART]] [file](https://about.muse.jhu.edu/lib/metadata?format=kbart&content=book&no_auth=1&collection_ids=726) of its OA holdings
 
 ## Metadata Requirements
 
