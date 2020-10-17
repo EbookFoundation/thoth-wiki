@@ -29,7 +29,8 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[MARCXML]]*
 * [[ONIX 2.1]]*
 * [[ONIX 3.0]]*
-* [[RDF/XML]]
+* [[RDF]]
+** [[RDF/XML]]
 * [[XLSX]]
 
 ### Citations and Bibliographies
