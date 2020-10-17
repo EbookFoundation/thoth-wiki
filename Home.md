@@ -81,7 +81,7 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | [[Memory of the World]]*        | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
 | [[OAPEN]]*                      | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | Push        |
 | [[Open Research Library]]       | Commercial    | N             | Bk     | Bk       | Y  | N      | Expose      |
-| [[OpenTexts.World]]             | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | ??          |
+| [[OpenTexts.World]]             | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | Push        |
 | [[Project MUSE]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
 
 
