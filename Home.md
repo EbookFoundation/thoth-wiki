@@ -30,7 +30,8 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[ONIX 2.1]]*
 * [[ONIX 3.0]]*
 * [[RDF]]
-** [[RDF/XML]]
+* [[RDF/XML]]
+* [[Turtle]]
 * [[XLSX]]
 
 ### Citations and Bibliographies
