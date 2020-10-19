@@ -106,11 +106,11 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
 Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
 
-| Name                            | Governance    | Membership Fee| In     | Out      | OA | non-OA | Ingest      |
-|---------------------------------|---------------|---------------|--------|----------|----|--------|-------------|
-| [[BDSLive]]*
-| [[DOAB]]*                       | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | Push/Expose |
-| [[ProQuest 360 Core]]
+| Name                            | Governance    | Membership Fee| In       | Out      | OA | non-OA | Ingest      |
+|---------------------------------|---------------|---------------|----------|----------|----|--------|-------------|
+| [[BDSLive]]*                    | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      |             |
+| [[DOAB]]*                       | Non-Profit    | N?            | Bk       | Bk       | Y  | N      | Push/Expose |
+| [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      |             |
 
 ## Publishing Platforms
 
