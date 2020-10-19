@@ -108,9 +108,9 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 
 | Name                            | Governance    | Membership Fee| In       | Out      | OA | non-OA | Ingest      |
 |---------------------------------|---------------|---------------|----------|----------|----|--------|-------------|
-| [[BDSLive]]*                    | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      |             |
+| [[BDSLive]]*                    | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
 | [[DOAB]]*                       | Non-Profit    | N?            | Bk       | Bk       | Y  | N      | Push/Expose |
-| [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      |             |
+| [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
 
 ## Publishing Platforms
 
