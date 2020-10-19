@@ -158,4 +158,6 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 ## Archiving Platforms
 
 * [[Internet Archive – Wayback Machine]]
+* [[LOCKSS]]
+* [[Portico]]
 * [[Zenodo]]
