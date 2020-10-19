@@ -72,7 +72,6 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | Name                            | Governance    | Membership Fee| In     | Out      | OA | non-OA | Ingest      |
 |---------------------------------|---------------|---------------|--------|----------|----|--------|-------------|
 | [[Aaaaarg.fail]]*               | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
-| [[DOAB]]*                       | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | Push/Expose |
 | [[EBSCO ebooks]]*               | Commercial    | Y             | Bk     | Bk       | Y  | Y      | Push        |
 | [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Bk     | Bk       | Y  | N      | Push        |
 | [[Internet Archive]]*           | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | Push        |
@@ -107,8 +106,11 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
 Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
 
-* [[BDSLive]]*
-* [[ProQuest 360 Core]]
+| Name                            | Governance    | Membership Fee| In     | Out      | OA | non-OA | Ingest      |
+|---------------------------------|---------------|---------------|--------|----------|----|--------|-------------|
+| [[BDSLive]]*
+| [[DOAB]]*                       | Non-Profit    | N?            | Bk     | Bk       | Y  | N      | Push/Expose |
+| [[ProQuest 360 Core]]
 
 ## Publishing Platforms
 
