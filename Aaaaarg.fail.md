@@ -9,3 +9,6 @@
 * Chapter support: No
 
 ![Aaaaarg.fail Upload Interface](https://punctumbooks.com/punctum/wp-content/uploads/2020/10/Screenshot-2020-10-15-at-14.33.00.png)
+
+There used to be command line bulk upload function, which is no longer maintained and it's unclear if it still works. See 
+https://github.com/metadada/aaaarg-python
