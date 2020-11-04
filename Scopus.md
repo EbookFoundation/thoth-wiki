@@ -30,3 +30,14 @@ Scopus content policy as regards book publication is outlined [here](https://www
 * Quality of published book content
 
 > A dedicated team will manually review all suggested books one time per year, during the summer. All suggested books will be evaluated based upon the above described selection criteria. Scopus will contact books publisher with the outcome of the books evaluation.
+
+## Necessary metadata fields
+
+> Our workflow is indeed designed at the front end to handle uploads in batch formats in an automated manner for the certified publishers (content providers). The critical XML fields that need to be extracted automatically are:
+
+* BIC or BISAC
+* Book level description 
+* Book type
+* Book Audience
+* All available ISBN’s
+* All available DOIs 
