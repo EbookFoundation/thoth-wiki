@@ -46,11 +46,16 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 ### Object Identifiers
 * [[DOI]]
+* [[ISBN]]
 
 #### DOI Registration Agencies
 * [[CrossRef]]*
 * [[DataCite]]
 * [[EZID]]
+
+### ISBN Registration Agencies
+
+* [[Bowker]]
 
 ### Institution Identifiers
 * [[Funder Registry]]*
