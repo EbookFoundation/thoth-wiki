@@ -37,7 +37,7 @@ Scopus content policy as regards book publication is outlined [here](https://www
 
 * BIC or BISAC
 * Book level description 
-* Book type
-* Book Audience
+* Book type: Monographs, edited volumes, major reference works, graduate level text books
+* Book Audience: follows [[Bowker]] ISBN categories
 * All available ISBN’s
 * All available DOIs 
