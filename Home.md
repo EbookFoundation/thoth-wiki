@@ -53,7 +53,7 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 * [[DataCite]]
 * [[EZID]]
 
-### ISBN Registration Agencies
+#### ISBN Registration Agencies
 
 * [[Bowker]]
 
