@@ -167,3 +167,12 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 * [[LOCKSS]]
 * [[Portico]]
 * [[Zenodo]]
+
+---
+
+`@vincent - just leaving these here as I'm not sure where to put them [Toby]`
+
+## OER Meta Search engines
+
+ - Openly Available Sources Integrated Search (OASIS) - https://oasis.geneseo.edu/
+ - Mason OER Metafinder - https://mom.gmu.edu/
