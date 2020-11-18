@@ -3,3 +3,5 @@
  - Content Files: Link
  - Metadata Format: manually filling the information
  - Other accepted metadata format: Info not available
+ - https://open.umn.edu/opentextbooks/discovery -- [MARC Record batch](https://open.umn.edu/opentextbooks/download.marc), [csv](https://open.umn.edu/opentextbooks/download.csv)
+ - JSON API: [specification document](https://open.umn.edu/opentextbooks/OTL-API.pdf)
