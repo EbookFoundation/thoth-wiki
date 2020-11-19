@@ -97,7 +97,9 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[Library of Congress]]*
 
 
-## Catalog Management Platforms
+## Bibliographic Reference Management Platforms
+
+All currently available bibliographic management platforms support import from [[BibTeX]] and [[RIS]]. Overall, these appear to be the two major formats.
 
 | Name             | Target User   | Type        | [[BibTeX]] | [[RIS]] |
 | :---             | :---          | :---        | :---       | :---    |
@@ -106,8 +108,8 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | [[Biblioscape]]  | Individual    | Commercial  | Y | Y |
 | [[Bibus]]        | Individual    | Open Source | ? | ? |
 | [[Citavi]]       | Individual    | Commercial  | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_bibtex_file.html) | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_ris_file.html)|
-| [[EndNote]]      | Individual    | Commercial  | N | [Y](https://support.clarivate.com/Endnote/s/article/EndNote-Importing-RIS-files-and-associating-them-with-EndNote?language=en_US)| 
-| [[Folio]]        | Institutional | Commercial  | | |
+| [[EndNote]]      | Individual    | Commercial  | ? | [Y](https://support.clarivate.com/Endnote/s/article/EndNote-Importing-RIS-files-and-associating-them-with-EndNote?language=en_US)| 
+| [[Folio]]        | Institutional | Open Source | ? | ? |
 | [[Mendeley]]     | Individual    | Commercial  | [Y](https://guides.libraries.psu.edu/mendeley/add)| [Y](https://guides.libraries.psu.edu/mendeley/add)|
 | [[Papers]]       | Individual    | Commercial  | [Y](https://support.papersapp.com/support/solutions/articles/30000026491-how-do-i-import-from-another-reference-manager-endnote-mendeley-zotero-refworks-reference-manager-) | Y |
 | [[RefWorks]]     | Individual    | Commercial  | ? | [Y](https://knowledge.exlibrisgroup.com/RefWorks/Legacy_RefWorks/03Get_References/020Converting_from_Other_Bibliographic_Management_Programs) |
