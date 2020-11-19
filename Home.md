@@ -179,6 +179,8 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 * [[OER Commons]]
 * [[Orange Grove Open Textbooks]]
 * [[Merlot]]
+* [[OASIS]]
+* [[Mason OER Metafinder]]
 
 ## Archiving Platforms
 
