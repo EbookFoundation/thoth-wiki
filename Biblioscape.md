@@ -1,0 +1,1 @@
+Biblioscape is an add-on to Microsoft Word for bibliographical management. User guide [here](https://cloud.copim.ac.uk/s/PZ8z5bLSg6Xb9L8).
