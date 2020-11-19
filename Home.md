@@ -178,13 +178,10 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
 | :---                            | :---          | :---          |:---|:---    |:---         |
+| [[BCcampus OpenEd]]             | Public        | N             | Y  | N      | Push |
+| [[Merlot]]                      | Public        | Y             | Y  | N      | Push | 
 | [[OER Commons]]                 | Non-Profit    | Y             | Y  | N      | Push |
-
-* [[Open Textbooks]]
-* [[BC Open Textbooks Collections]]
-* [[Orange Grove Open Textbooks]]
-* [[Merlot]]
-
+| [[Open Textbook Library]]       | Non-Profit    | N             | Y  | N      | Push | 
 
 ### OER Citation Indexes/Discovery Platforms
 
