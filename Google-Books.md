@@ -1,1 +1,0 @@
-[Issue 72](https://github.com/thoth-pub/thoth/issues/72)
