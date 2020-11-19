@@ -1,0 +1,1 @@
+Papers is a commercial reference management software package. It can import [[BibTeX]] files. Usage guide [here](https://cloud.copim.ac.uk/s/MWdPWzbGc59YTxE).
