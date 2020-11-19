@@ -1,4 +1,5 @@
- - https://open.umn.edu/opentextbooks
+ [Open Textbook Library](https://open.umn.edu/opentextbooks) is a library of open textbooks. 
+
  - File Transfer: We send links to new titles via email to our contact at UMN 
  - Content Files: Link
  - Metadata Format: manually filling the information
