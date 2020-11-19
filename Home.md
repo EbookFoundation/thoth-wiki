@@ -19,7 +19,7 @@ Data formats are the formats in which the textual content of an [[object]] are c
 
 ## Metadata Formats
 
-Metadata formats are the formats in which the [[metadata]] of an [[object]] are stored. Metadata formats have been developed both as part of software packages or as consortial standards. Different stakeholders in the [[scholcomm pipeline]] use different metadata format for different purposes. Moreover, different stakeholders maintain different subsets of the metadata potentially contained in specific formats. Thoth aims for a holistic approach, being able to export as many formats in as many flavors as possible.
+Metadata formats are the formats in which the [[metadata]] of an [[object]] are stored. Metadata formats have been developed both as part of software packages or as consortial standards. Different stakeholders in the [[scholcomm pipeline]] use different metadata format for different purposes. Moreover, different stakeholders maintain different subsets of the metadata potentially contained in specific formats. Thoth aims for a holistic approach, being able to export as many formats in as many flavors as possible. Overall, it appears that a combination of the formats [[CSV]], [[ONIX 3.0]], [[MARCXML]], and [[KBART]] should cover all possible use cases.
 
 * [[BIBFRAME 2.0]]*
 * [[CreDiT]]*
