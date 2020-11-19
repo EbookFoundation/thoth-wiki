@@ -142,6 +142,8 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 * [[Web of Science]] (Clarivate)
 * [[WorldCat Discovery]]* (OCLC)
 
+`add also references from https://musingsaboutlibrarianship.blogspot.com/2020/11/more-new-search-discovery-apps-fatcat.html`
+
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
 ## Ebook Distributors
