@@ -142,11 +142,11 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 * [[Web of Science]] (Clarivate)
 * [[WorldCat Discovery]]* (OCLC)
 
-`add also references from https://musingsaboutlibrarianship.blogspot.com/2020/11/more-new-search-discovery-apps-fatcat.html`
+`add also references from https://musingsaboutlibrarianship.blogspot.com/2020/11/more-new-search-discovery-apps-fatcat.html and https://musingsaboutlibrarianship.blogspot.com/2020/11/the-next-generation-discovery-citation.html`
 
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
-## Ebook Distributors
+## Ebook Distributors 
 
 Ebook distributors differ from Digital Libraries in the sense that they do not claim to offer a scholarly function, be that to research institutions or to the general public. Most ebook distributors operate some form of monetization scheme, which may not be hospitable to OA books.
 
