@@ -1,1 +1,1 @@
-Mendeley is a commercial reference management system. Mendeley allows import through RIS and [[BibTeX]]. There is a guide how to import into Mendeley [here](https://cloud.copim.ac.uk/s/q2BAjQWHnZExjet).
+Mendeley is a commercial reference management system. Mendeley allows import through [[RIS]] and [[BibTeX]]. There is a guide how to import into Mendeley [here](https://cloud.copim.ac.uk/s/q2BAjQWHnZExjet).
