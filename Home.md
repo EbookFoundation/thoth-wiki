@@ -77,24 +77,40 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 Digital libraries acquire and maintain collections of digital objects. The table below summarizes the available platforms, also providing information on their governance structure; membership fees; type of ingest; what they provide; whether they feature OA and/or non-OA content; and whether ingest happens via push (active upload by publisher) or through the exposition of the metadata of the object to a scraper.
 
-| Name                            | Governance    | Membership Fee| In     | Out      | OA | non-OA | Ingest      |
-|---------------------------------|---------------|---------------|--------|----------|----|--------|-------------|
-| [[Aaaaarg.fail]]*               | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
-| [[EBSCO ebooks]]*               | Commercial    | Y             | Bk     | Bk       | Y  | Y      | Push        |
-| [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Bk     | Bk       | Y  | N      | Push        |
-| [[Internet Archive]]*           | Non-Profit    | N             | Bk     | Bk       | Y  | Y      | Push        |
-| [[JSTOR]]*                      | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
-| [[Library Genesis]]*            | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
-| [[Memory of the World]]*        | Pirate        | N             | Bk     | Bk       | Y  | Y      | Push        |
-| [[OAPEN]]*                      | Non-Profit    | Y             | Bk     | Bk       | Y  | N      | Push        |
-| [[Open Research Library]]       | Commercial    | N             | Bk     | Bk       | Y  | N      | Expose      |
-| [[Project MUSE]]*               | Non-Profit    | Y             | Bk     | Bk/Ch    | Y  | Y      | Push        |
-
+| Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
+| :---                            | :---          | :---          |:---|:---    |:---         |
+| [[Aaaaarg.fail]]*               | Pirate        | N             | Y  | Y      | Push        |
+| [[EBSCO ebooks]]*               | Commercial    | Y             | Y  | Y      | Push        |
+| [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Y  | N      | Push        |
+| [[Internet Archive]]*           | Non-Profit    | N             | Y  | Y      | Push        |
+| [[JSTOR]]*                      | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[Library Genesis]]*            | Pirate        | N             | Y  | Y      | Push        |
+| [[Memory of the World]]*        | Pirate        | N             | Y  | Y      | Push        |
+| [[OAPEN]]*                      | Non-Profit    | Y             | Y  | N      | Push        |
+| [[Open Research Library]]       | Commercial    | N             | Y  | N      | Expose      |
+| [[Project MUSE]]*               | Non-Profit    | Y             | Y  | Y      | Push        |
 
 ### National Libraries
 
 * [[British Library]]*
 * [[Library of Congress]]*
+
+## Ebook Distributors
+
+Ebook distributors differ from Digital Libraries in the sense that they do not claim to offer a scholarly function, be that to research institutions or to the general public. 
+
+* [[Axiell]]
+* [[Google Books]]*
+* [[Google Play Books]] 
+* [[Open Edition]] 
+* [[OverDrive]]*
+* [[RNIB Bookshare]]
+* [[StreetLib]]
+* [[Unglue.it]]
+* [[Worldreader]]
+
+
+
 
 
 ## Bibliographic Reference Management Platforms
@@ -160,17 +176,6 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
 
 
-## Ebook Distributors
-
-* [[Axiell]]
-* [[Google Books]]*
-* [[Google Play Books]]
-* [[Open Edition Books]]
-* [[OverDrive]]*
-* [[RNIB Bookshare]]
-* [[StreetLib]]
-* [[Unglue.it]]
-* [[Worldreader]]
 
 ## OER
 
