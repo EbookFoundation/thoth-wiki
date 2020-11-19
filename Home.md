@@ -38,6 +38,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[BibTeX]]*
 * [[CSL]]
 * [[ENL]]
+* [[ENW]]
 * [[RefMan]]
 * [[RIS]]
 
@@ -131,16 +132,19 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 
 ## Catalog Management Platforms
 
-| Name                             | Target User          | Type            |
-| :---                             | :---                 | :--- |
-| [[Folio]]                        | Institutional        | Commercial |
-| [[BibDesk]]                      | Individual           | Open Source |
-| [[Mendeley]]                     | Individual           | Commercial |
-| [[Papers]]                       | | |
-| [[Zotero]]*                      | Individual           | Open Source |
-| [[RefWorks]] (ExLibris/ProQuest) | Individual           | Commercial |
-| [[Citavi]]                       | Individual           | Commercial |
-| [[EndNote]]                      | Individual           | Commercial | 
+| Name             | Target User   | Type        | [[BibTeX]] | [[RIS]] |
+| :---             | :---          | :---        | :---       | :---    |
+| [[BibDesk]]      | Individual    | Open Source | [Y](https://bibdesk.sourceforge.io/manual/BibDeskHelp_16.html) | [Y](https://bibdesk.sourceforge.io/manual/BibDeskHelp_6.html) | 
+| [[Citavi]]       | Individual    | Commercial  | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_bibtex_file.html) | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_ris_file.html)|
+| [[EndNote]]      | Individual    | Commercial  | N | [Y](https://support.clarivate.com/Endnote/s/article/EndNote-Importing-RIS-files-and-associating-them-with-EndNote?language=en_US)| 
+| [[Folio]]        | Institutional | Commercial  | | |
+| [[Mendeley]]     | Individual    | Commercial  | | |
+| [[Papers]]       | Individual    | Commercial  | | |
+| [[RefWorks]]     | Individual    | Commercial  | | |
+| [[Zotero]]*      | Individual    | Open Source | | |
+
+
+
 
 ## Ebook Distributors
 
