@@ -130,16 +130,13 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 
 ## Catalog Management Platforms
 
-### Institutional
-
-* [[Folio]]
-
-### Individual
-
-* [[BibDesk]]
-* [[Mendeley]]
-* [[Papers]]
-* [[Zotero]]*
+| Name         | Target User          | Type            |
+| :---         | :---                 | :--- |
+| [[Folio]]    | Institutional        | Commercial |
+| [[BibDesk]]  | Individual           | Open Source |
+| [[Mendeley]] | Individual           | Commercial |
+| [[Papers]]   | | |
+| [[Zotero]]*  | Individual           | Open Source |
 
 ## Ebook Distributors
 
