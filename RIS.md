@@ -1,0 +1,1 @@
+RIS is a bibliographic reference file format developed by Research Information Systems. Basic information on the format [here](https://cloud.copim.ac.uk/f/53063). Full overview of code specifications [here](https://cloud.copim.ac.uk/s/6qSLD2gBjQxfiHi). 
