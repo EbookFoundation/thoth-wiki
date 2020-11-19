@@ -1,0 +1,1 @@
+Bibliographix is open source bibliographic reference management software. It can import [[RIS]] and [[BibTeX]].
