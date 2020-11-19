@@ -140,7 +140,7 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 | [[Zotero]]*                      | Individual           | Open Source |
 | [[RefWorks]] (ExLibris/ProQuest) | Individual           | Commercial |
 | [[Citavi]]                       | Individual           | Commercial |
-| [[EndNote]]                      | | | 
+| [[EndNote]]                      | Individual           | Commercial | 
 
 ## Ebook Distributors
 
