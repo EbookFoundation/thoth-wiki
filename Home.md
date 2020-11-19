@@ -101,7 +101,7 @@ Ebook distributors differ from Digital Libraries in the sense that they do not c
 
 * [[Axiell]]
 * [[Google Books]]*
-* [[Google Play Books]] 
+* [[Google Play Books]]*
 * [[Open Edition]] 
 * [[OverDrive]]*
 * [[RNIB Bookshare]]
