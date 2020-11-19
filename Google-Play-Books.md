@@ -1,4 +1,4 @@
-[Google Play Books](https://play.google.com/books/publish/)
+[Google Play Books](https://play.google.com/books/publish/), formerly Google Ebooks, is the ebook distribution platform of Google. 
 
 * File transfer: online interface
 * Cover file: [[JPEG]] (150dpi)
