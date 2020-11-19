@@ -1,1 +1,1 @@
-Citavi is Windows-based reference management software designed by Swiss Academic Software. Citavi can import bibliographical data through [[RIS]]. More on importing data into Citavi [here](https://www1.citavi.com/sub/manual6/en/index.html?exporting_from_citavi.html).
+Citavi is Windows-based reference management software designed by Swiss Academic Software. Citavi can import bibliographical data through [[RIS]] and [[BibTeX]]. More on importing data into Citavi [here](https://www1.citavi.com/sub/manual6/en/index.html?exporting_from_citavi.html).
