@@ -1,1 +1,1 @@
-[EndNote](https://endnote.com/) is a commercial reference software package owned by Clarivate Analytics, which has a proprietary file format ENL to store metadata. 
+[EndNote](https://endnote.com/) is a commercial reference software package owned by Clarivate Analytics, which has a proprietary file format ENL to store metadata. EndNote can ingest [[RIS]] files but appears to have [issue](http://ucla.jamesyxu.com/?p=81) with [[BibTeX]].
