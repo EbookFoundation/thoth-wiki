@@ -172,11 +172,22 @@ Ebook distributors differ from Digital Libraries in the sense that they do not c
 
 ## OER
 
+Open Educational Resources (OER) focus mainly on textbooks rather than scholarly publications. 
+
+### Digital OER Libraries
+
+| Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
+| :---                            | :---          | :---          |:---|:---    |:---         |
+| [[OER Commons]]                 | Non-Profit    | Y             | Y  | N      | Push |
+
 * [[Open Textbooks]]
 * [[BC Open Textbooks Collections]]
-* [[OER Commons]]
 * [[Orange Grove Open Textbooks]]
 * [[Merlot]]
+
+
+### OER Citation Indexes/Discovery Platforms
+
 * [[OASIS]]
 * [[Mason OER Metafinder]]
 
