@@ -156,19 +156,16 @@ Ebook distributors differ from Digital Libraries in the sense that they do not c
 * [[StreetLib]]
 * [[Unglue.it]]
 
-
 ## Publishing Platforms
+
+Publishing platforms allow authors, editors, and publishers to collaborate in a digital, in-browser environment, with a potential to radically transform publishing production pipelines.
 
 * [[Fulcrum]]
 * [[Editoria]]
 
 ## Print Book Distributors
 
-* [[Amazon KDP]]*
-* [[Ingram Lightning Source]]
-
-
-
+There are basically only two main print book distributors available to OA publishers who wish to use print-on-demand for their hardcopy publications, [[Amazon KDP]] and [[Ingram Lightning Source]]. Both require the manual input of metadata upload of print-ready PDF files without apparent batch or automated upload options. 
 
 ## OER
 
