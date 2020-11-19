@@ -188,12 +188,3 @@ The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 * [[LOCKSS]]
 * [[Portico]]
 * [[Zenodo]]
-
----
-
-`@vincent - just leaving these here as I'm not sure where to put them [Toby]`
-
-## OER Meta Search engines
-
- - Openly Available Sources Integrated Search (OASIS) - https://oasis.geneseo.edu/
- - Mason OER Metafinder - https://mom.gmu.edu/
