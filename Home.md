@@ -37,7 +37,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 
 * [[BibTeX]]*
 * [[CSL]]
-* [[EndNote]]
+* [[ENL]]
 * [[RefMan]]
 * [[RIS]]
 
