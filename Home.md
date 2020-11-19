@@ -100,7 +100,6 @@ Digital libraries acquire and maintain collections of digital objects. The table
 Ebook distributors differ from Digital Libraries in the sense that they do not claim to offer a scholarly function, be that to research institutions or to the general public. 
 
 * [[Axiell]]
-* [[Google Books]]*
 * [[Google Play Books]]*
 * [[Open Edition]] 
 * [[OverDrive]]*
