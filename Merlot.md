@@ -1,4 +1,5 @@
- - https://merlot.org/
+[Merlot](https://www.merlot.org/merlot/) is the OER resources platform of California State University.
+
  - File Transfer: online interface
  - Content Files: Link
  - Metadata Format: manually filling the information
