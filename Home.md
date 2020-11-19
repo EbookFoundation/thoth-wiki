@@ -95,23 +95,6 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[British Library]]*
 * [[Library of Congress]]*
 
-## Ebook Distributors
-
-Ebook distributors differ from Digital Libraries in the sense that they do not claim to offer a scholarly function, be that to research institutions or to the general public. 
-
-* [[Axiell]]
-* [[Google Play Books]]*
-* [[Open Edition]] 
-* [[OverDrive]]*
-* [[RNIB Bookshare]]
-* [[StreetLib]]
-* [[Unglue.it]]
-* [[Worldreader]]
-
-
-
-
-
 ## Bibliographic Reference Management Platforms
 
 All currently available bibliographic management platforms support import from [[BibTeX]] and [[RIS]]. Overall, these appear to be the two major formats. An excellent overview of every single platform is provided on the [OpenOffice wiki](https://wiki.openoffice.org/wiki/Bibliographic/Software_and_Standards_Information).
@@ -140,11 +123,9 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 | [[DOAB]]*                       | Non-Profit    | N?            | Bk       | Bk       | Y  | N      | Push/Expose |
 | [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
 
-
-
 ## Citation Indexes/Discovery Platforms
 
-Citation Indexes and Discovery Platforms are  search engines built on top of specific publication databases tailored toward researches. 
+Citation Indexes and Discovery Platforms are search engines built on top of specific publication databases tailored toward researches. 
 
 * [[ExLibris]] (ProQuest)
 * [[Google Scholar]]
@@ -162,6 +143,19 @@ Citation Indexes and Discovery Platforms are  search engines built on top of spe
 * [[WorldCat Discovery]]* (OCLC)
 
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
+
+## Ebook Distributors
+
+Ebook distributors differ from Digital Libraries in the sense that they do not claim to offer a scholarly function, be that to research institutions or to the general public. Most ebook distributors operate some form of monetization scheme, which may not be hospitable to OA books.
+
+* [[Axiell]]
+* [[Google Play Books]]*
+* [[Open Edition]] 
+* [[OverDrive]]*
+* [[RNIB Bookshare]]
+* [[StreetLib]]
+* [[Unglue.it]]
+
 
 ## Publishing Platforms
 
