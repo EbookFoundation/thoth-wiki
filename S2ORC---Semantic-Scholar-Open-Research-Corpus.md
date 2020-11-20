@@ -1,0 +1,4 @@
+> a large corpus of 81.1M English-language academic papers spanning many academic disciplines. The corpus consists of rich metadata, paper abstracts, resolved bibliographic references, as well as structured full text for 8.1M open access papers. Full text is annotated with automatically-detected inline mentions of citations, figures, and tables, each linked to their corresponding paper objects.
+
+* Repository: https://github.com/allenai/s2orc
+* Lo, K., Wang, L. L., Neumann, M., Kinney, R., & Weld, D. S. (2020, July). S2orc: The semantic scholar open research corpus. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 4969-4983). doi: [10.18653/v1/2020.acl-main.447](http://dx.doi.org/10.18653/v1/2020.acl-main.447).
