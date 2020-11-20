@@ -1,4 +1,4 @@
-[FatCat](https://fatcat.wiki) is
+Hosted at the Internet Archive, [FatCat](https://fatcat.wiki) is
 
 > a versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets
 
@@ -6,3 +6,5 @@
 
 
 Metadata Sources in FatCat: https://guide.fatcat.wiki/sources.html
+
+Project Status: Beta - API schema is not stable, and all edits must be manually reviewed.
