@@ -128,10 +128,10 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 Citation Indexes and Discovery Platforms are search engines built on top of specific publication databases tailored toward researches. 
 
 * [[ExLibris]] (ProQuest)
-* [[FatCat]]
+* [[FatCat]] (Internet Archive)
 * [[Google Scholar]]
 * [[IEEE Xplore]]
-* [[Internet Scholar Archive]]
+* [[Internet Scholar Archive]] (Internet Archive)
 * [[LexisNexis]]
 * [[Library Hub Discover]]* (Jisc)
 * [[MathSciNet]]
@@ -145,7 +145,7 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 * [[SciFinder]]
 * [[Scopus]] (RELX)
 * [[S2ORC - Semantic Scholar Open Research Corpus]]
-* [[Summon]]
+* [[Summon]] (ProQuest)
 * [[Web of Science]] (Clarivate)
 * [[WorldCat Discovery]]* (OCLC)
 
