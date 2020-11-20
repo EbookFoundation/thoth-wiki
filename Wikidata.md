@@ -1,0 +1,1 @@
+Wikidata has a dedicated project to encode book metadata, [WikiProject Books](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books). The website lists all definitions of appropriate metadata categories.
