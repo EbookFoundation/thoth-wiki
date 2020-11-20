@@ -3,3 +3,5 @@ Funded by Mozilla, [Orion Search](https://www.orion-search.org/) is an open-sour
 > Orion is a research measurement and discovery tool that enables you to monitor progress in science, visually explore the scientific landscape and search for relevant publications.
 
 > With Orion, you can find a country with an interesting research profile in the Metrics page, explore and filter your selection of publications in the Explore Papers page and learn more about them on the Search page.
+
+Orion Search collects academic publications from Microsoft Academic Graph (MAG). MAG is a heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study. It contains more than 235M documents covering every academic discipline. Orion Search enriches MAG with metadata from other sources; geocoding institutional affiliations and inferring authors’ gender with Google Places API and GenderAPI respectively. `source:` [Orion Search FAQ](https://www.orion-search.org/about/faq)
