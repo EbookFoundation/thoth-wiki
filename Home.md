@@ -140,6 +140,7 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 * [[OpenTexts.World]] 
 * [[Orion Search]]
 * [[PubMed]]
+* [[ResearchGraph]]
 * [[ScienceOpen]]
 * [[SciFinder]]
 * [[Scopus]] (RELX)
