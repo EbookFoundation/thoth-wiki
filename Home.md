@@ -32,6 +32,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[ONIX 3.0]]*
 * [[RDF]]
 * [[XLSX]]
+* [[WikiData]]
 
 ### Citations and Bibliographies
 
