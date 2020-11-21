@@ -88,9 +88,10 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | [[Library Genesis]]*            | Pirate        | N             | Y  | Y      | Push        |
 | [[Memory of the World]]*        | Pirate        | N             | Y  | Y      | Push        |
 | [[OAPEN]]*                      | Non-Profit    | Y             | Y  | N      | Push        |
+| [[Open Bookshelf]] (DPLA)       | Non-Profit    | ?             | Y  | Y      | ?           |
+| [[Open Edition]]                | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Research Library]]       | Commercial    | N             | Y  | N      | Expose      |
 | [[Project MUSE]]*               | Non-Profit    | Y             | Y  | Y      | Push        |
-| [[Open Bookshelf]] (DPLA)       | Non-Profit    | ?             | Y  | Y      | ?           |
 
 ### National Libraries
 
