@@ -90,6 +90,7 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | [[OAPEN]]*                      | Non-Profit    | Y             | Y  | N      | Push        |
 | [[Open Research Library]]       | Commercial    | N             | Y  | N      | Expose      |
 | [[Project MUSE]]*               | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[SimplyE]] (DPLA)              | Non-Profit    | ?             | Y  | Y      | ?           |
 
 ### National Libraries
 
