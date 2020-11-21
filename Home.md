@@ -96,6 +96,12 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[British Library]]*
 * [[Library of Congress]]*
 
+### GLAM libraries
+
+* [[Europeana]]
+* [[Digital Public Library of America]] (DPLA)
+* ...
+
 ## Bibliographic Reference Management Platforms
 
 All currently available bibliographic management platforms support import from [[BibTeX]] and [[RIS]]. Overall, these appear to be the two major formats. An excellent overview of every single platform is provided on the [OpenOffice wiki](https://wiki.openoffice.org/wiki/Bibliographic/Software_and_Standards_Information).
