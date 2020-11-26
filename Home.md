@@ -11,7 +11,6 @@ Data formats are the formats in which the textual content of an [[object]] are c
 * [[AZW3]]
 * [[EPUB]]
 * [[HTML]]
-* [[JSON]]
 * [[KFX]]
 * [[MOBI]]
 * [[PDF]]
@@ -25,6 +24,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[CreDiT]]*
 * [[CSV]]*
 * [[KBART]]*
+* [[JSON]]
 * [[MAB2]]
 * [[MARC 21]]
 * [[MARCXML]]*
