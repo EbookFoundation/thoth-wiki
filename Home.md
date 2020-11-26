@@ -61,9 +61,14 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 * [[Bowker]]
 
 ### Institution Identifiers
+
+There are several databases of institution identifiers. The largest is GRID (98,598 records), which is freely downloadable. Funder Registry (21,242 records) is run by Crossref, but doesn't appear to provide persistent identifiers. A community-led option is ROR, whose database is correlated with GRID, Wikidata, and ISNI.
+
 * [[Funder Registry]]*
 * [[GRID]]
+* [[ISNI]]
 * [[ROR]]*
+* [[Wikidata]]
 
 ### Project Identifiers
 * [[RAiD]]*
