@@ -1,3 +1,7 @@
-[Wikibooks](https://en.wikibooks.org/wiki/Main_Page) ...
+[Wikibooks](https://en.wikibooks.org/wiki/Main_Page) is an open content collection of textbooks, annotated texts, instructional guides, and manuals.
 
-> is an open content collection of non-fiction books (especially textbooks). You are contributing to a free, publicly-usable database of information. If that is not enough reason to contribute, we have several more below. Once you're convinced, the final section details how you can get started. 
+### Licensing of Wikibooks content
+
+Contributions to Wikibooks are licensed to the public for reuse under CC-BY-SA and GFDL. Non-text media may be contributed under a variety of different licenses that support the general goal of allowing unrestricted re-use and re-distribution.
+
+Importing text to Wikibooks that is found elsewhere is only permissible if it is available under terms that are compatible with the CC-BY-SA license. (Source: [Wikibooks/Copyrights](https://en.wikibooks.org/wiki/Wikibooks:Copyrights))
