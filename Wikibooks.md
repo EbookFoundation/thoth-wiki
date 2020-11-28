@@ -1,0 +1,3 @@
+[Wikibooks](https://en.wikibooks.org/wiki/Main_Page) ...
+
+> is an open content collection of non-fiction books (especially textbooks). You are contributing to a free, publicly-usable database of information. If that is not enough reason to contribute, we have several more below. Once you're convinced, the final section details how you can get started. 
