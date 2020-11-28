@@ -1,4 +1,4 @@
-[Wikibooks](https://en.wikibooks.org/wiki/Main_Page) is an open content collection of textbooks, annotated texts, instructional guides, and manuals. Next to that, Wikibooks holds a selection of [annotated texts](https://en.wikibooks.org/wiki/Wikibooks:Annotated_texts).
+[Wikibooks](https://en.wikibooks.org/wiki/Main_Page) is an open content collection of textbooks, annotated texts, instructional guides, and manuals.
 
 ### Licensing of Wikibooks content
 
