@@ -17,3 +17,6 @@ JSON-LD
 RDFa  (for HTML embedding)
 N-Triples and N-Quads (line-based exchange formats)
 RDF/XML (the original 2004 syntax, updated for RDF 1.1)
+
+A variety of European national libraries (e.g. France, Germany, Spain, Finland) are actively promoting the use of RDF SKOS (Simple Knowledge Organization System), see https://www.w3.org/TR/skos-reference/ and https://www.w3.org/2001/sw/wiki/SKOS/Datasets
+Next to RDF, SKOS is also available as OWL data model
