@@ -9,14 +9,14 @@ RDF is intended for situations in which information on the Web needs to be proce
 
 In particular RDF can be used to publish and interlink data on the Web. For example, retrieving http://www.example.org/bob#me could provide data about Bob, including the fact that he knows Alice, as identified by her IRI (an IRI is an "International Resource Identifier"). Retrieving Alice's IRI could then provide more data about her, including links to other datasets for her friends, interests, etc. A person or an automated process can then follow such links and aggregate data about these various things. Such uses of RDF are often qualified as Linked Data.
 
-Normative specifications of RDF can be found in the following documents:
+Normative specifications of RDF can be found in the following documents: https://www.w3.org/RDF/
 
 Serialization formats for RDF:
-Turtle and TriG 
-JSON-LD 
-RDFa  (for HTML embedding)
-N-Triples and N-Quads (line-based exchange formats)
-RDF/XML (the original 2004 syntax, updated for RDF 1.1)
+* Turtle and TriG 
+* JSON-LD 
+* RDFa  (for HTML embedding)
+* N-Triples and N-Quads (line-based exchange formats)
+* RDF/XML (the original 2004 syntax, updated for RDF 1.1)
 
-A variety of European national libraries (e.g. France, Germany, Spain, Finland) are actively promoting the use of RDF SKOS (Simple Knowledge Organization System), see https://www.w3.org/TR/skos-reference/ and https://www.w3.org/2001/sw/wiki/SKOS/Datasets
+* SKOS ontology: A variety of European national libraries (e.g. France, Germany, Spain, Finland) are actively promoting the use of RDF SKOS (Simple Knowledge Organization System), see https://www.w3.org/TR/skos-reference/ and https://www.w3.org/2001/sw/wiki/SKOS/Datasets
 Next to RDF, SKOS is also available as OWL data model
