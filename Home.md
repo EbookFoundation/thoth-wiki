@@ -103,7 +103,6 @@ Digital libraries acquire and maintain collections of digital objects. The table
 ### National Libraries
 
 * [[British Library]]*
-* [[Digital Public Library of America]]
 * [[Library of Congress]]*
 * [[National Library of France]]
 * [[National Library of Germany]]
