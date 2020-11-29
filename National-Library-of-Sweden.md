@@ -1,4 +1,4 @@
-[Kungliga biblioteket](https://www.kb.se/) (KB) is the National Library of Sweden. KB has made all its bibliographic data available as Linked Open Data via Bibframe 2.0.
+[Kungliga biblioteket](https://www.kb.se/) (KB) is the National Library of Sweden. KB has made all its bibliographic data available as Linked Open Data via [[BIBFRAME 2.0]].
 
 Access to the National Library of Sweden's bibliographic datasets is facilitated through a variety of open standards including 
 * **OAI-PMH**, with supported metadata formats Dublin Core, MODS, and Swepub MODS format specification v. 3.0, base URL is http://api.libris.kb.se/swepub/oaipmh/SWEPUB
