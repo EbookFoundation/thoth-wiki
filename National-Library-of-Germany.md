@@ -12,7 +12,7 @@ Source: https://www.dnb.de/metadatendienste
 
 ### Formats
 
-Metadata is exposed via SRU and OAI-PMH, and made available as MARC 21, MARC21-XML and RDF (variety of serialisations), while some collections are also available in BIBFRAME. As an extra offer, title data is provided in DNB Casual and CSV formats.
+Metadata is exposed via SRU and OAI-PMH, and made available as MARC 21, MARC21-XML and RDF (variety of serialisations), while some collections are also available in BIBFRAME ([[BIBFRAME 2.0]]?). As an extra offer, title data is provided in DNB Casual and CSV formats.
 
 * More on DNB standards & formats: https://www.dnb.de/EN/Professionell/Standardisierung/Standards/standards_node.html
 * Dedicated Linked Data service: https://www.dnb.de/EN/Professionell/Metadatendienste/Datenbezug/LDS/lds_node.html
