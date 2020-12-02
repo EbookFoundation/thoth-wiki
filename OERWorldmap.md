@@ -1,4 +1,4 @@
-Built by hbz and graphthinking GmbH in association with The Open University (UK) and funded by The William and Flora Hewlett Foundation, [OERWorldmap](https://oerworldmap.org) aims to provide a comprehensive directory of sources that will directly facilitate access to high quality OER, prepare the development of OER discovery systems and promote a deeper understanding of existing OER infrastructures.
+Developed in association with The Open University (UK) and funded by The William and Flora Hewlett Foundation, [OERWorldmap](https://oerworldmap.org) aims to provide a comprehensive directory of sources that will directly facilitate access to high quality OER, prepare the development of OER discovery systems and promote a deeper understanding of existing OER infrastructures.
 
 >  The OER World Map is the place on the web where anyone involved in Open Education can share information, experiences and ideas related to their work. 
 Anyone can contribute to the information on the World Map and anyone can access the information on the World Map.
@@ -15,3 +15,4 @@ OERWorldmap collects information about:
 * Stories
 * Events
 
+Further info: http://go-gn.net/webinars/webinar-oer-world-map-as-a-tool-for-scientists/
