@@ -79,6 +79,14 @@ There are several databases of institution identifiers. The largest is GRID (98,
 * [[ORCiD]]*
 * [[ISNI]]*
 
+### Subject Identifiers
+* [[BIC]]
+* [[BISAG]]
+* [[Bowker]]
+* [[KDP]]
+* [[LOC]]
+* [[Thema]]
+
 ## Libraries
 
 ### Digital Libraries
