@@ -71,6 +71,7 @@ There are several databases of institution identifiers. The largest is GRID (98,
 * [[ISNI]]
 * [[ROR]]*
 * [[Wikidata]]
+   * [[Scholia]]
 
 ### Project Identifiers
 * [[RAiD]]*
