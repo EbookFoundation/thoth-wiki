@@ -157,7 +157,7 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 
 ## Citation Indexes/Discovery Platforms
 
-Citation Indexes and Discovery Platforms are search engines built on top of specific publication databases tailored toward researches. 
+Citation Indexes and Discovery Platforms are search engines built on top of specific publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc.
 
 * [[ExLibris]] (ProQuest)
 * [[FatCat]] (Internet Archive)
