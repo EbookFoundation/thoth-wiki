@@ -4,6 +4,7 @@ Combining various free sources like Crossref, PubMed, Unpaywall, ORCID ,CORE and
 
 * 125 Mio. Patent Records
 * 223 Mio. Scholarly Works
+   * among them, 14 Mio. book chapters and 6 Mio. books 
 * 366 Mio. Biological Sequences
 * 2,328 Mio. Document Linkages 
 
