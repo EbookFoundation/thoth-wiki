@@ -164,6 +164,7 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 * [[Google Scholar]]
 * [[IEEE Xplore]]
 * [[Internet Scholar Archive]] (Internet Archive)
+* [[Lens]]
 * [[LexisNexis]]
 * [[Library Hub Discover]]* (Jisc)
 * [[MathSciNet]]
