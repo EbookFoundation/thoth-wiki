@@ -98,6 +98,7 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | :---                            | :---          | :---          |:---|:---    |:---         |
 | [[Aaaaarg.fail]]*               | Pirate        | N             | Y  | Y      | Push        |
 | [[EBSCO ebooks]]*               | Commercial    | Y             | Y  | Y      | Push        |
+| [[Érudit]]                      | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Y  | N      | Push        |
 | [[Internet Archive]]*           | Non-Profit    | N             | Y  | Y      | Push        |
 | [[JSTOR]]*                      | Non-Profit    | Y             | Y  | Y      | Push        |
