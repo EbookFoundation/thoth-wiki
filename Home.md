@@ -233,6 +233,6 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 ## Archiving Platforms
 
 * [[Internet Archive – Wayback Machine]]
-* [[LOCKSS]]
+* [[LOCKSS]] & [CLOCKSS]]
 * [[Portico]]
 * [[Zenodo]]
