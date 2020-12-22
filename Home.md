@@ -110,6 +110,7 @@ Digital libraries acquire and maintain collections of digital objects. The table
 | [[Open Research Library]]       | Commercial    | N             | Y  | N      | Expose      |
 | [[Open Library]]                | Non-Profit    | Y             | Y  | Y      | Push        |
 | [[Project MUSE]]*               | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[Verdensbiblioteket]]          | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikibooks]]                   | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikisource]]                  | Non-Profit    | N             | Y  | N      | ?        |
 
