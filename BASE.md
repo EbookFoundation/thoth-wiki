@@ -5,7 +5,7 @@
 BASE is a registered [OAI provider](http://www.openarchives.org/service/listproviders.html), and offers a bespoke [OAI-PMH Validator (OVAL)](http://oval.base-search.net/) to ensure compatibility of potential content providers with its service.
 
 BASE uses the `oai_dc` format and requires that request for ListRecords in returns results without a timeout or output error.
-Documentation of the OAI interface is available at: http://oai.base-search.net/
+Documentation of the OAI interface is available at: http://oai.base-search.net/ which is accompanied by a concise [FAQ](https://www.base-search.net/about/en/faq_oai.php).
 
 Next to OAI, BASE also provides a HTTP interface for easy integration with external services; this interface is accessible via https://api.base-search.net/ 
 
