@@ -163,6 +163,7 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 
 Citation Indexes and Discovery Platforms are search engines built on top of specific publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc.
 
+* [[BASE]] (Bielefeld Academic Search Engine)
 * [[ExLibris]] (ProQuest)
 * [[FatCat]] (Internet Archive)
 * [[Google Scholar]]
