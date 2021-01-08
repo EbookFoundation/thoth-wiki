@@ -125,6 +125,7 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[National Library of Scotland]]
 * [[National Library of Spain]]
 * [[National Library of Sweden]]
+* [List of National and State Libraries](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries) (Wiki)
 
 ### GLAM libraries
 
