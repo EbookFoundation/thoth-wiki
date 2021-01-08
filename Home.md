@@ -60,7 +60,8 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 
 #### ISBN Registration Agencies
 
-* [[Bowker]]
+* [[Bowker]] (USA)
+* [List of National Agencies](https://en.wikipedia.org/wiki/International_Standard_Book_Number#How_ISBNs_are_issued) (Wikipedia)
 
 ### Institution Identifiers
 
