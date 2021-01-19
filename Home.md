@@ -191,6 +191,8 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 
 `add also references from https://musingsaboutlibrarianship.blogspot.com/2020/11/more-new-search-discovery-apps-fatcat.html and https://musingsaboutlibrarianship.blogspot.com/2020/11/the-next-generation-discovery-citation.html`
 
+`add references from https://arxiv.org/abs/2005.10732`
+
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
 ## Ebook Distributors 
