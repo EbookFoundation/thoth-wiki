@@ -183,8 +183,10 @@ Catalog management systems for individual libraries.
 
 Library-agnostic, global content indices.
 
-* [[WorldCat KnowledgeBase]] (OCLC)
 * [[Alma's Central Knowledge Base]] (ProQuest)
+* [[BDSLive]]* 
+* [[ProQuest 360 Core]] 
+* [[WorldCat KnowledgeBase]] (OCLC)
 
 ## Third-party Content Indices 
 
@@ -244,16 +246,6 @@ All currently available bibliographic management platforms support import from [
 | [[Papers]]       | Individual    | Commercial  | [Y](https://support.papersapp.com/support/solutions/articles/30000026491-how-do-i-import-from-another-reference-manager-endnote-mendeley-zotero-refworks-reference-manager-) | Y |
 | [[RefWorks]]     | Individual    | Commercial  | ? | [Y](https://knowledge.exlibrisgroup.com/RefWorks/Legacy_RefWorks/03Get_References/020Converting_from_Other_Bibliographic_Management_Programs) |
 | [[Zotero]]*      | Individual    | Open Source | [Y](https://www.zotero.org/support/kb/importing_standardized_formats)| [Y](https://www.zotero.org/support/kb/importing_standardized_formats)|
-
-# Metadata Aggregators
-
-Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
-
-| Name                            | Governance    | Membership Fee| In       | Out      | OA | non-OA | Ingest      |
-|---------------------------------|---------------|---------------|----------|----------|----|--------|-------------|
-| [[BDSLive]]*                    | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
-|                    | Non-Profit    | N?            | Bk       | Bk       | Y  | N      | Push/Expose |
-| [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
 
 
 
