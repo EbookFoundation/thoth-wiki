@@ -8,3 +8,5 @@ Hosted at the Internet Archive, [FatCat](https://fatcat.wiki) is
 Metadata Sources in FatCat: https://guide.fatcat.wiki/sources.html
 
 Project Status: Beta - API schema is not stable, and all edits must be manually reviewed.
+
+See also https://musingsaboutlibrarianship.blogspot.com/2020/11/more-new-search-discovery-apps-fatcat.html
