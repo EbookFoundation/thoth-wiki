@@ -1,4 +1,4 @@
-Wikidata has a dedicated project to encode book metadata, [WikiProject Books](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books). The website lists all definitions of appropriate metadata categories. Another relevant project is [WikiProject Source Metadata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Source_MetaData).
+Wikidata, an open knowledge base, has a dedicated project to encode book metadata, [WikiProject Books](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books). The website lists all definitions of appropriate metadata categories. Another relevant project is [WikiProject Source Metadata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Source_MetaData).
 
 
 ### Metadata & API
