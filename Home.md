@@ -93,7 +93,7 @@ There are several databases of institution identifiers. The largest is GRID (98,
 
 # Content Platforms and Distributors
 
-The following categorization in Content Platforms and Distributors has been adopted from Michael Clarke and Laura Ricci's draft report [*OA Books Supply Chain Mapping*](https://drive.google.com/file/d/1iCu5OlT1cFDyq6r6yBC6orgjoEMJthor/view).
+The following categorization in **Content Platforms and Distributors** and **Catalogs and Indices** has been adapted from Michael Clarke and Laura Ricci's draft report [*OA Books Supply Chain Mapping*](https://drive.google.com/file/d/1iCu5OlT1cFDyq6r6yBC6orgjoEMJthor/view).
 
 ## Content Platforms
 
@@ -118,7 +118,7 @@ The following categorization in Content Platforms and Distributors has been adop
 | [[Open Bookshelf]] (DPLA)       | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Edition]]                | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Library]]                | Non-Profit    | Y             | Y  | Y      | Push        |
-| [[Project Gutenberg]]           |               |               |    |        |          |
+| [[Project Gutenberg]]           | Non-Profit    | N             | Y  | N      | Push        |
 | [[Verdensbiblioteket]]          | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikibooks]]                   | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikisource]]                  | Non-Profit    | N             | Y  | N      | ?        |
@@ -167,40 +167,40 @@ Ebook distributors differ from Digital Libraries in the sense that they do not c
 * [[StreetLib]]
 * [[Unglue.it]]
 
-# Bibliographic Reference Management Platforms
+# Catalogs and Indices
 
-All currently available bibliographic management platforms support import from [[BibTeX]] and [[RIS]]. Overall, these appear to be the two major formats. An excellent overview of every single platform is provided on the [OpenOffice wiki](https://wiki.openoffice.org/wiki/Bibliographic/Software_and_Standards_Information).
+Platforms that aggregate and host metadata, promoting discovery of particular titles. 
 
-| Name             | Target User   | Type        | [[BibTeX]] | [[RIS]] |
-| :---             | :---          | :---        | :---       | :---    |
-| [[BibDesk]]      | Individual    | Open Source | [Y](https://bibdesk.sourceforge.io/manual/BibDeskHelp_16.html) | [Y](https://bibdesk.sourceforge.io/manual/BibDeskHelp_6.html) | 
-| [[Bibliographix]]| Individual    | Open Source | [Y](http://mybibliographix.de/wp/datenimport/) | [Y](http://mybibliographix.de/wp/datenimport/) |
-| [[Biblioscape]]  | Individual    | Commercial  | Y | Y |
-| [[Bibus]]        | Individual    | Open Source | ? | ? |
-| [[Citavi]]       | Individual    | Commercial  | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_bibtex_file.html) | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_ris_file.html)|
-| [[EndNote]]      | Individual    | Commercial  | ? | [Y](https://support.clarivate.com/Endnote/s/article/EndNote-Importing-RIS-files-and-associating-them-with-EndNote?language=en_US)| 
-| [[Folio]]        | Institutional | Open Source | ? | ? |
-| [[Mendeley]]     | Individual    | Commercial  | [Y](https://guides.libraries.psu.edu/mendeley/add)| [Y](https://guides.libraries.psu.edu/mendeley/add)|
-| [[Papers]]       | Individual    | Commercial  | [Y](https://support.papersapp.com/support/solutions/articles/30000026491-how-do-i-import-from-another-reference-manager-endnote-mendeley-zotero-refworks-reference-manager-) | Y |
-| [[RefWorks]]     | Individual    | Commercial  | ? | [Y](https://knowledge.exlibrisgroup.com/RefWorks/Legacy_RefWorks/03Get_References/020Converting_from_Other_Bibliographic_Management_Programs) |
-| [[Zotero]]*      | Individual    | Open Source | [Y](https://www.zotero.org/support/kb/importing_standardized_formats)| [Y](https://www.zotero.org/support/kb/importing_standardized_formats)|
+## Library Management Systems
 
-# Metadata Aggregators
+Catalog management systems for individual libraries.
 
-Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
+* [[ExLibris]] Alma (ProQuest)
+* [[Folio]]
+* [[Worldshare]] (OCLC)
 
-| Name                            | Governance    | Membership Fee| In       | Out      | OA | non-OA | Ingest      |
-|---------------------------------|---------------|---------------|----------|----------|----|--------|-------------|
-| [[BDSLive]]*                    | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
-| [[DOAB]]*                       | Non-Profit    | N?            | Bk       | Bk       | Y  | N      | Push/Expose |
-| [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
+## Knowledge Bases
 
-# Citation Indexes/Discovery Platforms
+Library-agnostic, global content indices.
 
-Citation Indexes and Discovery Platforms are search engines built on top of specific publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc.
+* [[WorldCat KnowledgeBase]] (OCLC)
+* [[Alma's Central Knowledge Base]] (ProQuest)
+
+## Third-party Content Indices 
+
+* [[DOAB]]*    
+* [[Unpaywall]]
+
+## DOI Registries
+
+* [[Crossref]]
+
+## Web-scale Search Engines
+
+Search engines built on top of publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc
 
 * [[BASE]] (Bielefeld Academic Search Engine)
-* [[ExLibris]] (ProQuest)
+* [[Dimensions]]
 * [[FatCat]] (Internet Archive)
 * [[Google Scholar]]
 * [[IEEE Xplore]]
@@ -209,6 +209,7 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 * [[LexisNexis]]
 * [[Library Hub Discover]]* (Jisc)
 * [[MathSciNet]]
+* [[Microsoft Academic]]
 * [[OpenAIRE Research Graph]]
 * [[Open Research Knowledge graph]]
 * [[OpenTexts.World]] 
@@ -227,7 +228,37 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 
 `add references from https://arxiv.org/abs/2005.10732`
 
-The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
+
+
+
+# Bibliographic Reference Management Platforms
+
+All currently available bibliographic management platforms support import from [[BibTeX]] and [[RIS]]. Overall, these appear to be the two major formats. An excellent overview of every single platform is provided on the [OpenOffice wiki](https://wiki.openoffice.org/wiki/Bibliographic/Software_and_Standards_Information).
+
+| Name             | Target User   | Type        | [[BibTeX]] | [[RIS]] |
+| :---             | :---          | :---        | :---       | :---    |
+| [[BibDesk]]      | Individual    | Open Source | [Y](https://bibdesk.sourceforge.io/manual/BibDeskHelp_16.html) | [Y](https://bibdesk.sourceforge.io/manual/BibDeskHelp_6.html) | 
+| [[Bibliographix]]| Individual    | Open Source | [Y](http://mybibliographix.de/wp/datenimport/) | [Y](http://mybibliographix.de/wp/datenimport/) |
+| [[Biblioscape]]  | Individual    | Commercial  | Y | Y |
+| [[Bibus]]        | Individual    | Open Source | ? | ? |
+| [[Citavi]]       | Individual    | Commercial  | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_bibtex_file.html) | [Y](https://www1.citavi.com/sub/manual5/en/index.html?importing_a_ris_file.html)|
+| [[EndNote]]      | Individual    | Commercial  | ? | [Y](https://support.clarivate.com/Endnote/s/article/EndNote-Importing-RIS-files-and-associating-them-with-EndNote?language=en_US)| 
+| [[Mendeley]]     | Individual    | Commercial  | [Y](https://guides.libraries.psu.edu/mendeley/add)| [Y](https://guides.libraries.psu.edu/mendeley/add)|
+| [[Papers]]       | Individual    | Commercial  | [Y](https://support.papersapp.com/support/solutions/articles/30000026491-how-do-i-import-from-another-reference-manager-endnote-mendeley-zotero-refworks-reference-manager-) | Y |
+| [[RefWorks]]     | Individual    | Commercial  | ? | [Y](https://knowledge.exlibrisgroup.com/RefWorks/Legacy_RefWorks/03Get_References/020Converting_from_Other_Bibliographic_Management_Programs) |
+| [[Zotero]]*      | Individual    | Open Source | [Y](https://www.zotero.org/support/kb/importing_standardized_formats)| [Y](https://www.zotero.org/support/kb/importing_standardized_formats)|
+
+# Metadata Aggregators
+
+Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
+
+| Name                            | Governance    | Membership Fee| In       | Out      | OA | non-OA | Ingest      |
+|---------------------------------|---------------|---------------|----------|----------|----|--------|-------------|
+| [[BDSLive]]*                    | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
+|                    | Non-Profit    | N?            | Bk       | Bk       | Y  | N      | Push/Expose |
+| [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
+
+
 
 # Publishing Platforms
 
