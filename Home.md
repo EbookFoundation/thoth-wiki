@@ -4,6 +4,8 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 The transfer protocols and file specifications listed in this wiki are those which have current or future support by Thoth. Any updates are welcome at wp5@copim.ac.uk.
 
+# Data and Metadata Formats
+
 ## Data Formats
 
 Data formats are the formats in which the textual content of an [[object]] are commonly digitally encoded. The Thoth project is agnostic as to which data format is used.
@@ -89,32 +91,45 @@ There are several databases of institution identifiers. The largest is GRID (98,
 * [[LOC]]
 * [[Thema]]
 
-## Libraries
+# Content Platforms and Distributors
 
-### Digital Libraries
+The following categorization in Content Platforms and Distributors has been adopted from Michael Clarke and Laura Ricci's draft report [*OA Books Supply Chain Mapping*](https://drive.google.com/file/d/1iCu5OlT1cFDyq6r6yBC6orgjoEMJthor/view).
 
-Digital libraries acquire and maintain collections of digital objects. The table below summarizes the available platforms, also providing information on their governance structure; membership fees; type of ingest; what they provide; whether they feature OA and/or non-OA content; and whether ingest happens via push (active upload by publisher) or through the exposition of the metadata of the object to a scraper.
+## Content Platforms
+
+### Ebook Aggregators
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
 | :---                            | :---          | :---          |:---|:---    |:---         |
-| [[Aaaaarg.fail]]*               | Pirate        | N             | Y  | Y      | Push        |
 | [[EBSCO ebooks]]*               | Commercial    | Y             | Y  | Y      | Push        |
+| [[JSTOR]]*                      | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[Project MUSE]]*               | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[ProQuest Ebook Central]]      | Commercial    | Y             | Y  | Y      | Push        |
+
+### OA Platforms and Repositories
+
+| Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
+| :---                            | :---          | :---          |:---|:---    |:---         |
 | [[Érudit]]                      | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Finna.fi]]                    | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Y  | N      | Push        |
 | [[Internet Archive]]*           | Non-Profit    | N             | Y  | Y      | Push        |
-| [[JSTOR]]*                      | Non-Profit    | Y             | Y  | Y      | Push        |
-| [[Library Genesis]]*            | Pirate        | N             | Y  | Y      | Push        |
-| [[Memory of the World]]*        | Pirate        | N             | Y  | Y      | Push        |
 | [[OAPEN]]*                      | Non-Profit    | Y             | Y  | N      | Push        |
 | [[Open Bookshelf]] (DPLA)       | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Edition]]                | Non-Profit    | ?             | Y  | Y      | ?           |
-| [[Open Research Library]]       | Commercial    | N             | Y  | N      | Expose      |
 | [[Open Library]]                | Non-Profit    | Y             | Y  | Y      | Push        |
-| [[Project MUSE]]*               | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[Project Gutenberg]]           |               |               |    |        |          |
 | [[Verdensbiblioteket]]          | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikibooks]]                   | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikisource]]                  | Non-Profit    | N             | Y  | N      | ?        |
+
+### Shadow Libraries
+
+| Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
+| :---                            | :---          | :---          |:---|:---    |:---         |
+| [[Aaaaarg.fail]]*               | Shadow        | N             | Y  | Y      | Push        |
+| [[Library Genesis]]*            | Shadow        | N             | Y  | Y      | Push        |
+| [[Memory of the World]]*        | Shadow        | N             | Y  | Y      | Push        |
 
 ### National Libraries
 
@@ -133,7 +148,26 @@ Digital libraries acquire and maintain collections of digital objects. The table
 * [[Digital Public Library of America]] (DPLA)
 * ...
 
-## Bibliographic Reference Management Platforms
+### Consumer Ebook Platforms
+
+* [[Google Play Books]]*
+* [[Kindle]]
+* [[Kobo]]
+* [[Nook]]
+
+## Ebook Distributors 
+
+Ebook distributors differ from Digital Libraries in the sense that they do not claim to offer a scholarly function, be that to research institutions or to the general public. Distributors repackage and normalize ebook metadata. Most ebook distributors operate some form of monetization scheme, which may not be hospitable to OA books.
+
+* [[Axiell]]
+* [[Open Edition]] 
+* [[Open Research Library]]
+* [[OverDrive]]*
+* [[RNIB Bookshare]]
+* [[StreetLib]]
+* [[Unglue.it]]
+
+# Bibliographic Reference Management Platforms
 
 All currently available bibliographic management platforms support import from [[BibTeX]] and [[RIS]]. Overall, these appear to be the two major formats. An excellent overview of every single platform is provided on the [OpenOffice wiki](https://wiki.openoffice.org/wiki/Bibliographic/Software_and_Standards_Information).
 
@@ -151,7 +185,7 @@ All currently available bibliographic management platforms support import from [
 | [[RefWorks]]     | Individual    | Commercial  | ? | [Y](https://knowledge.exlibrisgroup.com/RefWorks/Legacy_RefWorks/03Get_References/020Converting_from_Other_Bibliographic_Management_Programs) |
 | [[Zotero]]*      | Individual    | Open Source | [Y](https://www.zotero.org/support/kb/importing_standardized_formats)| [Y](https://www.zotero.org/support/kb/importing_standardized_formats)|
 
-## Metadata Aggregators
+# Metadata Aggregators
 
 Metadata aggregators ingest metadata from publishers and expose these to libraries to aid them in the process of acquisition and collection building, as well as retailers.
 
@@ -161,7 +195,7 @@ Metadata aggregators ingest metadata from publishers and expose these to librari
 | [[DOAB]]*                       | Non-Profit    | N?            | Bk       | Bk       | Y  | N      | Push/Expose |
 | [[ProQuest 360 Core]]           | Commercial    |               | Bk/(Ch?) | Bk/(Ch?) | Y  | Y      | Push        |
 
-## Citation Indexes/Discovery Platforms
+# Citation Indexes/Discovery Platforms
 
 Citation Indexes and Discovery Platforms are search engines built on top of specific publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc.
 
@@ -195,34 +229,22 @@ Citation Indexes and Discovery Platforms are search engines built on top of spec
 
 The discovery platform of EBSCO is linked to its [[EBSCO ebooks]] service.
 
-## Ebook Distributors 
-
-Ebook distributors differ from Digital Libraries in the sense that they do not claim to offer a scholarly function, be that to research institutions or to the general public. Most ebook distributors operate some form of monetization scheme, which may not be hospitable to OA books.
-
-* [[Axiell]]
-* [[Google Play Books]]*
-* [[Open Edition]] 
-* [[OverDrive]]*
-* [[RNIB Bookshare]]
-* [[StreetLib]]
-* [[Unglue.it]]
-
-## Publishing Platforms
+# Publishing Platforms
 
 Publishing platforms allow authors, editors, and publishers to collaborate in a digital, in-browser environment, with a potential to radically transform publishing production pipelines.
 
 * [[Fulcrum]]
 * [[Editoria]]
 
-## Print Book Distributors
+# Print Book Distributors
 
 There are basically only two main print book distributors available to OA publishers who wish to use print-on-demand for their hardcopy publications, [[Amazon KDP]] and [[Ingram Lightning Source]]. Both require the manual input of metadata upload of print-ready PDF files without apparent batch or automated upload options. 
 
-## OER
+# OER
 
 Open Educational Resources (OER) focus mainly on textbooks rather than scholarly publications. 
 
-### Digital OER Libraries
+## Digital OER Libraries
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
 | :---                            | :---          | :---          |:---|:---    |:---         |
@@ -231,13 +253,13 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 | [[OER Commons]]                 | Non-Profit    | Y             | Y  | N      | Push |
 | [[Open Textbook Library]]       | Non-Profit    | N             | Y  | N      | Push | 
 
-### OER Citation Indexes/Discovery Platforms
+## OER Citation Indexes/Discovery Platforms
 
 * [[OASIS]]
 * [[Mason OER Metafinder]]
 * [[OERWorldmap]]
 
-## Archiving Platforms
+# Archiving Platforms
 
 * [[Internet Archive – Wayback Machine]]
 * [[LOCKSS]] & [[CLOCKSS]]
