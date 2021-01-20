@@ -183,7 +183,7 @@ Catalog management systems for individual libraries.
 
 Library-agnostic, global content indices.
 
-* [[Alma's Central Knowledge Base]] (ProQuest)
+* [[Alma's Central KnowledgeBase]] (ProQuest)
 * [[BDSLive]]* 
 * [[ProQuest 360 Core]] 
 * [[WorldCat KnowledgeBase]] (OCLC)
