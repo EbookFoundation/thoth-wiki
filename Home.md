@@ -133,6 +133,8 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 
 ### National Libraries
 
+Check teh [List of National and State Libraries](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries) (Wiki)
+
 * [[British Library]]*
 * [[Library of Congress]]*
 * [[National Library of France]]
@@ -140,13 +142,11 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 * [[National Library of Scotland]]
 * [[National Library of Spain]]
 * [[National Library of Sweden]]
-* [List of National and State Libraries](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries) (Wiki)
 
 ### GLAM libraries
 
 * [[Europeana]]
 * [[Digital Public Library of America]] (DPLA)
-* ...
 
 ### Consumer Ebook Platforms
 
@@ -195,21 +195,19 @@ Library-agnostic, global content indices.
 
 * [[Crossref]]
 
-## Web-scale Search Engines
+## Publication Database Search Engines
 
-Search engines built on top of publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc
+Search engines built on top of publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc. See also the [recent comparative study](https://arxiv.org/abs/2005.10732) by Visser, Van Eck, and Waltman. 
 
 * [[BASE]] (Bielefeld Academic Search Engine)
 * [[Dimensions]]
 * [[FatCat]] (Internet Archive)
-* [[Google Scholar]]
 * [[IEEE Xplore]]
 * [[Internet Scholar Archive]] (Internet Archive)
 * [[Lens]]
 * [[LexisNexis]]
 * [[Library Hub Discover]]* (Jisc)
 * [[MathSciNet]]
-* [[Microsoft Academic]]
 * [[OpenAIRE Research Graph]]
 * [[Open Research Knowledge graph]]
 * [[OpenTexts.World]] 
@@ -224,12 +222,11 @@ Search engines built on top of publication databases tailored toward researches.
 * [[Web of Science]] (Clarivate)
 * [[WorldCat Discovery]]* (OCLC)
 
-`add also references from https://musingsaboutlibrarianship.blogspot.com/2020/11/more-new-search-discovery-apps-fatcat.html and https://musingsaboutlibrarianship.blogspot.com/2020/11/the-next-generation-discovery-citation.html`
+## Web-scale Search Engines
 
-`add references from https://arxiv.org/abs/2005.10732`
-
-
-
+* [[Google Scholar]]
+* [[Microsoft Academic]]
+* [[Semantic Scholar]]
 
 # Bibliographic Reference Management Platforms
 
