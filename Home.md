@@ -187,6 +187,7 @@ Library-agnostic, global content indices.
 * [[Alma's Central KnowledgeBase]] (ProQuest)
 * [[BDSLive]]* 
 * [[ProQuest 360 Core]] 
+* [[WikiData]]
 * [[WorldCat KnowledgeBase]] (OCLC)
 
 ## Third-party Content Indices 
