@@ -255,8 +255,10 @@ All currently available bibliographic management platforms support import from [
 
 Publishing platforms allow authors, editors, and publishers to collaborate in a digital, in-browser environment, with a potential to radically transform publishing production pipelines.
 
-* [[Fulcrum]]
 * [[Editoria]]
+* [[Fulcrum]]
+* [[Manifold]]
+* [[Scalar]]
 
 # Print Book Distributors
 
