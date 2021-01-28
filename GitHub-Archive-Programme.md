@@ -1,0 +1,12 @@
+### Link: 
+[archiveprogram.github.com](https://archiveprogram.github.com/) 
+### Summary: 
+GitHub has partnered with the Long Now Foundation, the Internet Archive, the Software Heritage Foundation, Arctic World Archive, Microsoft Research, the Bodleian Library, and Stanford Libraries to store multiple copies of software using their platform, on an ongoing basis, across various data formats and locations, including an archive designed to last at least 1,000 years.
+### Format types: 
+Various (unspecified)
+### Third-party content support: 
+Unspecified
+### Features: 
+On every push to GitHub, they replicate Git data to multiple datacentres around the world. Additionally, they store backups of Git data, Issues, Pull Requests on GitHub in multiple locations. All of this data is available live via the GitHub API. GHTorrent monitors the GitHub public event timeline, archives those events, and makes them queryable using BigQuery. You can also download snapshots by hour, day, or month. GHArchive monitors the GitHub public event timeline, archives those events, and recursively crawl and archive their contents and dependencies. Those archives will then be made available for download on a daily or monthly basis. The Wayback Machine will crawl GitHub’s public repositories—including new repositories, issues, pull requests, wikis, and more—and store copies on hard drives in San Francisco and other locations. These archives will be publicly available via git and https. The Software Heritage Foundation will crawl GitHub on a regular basis and add its public repos to their archive, to which they provide public API access. Oxford University’s Bodleian Library will provide redundancy for the Arctic Code Vault by keeping GitHub’s 10,000 most-starred and most-depended-upon repositories in their depository as duplicate Piql film reels. On February 2, 2020, GitHub captured a snapshot of every active public repository, to be preserved in the GitHub Arctic Code Vault. This data will be stored on 3,500-foot film reels, provided and encoded by Piql, a Norwegian company that specialises in very-long-term data storage. The film technology relies on silver halides on polyester. This medium has a lifespan of 500 years as measured by the ISO; simulated aging tests indicate Piql’s film will last twice as long. The GitHub Archive Program is partnering with Microsoft’s Project Silica to ultimately archive all active public repositories for over 10,000 years, by writing them into quartz glass platters using a femtosecond laser.
+### Costs: 
+Free.
