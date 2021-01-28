@@ -297,7 +297,7 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[Fulcrum]]
 * [[GitHub Archive Programme]]
 * [[HathiTrust]]
-* [[Internet Archive – Wayback Machine]]
+* [[Internet Archive]]
 * [[LIBSAFE]]
 * [[LOCKSS]]
 * [[MetaArchive]]
@@ -307,6 +307,7 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[ReplayWeb.Page]]
 * [[RODA]]
 * [[Samvera]]
+* [[Wayback Machine]]
 * [[WebCite]]
 
 ## Repositories
