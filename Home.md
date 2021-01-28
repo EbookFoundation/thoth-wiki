@@ -315,7 +315,7 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[British Library]]
 * [[Brown University Library]]
 * [[Cambridge University Library]]
-* [[EconStor]
+* [[EconStor]]
 * [[peDOCS]]
 * [[Social Science Open Access Repository]]
 * [[Zenodo]]
