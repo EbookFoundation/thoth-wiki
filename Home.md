@@ -283,9 +283,39 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[Mason OER Metafinder]]
 * [[OERWorldmap]]
 
-# Archiving Platforms
+# Archiving and Preservation 
 
+## Existing Preservation Solutions
+* [[Archive-It]]
+* [[Archivematica]]
+* [[Arkivum Perpetua]]
+* [[APTrust]]
+* [[CLOCKSS]]
+* [[Conifer]]
+* [[Digital Bedrock]]
+* [[Emulation as a Service Infrastructure (EaaSI)]]
+* [[Fulcrum]]
+* [[GitHub Archive Programme]]
+* [[HathiTrust]]
 * [[Internet Archive – Wayback Machine]]
-* [[LOCKSS]] & [[CLOCKSS]]
+* [[LIBSAFE]]
+* [[LOCKSS]]
+* [[MetaArchive]]
+* [[Perma.cc]]
 * [[Portico]]
+* [[Preservica]]
+* [[ReplayWeb.Page]]
+* [[RODA]]
+* [[Samvera]]
+* [[WebCite]]
+
+## Repositories
+
+* [[Archaeology Data Service]]
+* [[British Library]]
+* [[Brown University Library]]
+* [[Cambridge University Library]]
+* [[EconStor]
+* [[peDOCS]]
+* [[Social Science Open Access Repository]]
 * [[Zenodo]]
