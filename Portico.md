@@ -13,4 +13,5 @@ Mostly expect that the publisher will package everything and send it to them. Oc
 ### Features: 
 Can download from interface, validate and migrate file formats, perform fixity checks. Current approach works very well for content that looks similar to the print world; Portico are also exploring solutions for more dynamic content and reference databases where access is networked rather than hierarchical, with a particular focus on what can scale. 
 
-### Costs: Tiered model based on revenue, starting at $1,000. Additional one-off set-up fee.
+### Costs: 
+Tiered model based on revenue, starting at $1,000. Additional one-off set-up fee.
