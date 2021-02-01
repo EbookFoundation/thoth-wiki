@@ -13,4 +13,5 @@ Many different media types are supported for direct upload.
 ### Preservation: 
 The ADS maintain multiple copies of data in order to facilitate disaster recovery and provide resilience. The University of York provides short and medium-term storage of all datasets held by the repository. All data is stored on a pair of Dell Compellent enterprise storage arrays (current capacity ~1Pb), located in two different data centres. The UoY ITS use Linear Tape-Open (LTO-6) for 90-day backups. UoY ITS plan to continue to migrate to newer LTO versions (with greater durability and storage capacity) as a matter of course; migrating to newer LTO versions will help to ensure against media deterioration. The ADS has implemented cloud-based storage via Amazon Web Services (AWS) for long-term/deep storage of the off-site backup only.
 
-### Costs: Charges are made on a per-file basis.
+### Costs: 
+Charges are made on a per-file basis.
