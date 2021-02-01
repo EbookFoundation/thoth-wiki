@@ -1,5 +1,5 @@
 ### Link: 
-[www.econstor.eu](https://www.econstor.eu)
+[www.econstor.eu](http://www.econstor.eu)
 
 ### Summary: 
 A publication server for scholarly economic literature, provided as a non-commercial public service by the ZBW.
