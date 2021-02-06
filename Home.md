@@ -319,6 +319,11 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[PREMIS]]
 * [[Dublin Core]]
 * [[Library of Congress BagIt]]
+* [[TIFF]]
+* [[ITU]] 
+* [[G4]]
+* [[JP2 (JPEG 2000 part 1)]]
+* [[Unicode OCR]]
 
 ## Repositories
 
