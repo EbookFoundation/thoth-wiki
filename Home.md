@@ -326,6 +326,10 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[Unicode OCR]]
 * [[WAC]]
 * [[OAIS ISO 14721 standard]]
+* [[CDX]]
+* [[WACZ]]
+* [[HAR]]
+* [[WBN]]
 
 ## Repositories
 
