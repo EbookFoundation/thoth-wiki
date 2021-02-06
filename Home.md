@@ -324,6 +324,7 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[G4]]
 * [[JP2 (JPEG 2000 part 1)]]
 * [[Unicode OCR]]
+* [[WAC]]
 
 ## Repositories
 
