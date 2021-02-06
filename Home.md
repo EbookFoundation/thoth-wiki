@@ -313,6 +313,8 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 ## Format Types
 
 * [[WARC]]
+* [[ARC]]
+* [[HAR]]
 * [[METS]]
 * [[PREMIS]]
 * [[Dublin Core]]
