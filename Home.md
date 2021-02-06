@@ -312,23 +312,22 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 
 ## Format Types
 
-* [[WARC]]
 * [[ARC]]
-* [[HAR]]
-* [[METS]]
-* [[PREMIS]]
+* [[CDX]]
 * [[Dublin Core]]
-* [[Library of Congress BagIt]]
-* [[TIFF]]
-* [[ITU]] 
 * [[G4]]
+* [[HAR]]
+* [[ITU]] 
 * [[JP2 (JPEG 2000 part 1)]]
+* [[Library of Congress BagIt]]
+* [[METS]]
+* [[OAIS ISO 14721 standard]]
+* [[PREMIS]]
+* [[TIFF]]
 * [[Unicode OCR]]
 * [[WAC]]
-* [[OAIS ISO 14721 standard]]
-* [[CDX]]
 * [[WACZ]]
-* [[HAR]]
+* [[WARC]]
 * [[WBN]]
 
 ## Repositories
