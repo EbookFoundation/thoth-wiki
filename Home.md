@@ -311,6 +311,7 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[WebCite]]
 
 ## Format Types
+Wikipedia [List or Archive Formats](https://en.wikipedia.org/wiki/List_of_archive_formats)
 
 * [[ARC]]
 * [[CDX]]
