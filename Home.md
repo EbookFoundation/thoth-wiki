@@ -316,7 +316,6 @@ See also: Wikipedia [List or Archive Formats](https://en.wikipedia.org/wiki/List
 
 * [[ARC]]
 * [[CDX]]
-* [[Dublin Core]]
 * [[G4]]
 * [[HAR]]
 * [[ITU]] 
