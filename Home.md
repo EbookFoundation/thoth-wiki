@@ -135,7 +135,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 
 ### National Libraries
 
-Check teh [List of National and State Libraries](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries) (Wiki)
+Check the [List of National and State Libraries](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries) (Wiki)
 
 * [[British Library]]*
 * [[Library of Congress]]*
@@ -180,6 +180,7 @@ Catalog management systems for individual libraries.
 * [[ExLibris]] Alma (ProQuest)
 * [[Folio]]
 * [[Worldshare]] (OCLC)
+* [[Koha]]
 
 ## Knowledge Bases
 
