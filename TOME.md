@@ -1,0 +1,3 @@
+[Toward an Open Monograph Ecosystem](https://books.openmonographs.org/browse) (TOME) uses a customized version of [figshare](https://docs.figshare.com/) to make OA books from its participating institution available online.
+
+`Note:` While figshare's technical specifications, including access to its REST API, OAI-PMH v2.0 implementation, etc, is well-documented at https://docs.figshare.com/ , at first glance it remains unclear how this has been adapted to the books.openmonographs.org service
