@@ -3,3 +3,5 @@ The Latin American Council of Social Sciences ([CLACSO](https://www.clacso.org/e
 Next to a variety of other content, access to ~1,400 OA books is provided by CLACSO's repository http://www.biblioteca.clacso.edu.ar/
 
 The repository provides [[Dublin Core]] metadata and has a OAI-MPH interface that is reachable at: http://biblioteca.clacso.edu.ar/gsdl/cgi-bin/oaiserver.cgi?verb=Identify
+
+Contact details: [biblioteca@clacso.edu.ar](mailto:biblioteca@clacso.edu.ar)
