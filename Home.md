@@ -112,6 +112,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
 | :---                            | :---          | :---          |:---|:---    |:---         |
+| [[CLACSO]]                      | Non-Profit    | ?             | Y  | N      | ?           |
 | [[Érudit]]                      | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Finna.fi]]                    | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Y  | N      | Push        |
