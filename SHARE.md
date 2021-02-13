@@ -1,4 +1,4 @@
-SHARE is an open-source community developing tools and services to connect related research outputs for new kinds of scholarly discovery. Their meta-search includes >1.3 mio. OA books.
+[SHARE](https://share.osf.io) is an open-source community developing tools and services to connect related research outputs for new kinds of scholarly discovery. Their meta-search includes [>1.3 mio. OA books](https://share.osf.io/discover?type[]=book).
 
 The [SHARE infrastructure](https://github.com/CenterForOpenScience/SHARE) was developed by the [Association of Research Libraries](http://www.arl.org/) in partnership with the [Center for Open Science](http://cos.io/). SHARE is funded by the [Institute of Museum and Library Services](http://www.imls.gov/) and the [Alfred P. Sloan Foundation](http://www.sloan.org/). The SHARE initiative was founded in 2013 by ARL, the Association of American Universities (AAU), and the Association of Public and Land-grant Universities (APLU). 
 
