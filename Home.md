@@ -222,10 +222,11 @@ Search engines built on top of publication databases tailored toward researches.
 * [[Orion Search]]
 * [[PubMed]]
 * [[ResearchGraph]]
+* [[S2ORC - Semantic Scholar Open Research Corpus]]
 * [[ScienceOpen]]
 * [[SciFinder]]
 * [[Scopus]] (RELX)
-* [[S2ORC - Semantic Scholar Open Research Corpus]]
+* [[SHARE]] (COS- Center for Open Science)
 * [[Summon]] (ProQuest)
 * [[Web of Science]] (Clarivate)
 * [[WorldCat Discovery]]* (OCLC)
