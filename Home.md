@@ -226,7 +226,7 @@ Search engines built on top of publication databases tailored toward researches.
 * [[ScienceOpen]]
 * [[SciFinder]]
 * [[Scopus]] (RELX)
-* [[SHARE]] (COS- Center for Open Science)
+* [[SHARE]] (ARL/COS)
 * [[Summon]] (ProQuest)
 * [[Web of Science]] (Clarivate)
 * [[WorldCat Discovery]]* (OCLC)
