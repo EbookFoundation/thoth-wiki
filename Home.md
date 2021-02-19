@@ -287,6 +287,7 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 * [[OASIS]]
 * [[Mason OER Metafinder]]
 * [[OERWorldmap]]
+* [[Pressbooks Directory]]
 
 # Archiving and Preservation 
 
