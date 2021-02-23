@@ -4,3 +4,4 @@ Several tools and strategies exist to make WikiCite happen. The goals of WikiCit
 
 * GitHub repo: https://github.com/wikicite
 * Meta-Wiki on the WikiCite community: https://meta.wikimedia.org/wiki/WikiCite
+* A recent presentation on WikiCite: https://scholarworks.iupui.edu/handle/1805/25260
