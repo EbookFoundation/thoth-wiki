@@ -16,3 +16,8 @@ The Lens provides a versioned REST API, with SwaggerUI output available "for que
 * Lens API Documentation: https://docs.api.lens.org/
 * Lens API Sample Response: https://docs.api.lens.org/response.html#sample-api-response
 
+## Institution toolkit
+
+Lens.org offers a subscription-based premium service called "Lens for Institution" that provides packaged access to a set of services.
+More on: https://www.lens.org/lens/institutions
+
