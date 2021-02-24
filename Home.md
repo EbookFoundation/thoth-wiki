@@ -123,6 +123,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 | [[Open Edition]]                | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Library]]                | Non-Profit    | Y             | Y  | Y      | Push        |
 | [[Project Gutenberg]]           | Non-Profit    | N             | Y  | N      | Push        |
+| [[ScIELO Books]]                | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[TOME]] (figshare)             | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Verdensbiblioteket]]          | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikibooks]]                   | Non-Profit    | N             | Y  | N      | ?        |
