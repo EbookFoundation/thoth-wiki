@@ -12,3 +12,5 @@ SciELO eBook metadata is available in the ONIX for Books Product Information Mes
 ### Licensing
 
 CC BY NC (?) 
+
+Further info: http://books.scielo.org/en/template-terms-of-submission-and-authorization-for-scielo-books-to-index-publish-distribute-and-commercialize-the-on-line-digital-books/
