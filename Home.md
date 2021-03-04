@@ -294,6 +294,7 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 # Archiving and Preservation 
 
 ## Existing Preservation Solutions
+See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[Archive-It]]
 * [[Archivematica]]
 * [[Arkivum Perpetua]]
@@ -337,9 +338,6 @@ See also: Wikipedia [List or Archive Formats](https://en.wikipedia.org/wiki/List
 * [[WACZ]]
 * [[WARC]]
 * [[WBN]]
-
-## Preservation Systems
-See list: https://coptr.digipres.org/Category:Preservation_System
 
 ## Repositories Systems
 
