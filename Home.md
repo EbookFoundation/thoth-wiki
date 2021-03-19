@@ -299,6 +299,7 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[Archivematica]]
 * [[Arkivum Perpetua]]
 * [[APTrust]]
+* [[CINES]]
 * [[CLOCKSS]]
 * [[Conifer]]
 * [[Digital Bedrock]]
