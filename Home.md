@@ -26,20 +26,22 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[CSV]]* or [[XLSX]]
   * [[KBART]]*
 * [[JSON]]
+* [[MAB2]]
+* [[MARC 21]]
 * [[RDF]]
   * [[BIBFRAME 2.0]]*
   * [[SKOS]]
 * [[XML]]
   * [[MABXML]]
   * [[MARCXML]]*
+  * [[OAI-PMH]]
   * [[ONIX 2.1]]*
   * [[ONIX 3.0]]*
 * [[WikiData]]
   * [[WikiCite]]
 
-* [[MAB2]]
-* [[MARC 21]]
-* [[OAI-PMH]]
+
+
 
 
 ### Citations and Bibliographies
