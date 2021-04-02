@@ -4,7 +4,7 @@
 The Lots of Copies Keep Stuff Safe (LOCKSS) programme one of the longest-running digital preservation initiatives still operating today. Provides the foundation for robust digital preservation of all types of digital content for libraries, publishers, and other content providers and stewards. The Global LOCKSS Network provides post-cancellation and perpetual access for eligible web-harvestable open access and subscription publications to participating libraries. See also [[CLOCKSS]].
 
 ### Format types: 
-Supports a range of formats. WARC as default for back-end storage abstraction.
+Supports a range of formats. [[WARC]] as default for back-end storage abstraction.
 
 ### Third-party content support: 
 Uses plug-ins to automatically ingest content, so does not specifically pull out or identify third-party content.
