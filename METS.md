@@ -1,0 +1,1 @@
+The Metadata Encoding and Transmission Standard (METS) is a standard for encoding descriptive, administrative, and structural metadata regarding objects within a digital library expressed in [[XML]]. Specs can be found on the website the [Library of Congress](https://www.loc.gov/standards/mets/).
