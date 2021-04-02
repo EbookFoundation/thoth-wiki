@@ -23,7 +23,7 @@ Data formats are the formats in which the textual content of an [[object]] are c
 Metadata formats are the formats in which the [[metadata]] of an [[object]] are stored. Metadata formats have been developed as part of software packages or as consortial standards and mayb be constructed on top of higher-level metadata syntax. Different stakeholders in the [[scholcomm pipeline]] use different metadata formats for different purposes. Moreover, different stakeholders maintain different subsets of the metadata potentially contained in specific formats. Thoth aims for a holistic approach, being able to export as many formats in as many flavors as possible. 
 
 * [[XML]]-based
- * [[MABXML]]
+  * [[MABXML]]
  * [[MARCXML]]*
  * [[ONIX 2.1]]*
  * [[ONIX 3.0]]*
