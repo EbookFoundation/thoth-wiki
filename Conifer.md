@@ -5,7 +5,7 @@
 Conifer is a web archiving service that creates an interactive copy of any web page that you browse, including content revealed by your interactions such as playing video and audio, scrolling, clicking buttons, and so forth.
 
 ### Format types: 
-WARC, ARC, HAR
+[[WARC]], [[ARC]], [[HAR]]
 
 ### Third-party content support: 
 Recreates more of the user experience than other web archives (e.g. navigation, embedding).
