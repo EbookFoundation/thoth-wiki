@@ -324,9 +324,13 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[WebCite]]
 
 ## Format Types
-See also: Wikipedia [List or Archive Formats](https://en.wikipedia.org/wiki/List_of_archive_formats)
 
 * [[ARC]]
+* [[WARC]]
+
+
+
+
 * [[CDX]]
 * [[G4]]
 * [[HAR]]
@@ -340,7 +344,7 @@ See also: Wikipedia [List or Archive Formats](https://en.wikipedia.org/wiki/List
 * [[Unicode OCR]]
 * [[WAC]]
 * [[WACZ]]
-* [[WARC]]
+
 * [[WBN]]
 
 ## Repositories Systems
