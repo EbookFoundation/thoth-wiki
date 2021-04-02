@@ -29,6 +29,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[KBART]]*
 * [[JSON]]
 * [[MAB2]]
+* [[MABXML]]
 * [[MARC 21]]
 * [[MARCXML]]*
 * [[OAI-PMH]]
