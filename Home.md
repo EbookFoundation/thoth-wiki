@@ -89,6 +89,8 @@ There are several databases of institution identifiers. The largest is GRID (98,
 * [[ISNI]]*
 
 ### Subject Identifiers
+Most subject identifiers are copyrighted schemata with limited reach, especially the schemes of [[Bowker]] and [[Amazon]]. The only open standard is [[Thema]].
+
 * [[BIC]]
 * [[BISAG]]
 * [[Bowker]]
