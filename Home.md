@@ -22,23 +22,30 @@ Data formats are the formats in which the textual content of an [[object]] are c
 
 Metadata formats are the formats in which the [[metadata]] of an [[object]] are stored. Metadata formats have been developed as part of software packages or as consortial standards. Different stakeholders in the [[scholcomm pipeline]] use different metadata formats for different purposes. Moreover, different stakeholders maintain different subsets of the metadata potentially contained in specific formats. Thoth aims for a holistic approach, being able to export as many formats in as many flavors as possible. 
 
+* [[XML]]-based
+** [[MABXML]]
+** [[MARCXML]]*
+** [[ONIX 2.1]]*
+** [[ONIX 3.0]]*
+
+* [[XLSX]]-based
+** [[KBART]]*
+
+* [[WikiData]]-based
+** [[WikiCite]]
+
+
 * [[BIBFRAME 2.0]]*
 * [[CreDiT]]*
 * [[CSV]]*
 * [[Dublin Core]]
-* [[KBART]]*
 * [[JSON]]
 * [[MAB2]]
-* [[MABXML]]
 * [[MARC 21]]
-* [[MARCXML]]*
 * [[OAI-PMH]]
-* [[ONIX 2.1]]*
-* [[ONIX 3.0]]*
 * [[RDF]]
-* [[XLSX]]
-* [[WikiData]]
-   * [[WikiCite]]
+
+
 
 `NOTE: **SKOS**, is a W3C recommendation designed for representation of thesauri, classification schemes, taxonomies, subject-heading systems, or any other type of structured controlled vocabulary. part of the Semantic Web family of standards built upon RDF and RDFS, and its main objective is to enable easy publication and use of such vocabularies as linked data. [...] built upon RDF and RDFS, and its main objective is to enable easy publication and use of such vocabularies as linked data. (Toby added a short note to the RDF entry, not sure if this should get its own Wiki page?)`
 
