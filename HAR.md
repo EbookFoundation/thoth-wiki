@@ -2,4 +2,4 @@ HTTP Archive (HAR) format is an archival format for HTTP transactions that can b
 
 [[Ex Libris]] has a [tutorial](https://knowledge.exlibrisgroup.com/Cross-Product/Knowledge_Articles/Creating_an_HAR_(HTTP_archive_format)_file) on how to create HAR files.
 
-HAR is used by [[Conifer]].
+HAR is used by [[Conifer]], [[ReplayWeb.Page]].
