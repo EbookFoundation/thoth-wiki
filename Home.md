@@ -94,7 +94,6 @@ Most subject identifiers are copyrighted schemata with limited reach, especially
 * [[BIC]]
 * [[BISAG]]
 * [[Bowker]]
-* [[KDP]]
 * [[LOC]]
 * [[Thema]]
 
