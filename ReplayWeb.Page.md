@@ -5,7 +5,7 @@
 ReplayWeb.page is an open-source browser-based system to replay archived web pages as accurately as possible, with interactive elements preserved. Archives can be loaded as static files from anywhere a browser can connect to, or from a user’s local machine.
 
 ### Format types: 
-WARC (preferred), CDX (supported), WACZ (in progress), HAR (in progress), WBN (experimental)
+[[WARC]] (preferred), [[CDX]] (supported), [[WACZ]] (in progress), [[HAR]] (in progress), [[WBN]] (experimental)
 
 ### Third-party content support: 
 Recreates 
