@@ -1,9 +1,4 @@
-https://www.w3.org/TR/rdf11-primer/
-
-**Note:** The Wellcome Library has created and supplies RDF-XML, Turtle and N-Triples for all OBP titles: eg https://wellcomelibrary.org/item/b28462312#?c=0&m=0&s=0&cv=0
-
-
-The Resource Description Framework (RDF) is a framework for expressing information about resources. Resources can be anything, including documents, people, physical objects, and abstract concepts.
+The [Resource Description Framework](https://www.w3.org/TR/rdf11-primer/) (RDF), managed by the W3C, is a framework for expressing information about resources. Resources can be anything, including documents, people, physical objects, and abstract concepts.
 
 RDF is intended for situations in which information on the Web needs to be processed by applications, rather than being only displayed to people. RDF provides a common framework for expressing this information so it can be exchanged between applications without loss of meaning. Since it is a common framework, application designers can leverage the availability of common RDF parsers and processing tools. The ability to exchange information between different applications means that the information may be made available to applications other than those for which it was originally created.
 
@@ -20,3 +15,5 @@ Serialization formats for RDF:
 
 * SKOS ontology: A variety of European national libraries (e.g. France, Germany, Spain, Finland) are promoting the use of RDF SKOS (Simple Knowledge Organization System), see https://www.w3.org/TR/skos-reference/ and https://www.w3.org/2001/sw/wiki/SKOS/Datasets
 Next to RDF, SKOS is also available as OWL data model. More on LOD in libraries https://core.ac.uk/download/pdf/32325353.pdf
+
+**Note:** The Wellcome Library has created and supplies RDF-XML, Turtle and N-Triples for all OBP titles: eg https://wellcomelibrary.org/item/b28462312#?c=0&m=0&s=0&cv=0
