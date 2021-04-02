@@ -35,11 +35,12 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
   * [[WikiCite]]
 
 * [[RDF]]-based
+  * [[BIBFRAME 2.0]]*
   * [[SKOS]]
 
 
 
-* [[BIBFRAME 2.0]]*
+
 * [[CreDiT]]*
 * [[Dublin Core]]
 * [[JSON]]
