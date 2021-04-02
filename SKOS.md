@@ -1,0 +1,4 @@
+SKOS is a W3C recommendation designed for representation of thesauri, classification schemes, taxonomies, subject-heading systems, or any other type of structured controlled vocabulary. part of the Semantic Web family of standards built upon [[RDF]] and RDFS, and its main objective is to enable easy publication and use of such vocabularies as linked data. [...] built upon RDF and RDFS, and its main objective is to enable easy publication and use of such vocabularies as linked data. 
+
+A variety of European national libraries (e.g. France, Germany, Spain, Finland) are promoting the use of RDF SKOS (Simple Knowledge Organization System), see https://www.w3.org/TR/skos-reference/ and https://www.w3.org/2001/sw/wiki/SKOS/Datasets
+Next to RDF, SKOS is also available as OWL data model. More on LOD in libraries https://core.ac.uk/download/pdf/32325353.pdf
