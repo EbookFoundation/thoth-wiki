@@ -296,6 +296,8 @@ Open Educational Resources (OER) focus mainly on textbooks rather than scholarly
 
 # Archiving and Preservation 
 
+For open archiving there is an Open Archiving Information System ([[OAIS]]) ISO definition.
+
 ## Existing Preservation Solutions
 See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[Archive-It]]
@@ -323,11 +325,18 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[Wayback Machine]]
 * [[WebCite]]
 
+## Metadata Schemas
+
+*[[XML]]
+  * [[METS]]
+  * [[PREMIS]]
+
 ## Archiving Formats
 
 ### Web Archiving Formats
 
 * [[ARC]]
+* [[BagIt]]
 * [[HAR]]
 * [[WACZ]]
 * [[WARC]]
@@ -349,13 +358,9 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 
 * [[CDX]]
 
-### Not Checked Yet
+### Other Formats
 
-* [[BagIt]]
-* [[METS]]
-* [[OAIS ISO 14721 standard]]
-* [[PREMIS]]
-* [[Unicode OCR]]
+* [[Unicode OCR]] (??)
 
 
 ## Repository Systems
