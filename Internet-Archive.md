@@ -14,7 +14,7 @@ The [Internet Archive](https://archive.org/) is a free online digital library. A
 The Internet Archive, a 501(c)(3) non-profit, is a digital library of internet sites and other cultural artifacts in digital form that provides free access. Contains 475 billion web pages, 28 million books and texts, 14 million audio recordings (including 220,000 live concerts), 6 million videos (including 2 million Television News programs), 3.5 million images, 580,000 software programs. Has newly launched an Internet Archive Scholar search engine. For books, see Archive-It.
 
 ### Format types: 
-Users input URLs, transformed to [[WAC]]
+Users input URLs, transformed to [[WARC]]
 
 ### Third-party content support: 
 When a dynamic page contains forms, JavaScript, or other elements that require interaction with the originating host, the archive will not contain the original site’s functionality.
