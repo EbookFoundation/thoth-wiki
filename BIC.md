@@ -1,0 +1,1 @@
+BIC Subject Codes are being phased out in favor of [[Thema]], but still used by for example [[OAPEN]]. The Subject Code list is managed (though no longer updated) by [Editeur](https://ns.editeur.org/bic_categories/). 
