@@ -1,0 +1,1 @@
+PREMIS Data Dictionary for Preservation Metadata is the international standard for metadata to support the preservation of digital objects and ensure their long-term usability. See specs on the website of the [Library of Congress](https://www.loc.gov/standards/premis/).
