@@ -28,7 +28,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
   * [[ONIX 2.1]]*
   * [[ONIX 3.0]]*
 
-* [[XLSX]]-based
+* [[CSV]]* or [[XLSX]]-based
   * [[KBART]]*
 
 * [[WikiData]]-based
@@ -41,7 +41,6 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 
 * [[BIBFRAME 2.0]]*
 * [[CreDiT]]*
-* [[CSV]]*
 * [[Dublin Core]]
 * [[JSON]]
 * [[MAB2]]
