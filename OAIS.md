@@ -1,0 +1,1 @@
+Open Archiving Information System (OAIS) is an [ISO standard](https://www.iso.org/standard/57284.html) consisting of an organization, which may be part of a larger organization, of people and systems that has accepted the responsibility to preserve information and make it available for a designated community. See further http://www.oais.info/standards-process/.
