@@ -325,8 +325,9 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 
 ## Archiving Formats
 
+### Web Archiving Formats
+
 * [[ARC]]
-* [[CDX]]
 * [[HAR]]
 * [[WACZ]]
 * [[WARC]]
@@ -344,6 +345,8 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[JP2 (JPEG 2000 part 1)]]
 * [[TIFF]]
 
+
+* [[CDX]]
 
 ### Not Checked Yet
 
