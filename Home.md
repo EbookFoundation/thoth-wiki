@@ -24,18 +24,20 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 
 * [[XML]]-based
   * [[MABXML]]
- * [[MARCXML]]*
- * [[ONIX 2.1]]*
- * [[ONIX 3.0]]*
+  * [[MARCXML]]*
+  * [[ONIX 2.1]]*
+  * [[ONIX 3.0]]*
 
 * [[XLSX]]-based
- * [[KBART]]*
+  * [[KBART]]*
 
 * [[WikiData]]-based
- * [[WikiCite]]
+  * [[WikiCite]]
 
 * [[RDF]]-based
- * [[SKOS]]
+  * [[SKOS]]
+
+
 
 * [[BIBFRAME 2.0]]*
 * [[CreDiT]]*
