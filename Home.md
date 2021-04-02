@@ -22,30 +22,28 @@ Data formats are the formats in which the textual content of an [[object]] are c
 
 Metadata formats are the formats in which the [[metadata]] of an [[object]] are stored. Metadata formats have been developed as part of software packages or as consortial standards and mayb be constructed on top of higher-level metadata syntax. Different stakeholders in the [[scholcomm pipeline]] use different metadata formats for different purposes. Moreover, different stakeholders maintain different subsets of the metadata potentially contained in specific formats. Thoth aims for a holistic approach, being able to export as many formats in as many flavors as possible. 
 
-* [[XML]]-based
+* [[JSON]]
+  * [[RDF]]
+    * [[BIBFRAME 2.0]]*
+    * [[SKOS]]
+
+* [[XML]]
   * [[MABXML]]
   * [[MARCXML]]*
   * [[ONIX 2.1]]*
   * [[ONIX 3.0]]*
+  * [[RDF]]
+    * [[BIBFRAME 2.0]]*
+    * [[SKOS]]
 
-* [[CSV]]* or [[XLSX]]-based
+* [[CSV]]* or [[XLSX]]
   * [[KBART]]*
 
-* [[RDF]]-based
-  * [[BIBFRAME 2.0]]*
-  * [[SKOS]]
-
-* [[WikiData]]-based
+* [[WikiData]]
   * [[WikiCite]]
-
-
-
-
-
 
 * [[CreDiT]]*
 * [[Dublin Core]]
-* [[JSON]]
 * [[MAB2]]
 * [[MARC 21]]
 * [[OAI-PMH]]
