@@ -323,29 +323,36 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[Wayback Machine]]
 * [[WebCite]]
 
-## Format Types
+## Archiving Formats
 
 * [[ARC]]
-* [[WARC]]
-
-
-
-
 * [[CDX]]
-* [[G4]]
 * [[HAR]]
+* [[WACZ]]
+* [[WARC]]
+* [[WBN]]
+
+### General File Archiving Formats
+
+* [[TAR]]
+* [[ZIP]]
+
+### Image Compression Formats
+
+* [[G4]]
 * [[ITU]] 
 * [[JP2 (JPEG 2000 part 1)]]
+* [[TIFF]]
+
+
+### Not Checked Yet
+
 * [[Library of Congress BagIt]]
 * [[METS]]
 * [[OAIS ISO 14721 standard]]
 * [[PREMIS]]
-* [[TIFF]]
 * [[Unicode OCR]]
-* [[WAC]]
-* [[WACZ]]
 
-* [[WBN]]
 
 ## Repositories Systems
 
