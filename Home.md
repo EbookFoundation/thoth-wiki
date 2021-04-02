@@ -31,12 +31,14 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[CSV]]* or [[XLSX]]-based
   * [[KBART]]*
 
-* [[WikiData]]-based
-  * [[WikiCite]]
-
 * [[RDF]]-based
   * [[BIBFRAME 2.0]]*
   * [[SKOS]]
+
+* [[WikiData]]-based
+  * [[WikiCite]]
+
+
 
 
 
@@ -48,11 +50,6 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[MARC 21]]
 * [[OAI-PMH]]
 
-
-
-
-
-`NOTE: **SKOS**, is a W3C recommendation designed for representation of thesauri, classification schemes, taxonomies, subject-heading systems, or any other type of structured controlled vocabulary. part of the Semantic Web family of standards built upon RDF and RDFS, and its main objective is to enable easy publication and use of such vocabularies as linked data. [...] built upon RDF and RDFS, and its main objective is to enable easy publication and use of such vocabularies as linked data. (Toby added a short note to the RDF entry, not sure if this should get its own Wiki page?)`
 
 ### Citations and Bibliographies
 
