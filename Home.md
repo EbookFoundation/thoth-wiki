@@ -351,7 +351,7 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 
 ### Not Checked Yet
 
-* [[Library of Congress BagIt]]
+* [[BagIt]]
 * [[METS]]
 * [[OAIS ISO 14721 standard]]
 * [[PREMIS]]
