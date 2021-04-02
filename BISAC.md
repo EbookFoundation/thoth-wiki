@@ -1,0 +1,1 @@
+Outdated subject classification scheme used by [[JSTOR]] and [[KDP]]. The complete list of BISAC subject codes can be found [here](https://bisg.org/page/BISACEdition).
