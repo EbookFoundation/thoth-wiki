@@ -1,1 +1,5 @@
-[ScienceOpen](https://www.scienceopen.com/) is a discovery platform for scholarly research. Its database is openly accessible to users, but is solely focused on articles.
+[ScienceOpen](https://www.scienceopen.com/) is a discovery platform for scholarly research. Its database is openly accessible to users. While initially focusing on OA journal articles, ScienceOpen has been expanding its reach to include OA books, which now amounts to >3 million book and chapter records aggregated.
+
+As of 2021-04, a dedicated project funded by Germany's Federal Ministry of Education and Research is seeking to more formally place OA books/monographs within the scope of ScienceOpen, with a corresponding plan to develop an advanced metadata standard.
+
+> _The ScienceOpen platform shall make metadata creation, management, and delivery an intuitive and easy to handle task for open access publishers to support best-practices and increase discoverability._ Source: [ScienceOpen blog](https://blog.scienceopen.com/2021/04/bmbf-funded-open-access-project/)
