@@ -218,6 +218,7 @@ Search engines built on top of publication databases tailored toward researches.
 * [[FatCat]] (Internet Archive)
 * [[IEEE Xplore]]
 * [[Internet Scholar Archive]] (Internet Archive)
+* [[ISIDORE]] (huma-num)
 * [[Lens]]
 * [[LexisNexis]]
 * [[Library Hub Discover]]* (Jisc)
