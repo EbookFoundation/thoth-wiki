@@ -2,7 +2,7 @@ Run by Huma-Num, [ISIDORE](https://isidore.science/) is a search engine providin
 
 ISIDORE harvests records, metadata and full text from electronic publications, corpora, databases and scientific news, accessible on the web and offered in open and interoperable standards. ISIDORE harvests data in French (produced in France or in the French-speaking world), English and Spanish. Once harvested, this information is enriched in three languages (English, Spanish and French) by cross-referencing with professional repositories (vocabulary lists, thesauri, repositories). These repositories are produced either by the scientific community (GeoEthno, Pactols, etc.) or by major institutions in the field of higher education and research (Rameau, LCSH, BNE, Gemet, Lexvo, GeoNames, etc.). Multilingual enrichments allow data to be linked together. This information is entry points to the full text, which is also indexed when possible.
 
-###APIs
+### APIs
 
 ISIDORE APIs are available at https://api.isidore.science through the GET method on HTTP or HTTPS. They provide a fast, accurate and reliable service for querying ISIDORE data with extensive search functionalities (autocompletion, spelling correction, multi-criteria, boolean and faceted searches, sorting, aggregation of responses, etc.).
 
