@@ -188,7 +188,6 @@ Catalog management systems for individual libraries.
 * [[ExLibris]] Alma (ProQuest)
 * [[Folio]]
 * [[Koha]]
-* [[LibreCat]]
 * [[Worldshare]] (OCLC)
 
 
@@ -369,4 +368,6 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 
 ## Repository Systems
 
+* [[DSpace]]
+* [[LibreCat]]
 
