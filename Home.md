@@ -187,8 +187,10 @@ Catalog management systems for individual libraries.
 
 * [[ExLibris]] Alma (ProQuest)
 * [[Folio]]
-* [[Worldshare]] (OCLC)
 * [[Koha]]
+* [[LibreCat]]
+* [[Worldshare]] (OCLC)
+
 
 ## Knowledge Bases
 
