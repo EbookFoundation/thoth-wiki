@@ -8,5 +8,6 @@ ONIX 3.0 records can be imported in
 
 * [[OAPEN]]
 * [[JSTOR]]
+* [[ProjectMuse]]
 
 (only included are those platforms that confirmed and provided sample ONIX files)
