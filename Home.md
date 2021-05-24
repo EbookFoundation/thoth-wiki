@@ -98,6 +98,13 @@ Most subject identifiers are copyrighted schemata with limited reach, especially
 * [[LOC]]
 * [[Thema]]
 
+# Metadata Standards
+
+* [[Dora]]
+* [[Dublic Core]]
+* [[FAIR]]
+* [[Metadata2020]]
+
 # Content Platforms and Distributors
 
 The following categorization in **Content Platforms and Distributors** and **Catalogs and Indices** has been adapted from Michael Clarke and Laura Ricci's draft report [*OA Books Supply Chain Mapping*](https://drive.google.com/file/d/1iCu5OlT1cFDyq6r6yBC6orgjoEMJthor/view).
