@@ -4,7 +4,7 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 The transfer protocols and file specifications listed in this wiki are those which have current or future support by Thoth. Any updates are welcome at wp5@copim.ac.uk.
 
-# Data and Metadata Formats
+# Data and Metadata
 
 ## Data Formats
 
@@ -98,7 +98,7 @@ Most subject identifiers are copyrighted schemata with limited reach, especially
 * [[LOC]]
 * [[Thema]]
 
-# Metadata Standards
+## Metadata Standards
 
 * [[Dora]]
 * [[Dublic Core]]
