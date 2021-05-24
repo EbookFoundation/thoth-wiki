@@ -1,0 +1,1 @@
+https://dublincore.org/
