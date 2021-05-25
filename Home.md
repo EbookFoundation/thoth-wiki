@@ -104,6 +104,7 @@ Most subject identifiers are copyrighted schemata with limited reach, especially
 * [[Dublic Core]]
 * [[FAIR]]
 * [[Metadata2020]]
+* [[OPDS]]
 
 # Content Platforms and Distributors
 
