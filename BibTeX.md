@@ -5,3 +5,5 @@ BibTeX is the metadata format used in [LaTeX](https://www.ctan.org/) typesetting
 BibTeX files will allow ingest into 
 * [[Memory of the World]]
 * Nearly all bibliographic reference management software
+
+Opensource DOI to BibTeX convertor is available at https://doi2bib.org/
