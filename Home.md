@@ -101,7 +101,7 @@ Most subject identifiers are copyrighted schemata with limited reach, especially
 
 ## Metadata Standards
 
-* [[Dora]]
+* [[DORA]]
 * [[Dublin Core]]
 * [[FAIR]]
 * [[Metadata2020]]
