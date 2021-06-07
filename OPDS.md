@@ -1,6 +1,6 @@
 [OPDS](https://opds.io/) (Open Publication Distribution System) is a family of specifications dedicated to the distribution of digital publications. The OPDS Catalog format is a syndication format for electronic publications based on Atom and HTTP. OPDS Catalogs enable the aggregation, distribution, discovery, and acquisition of electronic publications.
 
-The OPDS specs would allow Thoth to publish a syndication feed that pushes out updates to the metadata catalog through a so-called [Acquisition feed](https://specs.opds.io/opds-1.2#23-acquisition-feeds). This feed includes [Dublin Core] specifications in an [XML] format:
+The OPDS specs would allow Thoth to publish a syndication feed that pushes out updates to the metadata catalog through a so-called [Acquisition feed](https://specs.opds.io/opds-1.2#23-acquisition-feeds). This feed includes [[Dublin Core]] specifications in an [[XML]] format:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
