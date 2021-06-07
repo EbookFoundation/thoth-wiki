@@ -45,6 +45,7 @@ A different example from [Wikipedia](https://en.wikipedia.org/wiki/Dublin_Core),
     <meta name="DC.Title" content="HYP" />
 ```
 
+Dublin Core specs can be used inside [[OPDS]] feeds.
 
 
 
