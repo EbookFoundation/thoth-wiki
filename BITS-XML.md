@@ -1,0 +1,1 @@
+https://jats.nlm.nih.gov/extensions/bits/
