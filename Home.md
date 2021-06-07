@@ -38,6 +38,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
   * [[ONIX 2.1]]*
   * [[ONIX 3.0]]*
   * [[BITS XML]]
+  * [[OPDS]
 * [[WikiData]]
   * [[WikiCite]]
 
