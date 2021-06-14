@@ -225,8 +225,9 @@ Search engines built on top of publication databases tailored toward researches.
 
 * [[BASE]] (Bielefeld Academic Search Engine)
 * [[Dimensions]]
-* [[FAIR]]
+* [[FAIRsFAIR]]
 * [[FatCat]] (Internet Archive)
+* [[FederatedFAIR]]
 * [[IEEE Xplore]]
 * [[Internet Scholar Archive]] (Internet Archive)
 * [[ISIDORE]] (huma-num)
