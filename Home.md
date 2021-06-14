@@ -25,6 +25,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 
 * [[CSV]]* or [[XLSX]]
   * [[KBART]]*
+* [[DCAT]]
 * [[JSON]]
 * [[MAB2]]
 * [[MARC 21]]
@@ -224,6 +225,7 @@ Search engines built on top of publication databases tailored toward researches.
 
 * [[BASE]] (Bielefeld Academic Search Engine)
 * [[Dimensions]]
+* [[FAIR]]
 * [[FatCat]] (Internet Archive)
 * [[IEEE Xplore]]
 * [[Internet Scholar Archive]] (Internet Archive)
@@ -244,6 +246,7 @@ Search engines built on top of publication databases tailored toward researches.
 * [[Scopus]] (RELX)
 * [[SHARE]] (ARL/COS)
 * [[Summon]] (ProQuest)
+* [[Triple]]
 * [[Web of Science]] (Clarivate)
 * [[WorldCat Discovery]]* (OCLC)
 
