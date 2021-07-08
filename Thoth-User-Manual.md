@@ -4,13 +4,18 @@ This manual is meant to help publishers who are using Thoth to create, manage, a
 
 ## Metadata Fields
 
-#publisher
+### publisher
 
-imprint
-work_type
-work_status
-title
-subtitle
+### imprint
+
+### work_type
+
+### work_status
+
+### title
+
+### subtitle
+
 edition
 doi
 publication_date
