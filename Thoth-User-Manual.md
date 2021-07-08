@@ -40,10 +40,10 @@ Numbered editions: Please use "1" for the initial edition of a work, even if oth
 ## landing_page
 
 ## width
-Measurement perpendicular to the spine, in millimeters.
+Measurement perpendicular to the spine of the book, in millimeters.
 
 ## height
-Measurement along the spine, in millimeters.
+Measurement along the spine of the book, in millimeters.
 
 ## page_count
 In most cases, unnumbered pages (e.g., endpapers) should be omitted from this count.
