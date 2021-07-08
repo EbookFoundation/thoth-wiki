@@ -1,22 +1,20 @@
-# Welcome to Thoth!
+Welcome to Thoth! This manual is meant to help publishers who are using Thoth to create, manage, and disseminate title metadata.
 
-This manual is meant to help publishers who are using Thoth to create, manage, and disseminate title metadata.
+# Metadata Fields
 
-## Metadata Fields
+## publisher
 
-### publisher
+## imprint
 
-### imprint
+## work_type
 
-### work_type
+## work_status
 
-### work_status
+## title
 
-### title
+## subtitle
 
-### subtitle
-
-### edition
+## edition
 An edition of a particular work usually encompasses all copies of the work that
 contain the same content, and (most often) which have been produced by the same
 publisher. Publisher identification of a specified or distinct edition may be due
@@ -29,25 +27,25 @@ large print edition. [[BISG, _Revised Best Practices for Book Metadata_, 93]
 Numbered editions: Please use "1" for the initial edition of a work, even if other editions are not planned.
 **Named editions: [ONIX list 21?]**
 
-### doi
+## doi
 
-### publication_date
+## publication_date
 
-### publication_place
+## publication_place
 
-### license
+## license
 
-### copyright_holder
+## copyright_holder
 
-### landing_page
+## landing_page
 
-### width
+## width
 Measurement perpendicular to the spine, in millimeters.
 
-### height
+## height
 Measurement along the spine, in millimeters.
 
-### page_count
+## page_count
 In most cases, unnumbered pages (e.g., endpapers) should be omitted from this count.
 (Unnumbered pages that are part of plate sections/inserts are part of the book’s content and
 should be counted.) Books that have pages numbered in both roman and Arabic numerals
@@ -73,51 +71,51 @@ guidelines, the Page Count sent out for this book should be 930 (the sum of the 
 number of the roman-numbered pages, 9, plus the highest number of the Arabic-numbered
 pages, 921). [BISG, _Revised Best Practices for Book Metadata_, 104]
 
-### page_breakdown
+## page_breakdown
 
-### image_count
+## image_count
 
-### table_count
+## table_count
 
-### audio_count
+## audio_count
 
-### video_count
+## video_count
 
-### lccn
+## lccn
 
-### oclc
+## oclc
 
-### short_abstract
+## short_abstract
 
-### long_abstract
+## long_abstract
 
-### general_note
+## general_note
 
-### toc
+## toc
 
-### cover_url
+## cover_url
 
-### cover_caption
+## cover_caption
 
-### contributions [...]
+## contributions [...]
 
-### publications [...]
+## publications [...]
 
-### series [...]
+## series [...]
 
-### language [...]
+## language [...]
 
-### BIC [code]
+## BIC [code]
 
-### THEMA [code]
+## THEMA [code]
 
-### BISAC [code]
+## BISAC [code]
 
-### LCC [code]
+## LCC [code]
 
-### custom_categories [...]
+## custom_categories [...]
 
-### keywords [...]
+## keywords [...]
 
-### funding [...]
+## funding [...]
 
