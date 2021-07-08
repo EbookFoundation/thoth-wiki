@@ -1,4 +1,4 @@
-Welcome to Thoth! This manual is meant to help publishers who are using Thoth to create, manage, and disseminate title metadata.
+Welcome to Thoth! This manual is meant to help publishers who are using Thoth to create, manage, and disseminate title metadata. The manual is a work in progress.
 
 # Metadata Fields
 
