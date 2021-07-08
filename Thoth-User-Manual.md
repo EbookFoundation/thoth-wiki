@@ -17,6 +17,17 @@ This manual is meant to help publishers who are using Thoth to create, manage, a
 ### subtitle
 
 ### edition
+An edition of a particular work usually encompasses all copies of the work that
+contain the same content, and (most often) which have been produced by the same
+publisher. Publisher identification of a specified or distinct edition may be due
+to changes in content (addition, revision, or removal of content) or may identify
+products produced for a specific market. It is important to note that some editions,
+such as second, abridged, or annotated editions, may be new works entirely; others
+may contain the same content but be classified as a different edition, such as a
+large print edition. [[BISG, _Revised Best Practices for Book Metadata_, 93]
+
+Numbered editions: Please use "1" for the initial edition of a work, even if other editions are not planned.
+**Named editions: [ONIX list 21?]**
 
 ### doi
 
@@ -53,15 +64,14 @@ volumes are sold separately, each of their product records should carry a Page C
 the volume in question. 
 
 **Example**
+
 Using _The Chicago Manual of Style_, 14th edition as an example, one sees that the front
 matter is numbered in roman numerals up to page ix. The main body of the work has pages
 numbered in Arabic numerals up to page 921. The book also contains five unnumbered
 pages at its end and both a front and a back flyleaf. For the purposes of these best practices
 guidelines, the Page Count sent out for this book should be 930 (the sum of the highest
 number of the roman-numbered pages, 9, plus the highest number of the Arabic-numbered
-pages, 921).
-
-[BISG, Revised Best Practices for Book Metadata, 104]
+pages, 921). [BISG, _Revised Best Practices for Book Metadata_, 104]
 
 ### page_breakdown
 
