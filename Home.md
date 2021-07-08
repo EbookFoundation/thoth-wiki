@@ -4,6 +4,8 @@ The following wiki lists all output formats, platforms, and other stakeholders t
 
 The transfer protocols and file specifications listed in this wiki are those which have current or future support by Thoth. Any updates are welcome at wp5@copim.ac.uk.
 
+The Thoth User Manual, for publishers and other creators of metadata records in Thoth, can be [found here](https://github.com/thoth-pub/thoth/wiki/Thoth-User-Manual).
+
 # Data and Metadata
 
 ## Data Formats
