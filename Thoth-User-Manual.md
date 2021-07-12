@@ -29,6 +29,8 @@ Numbered editions: Please use "1" for the initial edition of a work, even if oth
 
 ## doi
 
+Digital Object Identifier of the work as full URL. It must use the HTTPS scheme and the doi.org domain (e.g. https://doi.org/10.11647/obp.0001). It is parsed using the following regular expression: `^https:\/\/doi\.org\/10\.\d{4,9}\/[-._\;\(\)\/:a-zA-Z0-9]+$`
+
 ## publication_date
 
 ## publication_place
