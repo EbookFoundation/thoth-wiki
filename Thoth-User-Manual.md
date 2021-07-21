@@ -7,7 +7,7 @@ Welcome to Thoth! This manual is meant to help publishers who are using Thoth to
 ## imprint
 
 ## work_type
-Work type is a drop-down menu:
+Work type is a controlled list in a drop-down menu:
 * Book Chapter
 * Monograph
 * Edited Book
@@ -16,7 +16,7 @@ Work type is a drop-down menu:
 * Book Set
 
 ## work_status
-Work status is a drop-down menu:
+Work status is a controlled list in a drop-down menu:
 * Unspecified
 * Cancelled
 * Forthcoming
@@ -122,7 +122,7 @@ pages, 921). [BISG, _Revised Best Practices for Book Metadata_, 104]
 
 ## contributions
 ### contribution_type
-Contributions type is a drop-down menu:
+Contributions type is a controlled list in a drop-down menu:
 * Author
 * Editor
 * Translator
@@ -135,14 +135,18 @@ Contributions type is a drop-down menu:
 * Preface by
 
 ### contribution_first_name
+
 ### contribution_last_name
+
 ### contribution_full_name
+
 ### contribution_institution
+
 ### contribution_orcid
 
 ## publications
 ### publication_type
-Publications type is a drop-down menu:
+Publications type is a controlled list in a drop-down menu:
 * Paperback
 * Hardback
 * PDF
@@ -152,23 +156,43 @@ Publications type is a drop-down menu:
 * Mobi
 
 ###publication_isbn
+
 ###publication_url
+
 ###publication_ISO_4217_currency
+
 ###publication_price
 
 ## series
 ###series_type
-Series type is a drop-down menu:
+Series type is a controlled list in a drop-down menu:
 * Journal
 * Book Series
 
 ###series_name
+
 ###series_issn_print
+
 ###series_issn_digital
+
 ###series_url
+
 ###series_issue
 
-## language [...]
+## languages
+###language_relation
+Language relation is a controlled list in a drop-down menu:
+* Original
+* Translated from
+* Translated into
+
+###language_ISO_639-3/B
+Language code is a controlled list in a drop-down menu. See [ISO 639-3](https://iso639-3.sil.org/code_tables/639/data)for full list of language codes.
+
+###language_is_main
+Language is main is a binary yes/no in a drop-down menu:
+* Yes
+* No
 
 ## BIC [code]
 
