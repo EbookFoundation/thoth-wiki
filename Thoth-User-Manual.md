@@ -217,7 +217,7 @@ See the Library of Congress website an outline of the [Library of Congress Class
 Name of the agency providing funding.
 
 ### funding_funder_doi
-To find funder DOIs, download the table of funders [.csv file](https://doi.crossref.org/funderNames?mode=list)) with assigned DOIs from Crossref.
+To find funder DOIs, download the table of funders ([.csv file](https://doi.crossref.org/funderNames?mode=list)) with assigned DOIs from Crossref.
 
 ### funding_program
 
