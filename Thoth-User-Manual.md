@@ -199,6 +199,7 @@ Language is main is a binary yes/no in a drop-down menu:
 ## THEMA [code]
 
 ## BISAC [code]
+See the Book Industry Study Group website for the up-to-date [BISAC categories and their codes](https://bisg.org/page/BISACEdition). See BISG's [instructions on categorizing books.](https://bisg.org/page/BISACSelection).
 
 ## LCC [code]
 
