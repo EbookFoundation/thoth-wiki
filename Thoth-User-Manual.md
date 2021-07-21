@@ -155,41 +155,41 @@ Publications type is a controlled list in a drop-down menu:
 * Epub
 * Mobi
 
-###publication_isbn
+### publication_isbn
 
-###publication_url
+### publication_url
 
-###publication_ISO_4217_currency
+### publication_ISO_4217_currency
 
-###publication_price
+### publication_price
 
 ## series
-###series_type
+### series_type
 Series type is a controlled list in a drop-down menu:
 * Journal
 * Book Series
 
-###series_name
+### series_name
 
-###series_issn_print
+### series_issn_print
 
-###series_issn_digital
+### series_issn_digital
 
-###series_url
+### series_url
 
-###series_issue
+### series_issue
 
 ## languages
-###language_relation
+### language_relation
 Language relation is a controlled list in a drop-down menu:
 * Original
 * Translated from
 * Translated into
 
-###language_ISO_639-3/B
+### language_ISO_639-3/B
 Language code is a controlled list in a drop-down menu. See [ISO 639-3](https://iso639-3.sil.org/code_tables/639/data)for full list of language codes.
 
-###language_is_main
+### language_is_main
 Language is main is a binary yes/no in a drop-down menu:
 * Yes
 * No
