@@ -163,7 +163,7 @@ Publications type is a controlled list in a drop-down menu:
 ### publication_url
 
 ### publication_ISO_4217_currency [code]
-For the international standard three-letter alphabetic code used to denominate currencies, download the ISO 4217 code list ([csv file](https://www.six-group.com/en/products-services/financial-information/data-standards.html#scrollTo=current-historical-lists)) its maintenance agency, the Six Group. Use the alphabetic, not the numeric, codes.
+For the international standard three-letter alphabetic code used to denominate currencies, download the ISO 4217 code list ([CSV or XML file](https://www.six-group.com/en/products-services/financial-information/data-standards.html#scrollTo=current-historical-lists)) its maintenance agency, the Six Group. Use the alphabetic, not the numeric, codes.
 
 ### publication_price
 
@@ -237,7 +237,7 @@ in Metadata](https://www.bisg.org/best-practices-keywords-metadata). [BISG, _Rev
 Name of the agency providing funding.
 
 ### funding_funder_doi
-To find funder DOIs, download the table of funders ([.csv file](https://doi.crossref.org/funderNames?mode=list)) with assigned DOIs from Crossref.
+To find funder DOIs, download the table of funders ([CSV file](https://doi.crossref.org/funderNames?mode=list)) with assigned DOIs from Crossref.
 
 ### funding_program
 
