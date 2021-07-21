@@ -43,7 +43,7 @@ to changes in content (addition, revision, or removal of content) or may identif
 products produced for a specific market. It is important to note that some editions,
 such as second, abridged, or annotated editions, may be new works entirely; others
 may contain the same content but be classified as a different edition, such as a
-large print edition. [[BISG, _Revised Best Practices for Book Metadata_, 93]
+large print edition. (BISG, _Revised Best Practices for Book Metadata_, 93)
 
 Numbered editions: Please use "1" for the initial edition of a work, even if other editions are not planned.
 **Named editions: [ONIX list 21?]**
@@ -92,7 +92,7 @@ numbered in Arabic numerals up to page 921. The book also contains five unnumber
 pages at its end and both a front and a back flyleaf. For the purposes of these best practices
 guidelines, the Page Count sent out for this book should be 930 (the sum of the highest
 number of the roman-numbered pages, 9, plus the highest number of the Arabic-numbered
-pages, 921). [BISG, _Revised Best Practices for Book Metadata_, 104]
+pages, 921). (BISG, _Revised Best Practices for Book Metadata_, 104)
 
 ## page_breakdown
 
@@ -226,7 +226,7 @@ For non-fiction, key personal names and terms of art from the subject matter. Yo
 include words already used within the BISAC, BIC or Thema subject schemes.
 
 Additional information about keywords can be found in the [BISG Best Practices for Keywords
-in Metadata](https://www.bisg.org/best-practices-keywords-metadata).
+in Metadata](https://www.bisg.org/best-practices-keywords-metadata). [BISG, _Revised Best Practices for Book Metadata_, 110]
 
 ## funding
 ### funding_funder
