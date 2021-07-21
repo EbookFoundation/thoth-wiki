@@ -3,8 +3,11 @@ Welcome to Thoth! This manual is meant to help publishers who are using Thoth to
 # Metadata Fields
 
 ## publisher
+BISG defines a publisher as the "entity that owns the legal right to make the given product available in this
+form" (BISG, _Revised Best Practices for Book Metadata_, 156). While it is unclear if this definition works for many open access books, the publisher might better be considered the corporate entity charged with selecting, developing, and preparing a book for publication. Every book record must include the name of the publisher or legal entity responsible for bringing it to market, as well as the imprint.
 
 ## imprint
+"The imprint name is the 'brand' name that the publisher uses as the public identity responsible for the product. Imprints usually appear on the title page and copyright page of the book, or on the physical media of audio or digital products. Imprint names usually also appear on book spines and dust jackets, audio packages, and advertisements and other marketing material" (BISG, _Revised Best Practices for Book Metadata_, 156). For many publishers, the publisher and imprint are the same, in which case the name must be included in both a book's publisher and imprint metadata field.
 
 ## work_type
 Work type is a controlled list in a drop-down menu:
