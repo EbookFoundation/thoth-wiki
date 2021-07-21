@@ -210,7 +210,23 @@ See the Library of Congress website an outline of the [Library of Congress Class
 
 ## custom_categories [...]
 
-## keywords [...]
+## keywords
+Keywords are words or phrases that describe content. In the context of structured metadata,
+keywords are not necessarily part of a controlled vocabulary of subject terms (such as
+BISAC Subject Headings, Thema or BIC Subject Classifications, or Library of Congress
+Subject Headings); instead, they are words or phrases assigned by the metadata creator in
+anticipation of ways in which the end user might search for content.
+
+Although optional, and not a substitute for controlled subject schema such as the BISAC and
+BIC systems, keywords can be transmitted in ONIX and provide an additional data point for
+search results and for data analysis via search engine algorithms.
+
+For fiction, important keywords might include character names, locations, genre words.
+For non-fiction, key personal names and terms of art from the subject matter. You need not
+include words already used within the BISAC, BIC or Thema subject schemes.
+
+Additional information about keywords can be found in the [BISG Best Practices for Keywords
+in Metadata](https://www.bisg.org/best-practices-keywords-metadata).
 
 ## funding
 ### funding_funder
