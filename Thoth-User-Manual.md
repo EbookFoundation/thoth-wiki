@@ -195,12 +195,15 @@ Language is main is a binary yes/no in a drop-down menu:
 * No
 
 ## BIC [code]
+See the Book Industry Communication (BIC) Subject Categories and Qualifiers Scheme on the EDItEUR website for [BIC categories and codes](https://ns.editeur.org/bic_categories). 
+
+Note that BIC has announced that there will be no further development of the BIC scheme (after 2010), and that Thema is its preferred subject scheme for current and future use. If your books do not already have BIC codes, please use the Theme codes instead.
 
 ## THEMA [code]
 See the Thema Subject Categories 1.4 browser on the EDItEUR website for up-to-date [Thema categories and codes](https://ns.editeur.org/thema/en). For help, see Thema's [instructions on categorizing books](https://www.editeur.org/files/Thema/20200619%20Thema%20v1.4%20Basic%20instructions.pdf).
 
 ## BISAC [code]
-See the Book Industry Study Group website for up-to-date [BISAC categories and their codes](https://bisg.org/page/BISACEdition). For help, see BISG's [instructions on categorizing books](https://bisg.org/page/BISACSelection).
+See the Book Industry Study Group (BISG) website for up-to-date [BISAC categories and their codes](https://bisg.org/page/BISACEdition). For help, see BISG's [instructions on categorizing books](https://bisg.org/page/BISACSelection).
 
 ## LCC [code]
 
