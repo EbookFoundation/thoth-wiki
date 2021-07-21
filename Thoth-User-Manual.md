@@ -135,17 +135,13 @@ Contributions type is a drop-down menu:
 * Preface by
 
 ### contribution_first_name
-
 ### contribution_last_name
-
 ### contribution_full_name
-
 ### contribution_institution
-
 ### contribution_orcid
 
 ## publications
-### publications_type
+### publication_type
 Publications type is a drop-down menu:
 * Paperback
 * Hardback
@@ -155,7 +151,22 @@ Publications type is a drop-down menu:
 * Epub
 * Mobi
 
-## series [...]
+###publication_isbn
+###publication_url
+###publication_ISO_4217_currency
+###publication_price
+
+## series
+###series_type
+Series type is a drop-down menu:
+* Journal
+* Book Series
+
+###series_name
+###series_issn_print
+###series_issn_digital
+###series_url
+###series_issue
 
 ## language [...]
 
