@@ -7,8 +7,29 @@ Welcome to Thoth! This manual is meant to help publishers who are using Thoth to
 ## imprint
 
 ## work_type
+Work type is a drop-down menu:
+* Book Chapter
+* Monograph
+* Edited Book
+* Textbook
+* Journal Issue
+* Book Set
 
 ## work_status
+Work status is a drop-down menu:
+* Unspecified
+* Cancelled
+* Forthcoming
+* Postponed Indefinitely
+* Active
+* No Longer Our Product
+* Out of Stock Indefinitely
+* Out of Print
+* Inactive
+* Unknown
+* Remaindered
+* Withdrawn from Sale
+* Recalled
 
 ## title
 
@@ -99,9 +120,40 @@ pages, 921). [BISG, _Revised Best Practices for Book Metadata_, 104]
 
 ## cover_caption
 
-## contributions [...]
+## contributions
+### contribution_type
+Contributions type is a drop-down menu:
+* Author
+* Editor
+* Translator
+* Photographer
+* Illustrator
+* Music Editor
+* Foreword by
+* Introduction by
+* Afterward by
+* Preface by
 
-## publications [...]
+### contribution_first_name
+
+### contribution_last_name
+
+### contribution_full_name
+
+### contribution_institution
+
+### contribution_orcid
+
+## publications
+### publications_type
+Publications type is a drop-down menu:
+* Paperback
+* Hardback
+* PDF
+* HTML
+* XML
+* Epub
+* Mobi
 
 ## series [...]
 
