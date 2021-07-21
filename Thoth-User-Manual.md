@@ -211,6 +211,7 @@ Language is main is a binary yes/no in a drop-down menu:
 Name of the agency providing funding.
 
 ### funding_funder_doi
+To find funder DOIs, download an [updated table of funders](https://doi.crossref.org/funderNames?mode=list) with assigned DOIs from Crossref.
 
 ### funding_program
 
