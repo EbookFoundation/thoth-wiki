@@ -206,5 +206,15 @@ Language is main is a binary yes/no in a drop-down menu:
 
 ## keywords [...]
 
-## funding [...]
+## funding
+### funding_funder
+Name of the agency providing funding.
+
+### funding_funder_doi
+
+### funding_program
+
+### funding_project
+
+### funding_jurisdiction
 
