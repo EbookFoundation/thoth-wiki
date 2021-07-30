@@ -1,4 +1,4 @@
-[Issue 48](https://github.com/thoth-pub/thoth/issues/48)
+[Issue 48](https://github.com/thoth-pub/thoth/issues/48) Issue Closed. ONIX output for OAPEN available.
 
 [OAPEN](https://oapen.org/) is an online library and publication platform promoting and supporting the transition to open access for academic books by providing open infrastructure services to stakeholders in scholarly communication. 
 
