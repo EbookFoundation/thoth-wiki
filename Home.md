@@ -65,6 +65,7 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 ### Object Identifiers
 * [[DOI]]
 * [[ISBN]]
+* [[ISSN]]
 
 #### DOI Registration Agencies
 * [[CrossRef]]*
