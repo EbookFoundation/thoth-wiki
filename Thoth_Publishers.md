@@ -3,5 +3,10 @@ form" (BISG, _Revised Best Practices for Book Metadata_, 156). While it is uncle
 
 The **Publishers** page will display the Publishers the user has access to, usually only one. The following information is displayed:
 
-| :---                            | :---          | :---          |:---|:---    |:---         |
-| [[EBSCO ebooks]]*               | Commercial    | Y             | Y  | Y      | Push        |
+| Column Name  | Content      |
+| :---         | :---          | 
+| ID           | Unique primary key    | 
+| Name         | Publisher name |
+| ShortName    | Short publisher name |
+| URL          | Main publisher URL |
+| UpdatedAt    | Date/time of most recent update |
