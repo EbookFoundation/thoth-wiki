@@ -1,6 +1,10 @@
 Welcome to Thoth! This manual is meant to help publishers who are using Thoth to create, manage, and disseminate title metadata. The manual is a work in progress.
 
+This manual gives an overview of the main features of Thoth
+
 # Metadata Fields
+
+[[Works|Thoth_Works]]
 
 ## publisher
 BISG defines a publisher as the "entity that owns the legal right to make the given product available in this
