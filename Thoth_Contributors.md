@@ -1,4 +1,4 @@
-The **Contriburos** page will display the contributors all users have access to. The following information is displayed:
+The **Contributors** page will display the contributors all users have access to. The following information is displayed:
 
 | Column Name  | Content      |
 | :---         | :---          | 
