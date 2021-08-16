@@ -1,22 +1,28 @@
-Welcome to Thoth! This manual is meant to help publishers who are using Thoth to create, manage, and disseminate title metadata. The manual is a work in progress.
+This manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. The current version of Thoth is 0.4.5. This manual is a work in progress.
 
-This manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. The current version of Thoth is 0.4.5.
+# Admin
 
-# Metadata Fields
+The backend of Thoth can be accessed by clicking the **Admin** menu item in the top toolbar. After filling in your credentials, you will arrive at the main screen.
+![](https://cloud.copim.ac.uk/s/5JMJ2No6RiKZiqT)
 
-## [[Works|Thoth_Works]]
 
-## [[Publications|Thoth_Publications]]
+## Dashboard
 
-## [[Publishers|Thoth_Publishers]]
+## Metadata
 
-## [[Imprints|Thoth_Imprints]]
+### [[Works|Thoth_Works]]
 
-## [[Contributors|Thoth_Contributors]]
+### [[Publications|Thoth_Publications]]
 
-## [[Series|Thoth_Series]]
+### [[Publishers|Thoth_Publishers]]
 
-## [[Funders|Thoth_Funders]]
+### [[Imprints|Thoth_Imprints]]
+
+### [[Contributors|Thoth_Contributors]]
+
+### [[Series|Thoth_Series]]
+
+### [[Funders|Thoth_Funders]]
 
 
 
