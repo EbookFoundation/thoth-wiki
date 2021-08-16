@@ -19,9 +19,9 @@ Clicking on any record allows you to edit it. Save the record by clicking **Save
 
 The name of the publisher.
 
-## Publisher Short Name.
+## Publisher Short Name
 
-The short name of the publisher
+The short name of the publisher.
 
 ## Publisher URL
 
