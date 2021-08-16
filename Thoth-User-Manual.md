@@ -1,4 +1,4 @@
-This user manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. The current version of Thoth is 0.4.5. This manual is a work in progress.
+This user manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. The current version of Thoth is 0.4.5. This manual is a work in progress and has been written from the perspective of a publisher managing their metadata in Thoth.
 
 # [[Catalogue|Thoth_Catalogue]]
 
