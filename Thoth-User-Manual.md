@@ -2,11 +2,9 @@ This manual gives an overview of the main features of Thoth with the aim of help
 
 # Admin
 
-The backend of Thoth can be accessed by clicking the **Admin** menu item in the top toolbar. After filling in your credentials, you will arrive at the main screen.
-![](https://cloud.copim.ac.uk/s/5JMJ2No6RiKZiqT)
-
-
 ## Dashboard
+
+The backend of Thoth can be accessed by clicking the **Admin** menu item in the top toolbar. After filling in your credentials, you will arrive at the main screen called **Dashboard**. The dashboard allows access to six different metadata entry forms that can be used to enter and modify publication metadata. The same forms can be accessed by means of the side menu on the left.
 
 ## Metadata
 
