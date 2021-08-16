@@ -15,7 +15,7 @@ Clicking on any record allows you to edit it. Save the record by clicking **Save
 
 # Edit publication
 
-**Publication Type**, **Publication ISBN**, and **Publication URL** are when creating a specific Publication under a [[Work|Thoth_Works]] record.
+**Publication Type**, **Publication ISBN**, and **Publication URL** are determined when creating a specific Publication under a [[Work|Thoth_Works]] record.
 
 ## Add price
 
