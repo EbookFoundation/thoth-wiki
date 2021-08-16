@@ -1,0 +1,1 @@
+See the Library of Congress website an outline of the [Library of Congress Classification (LCC) schedules of categories and codes](https://www.loc.gov/catdir/cpso/lcco/), and the set of schedules for the [full classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html#About).
