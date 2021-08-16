@@ -10,3 +10,11 @@ The **Publishers** page will display the Publishers the user has access to, usua
 | ShortName    | Publisher Short Name |
 | URL          | Publisher URL |
 | UpdatedAt    | Date/time of most recent update |
+
+# Edit publisher
+
+## Publisher Name
+
+## Publisher Short Name
+
+## Publisher URL
