@@ -6,7 +6,7 @@ The **Publishers** page will display the Publishers the user has access to, usua
 | Column Name  | Content      |
 | :---         | :---          | 
 | ID           | Unique primary key    | 
-| Name         | [[Publisher Name|Thoth_Publishers#publisher-name]] |
+| Name         | Publisher Name |
 | ShortName    | Publisher Short Name |
 | URL          | Publisher URL |
 | UpdatedAt    | Date/time of most recent update |
