@@ -2,7 +2,7 @@
 
 For many publishers, the publisher and imprint are the same, in which case the name must be included in both a book's publisher and imprint metadata field. Every publisher must have at least one imprint, usually with the same name as the publisher.
 
-The **Imprints** page will display the Imprints the user has access to. The following information is displayed:
+The **Imprints** page will display the imprints the user has access to. The following information is displayed:
 
 | Column Name  | Content      |
 | :---         | :---          | 
