@@ -11,10 +11,18 @@ The **Publishers** page will display the Publishers the user has access to, usua
 | URL          | Publisher URL |
 | UpdatedAt    | Date/time of most recent update |
 
+Clicking on any record allows you to edit it.
+
 # Edit publisher
 
-## Publisher Name
+## Publisher Name (mandatory)
+
+The name of the publisher.
 
 ## Publisher Short Name
 
+The short name of the publisher
+
 ## Publisher URL
+
+The URL of the publisher's website. Preface with `http://` or `https://`.
