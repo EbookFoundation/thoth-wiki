@@ -1,6 +1,22 @@
+A Work is a unit of publication with at least one unique identifier.
 
-## work_type
-Work type is a controlled list in a drop-down menu:
+The **Works** page will display the Works all users have access to. The following information is displayed:
+
+| Column Name  | Content      |
+| :---         | :---          | 
+| ID           | Unique primary key    | 
+| Title      | Title |
+| Type    | Type |
+| Contributors  | List of comma-separated contributors|
+| DOI | DOI |
+| Publisher | Publisher |
+| UpdatedAt | Date/time of most recent update |
+
+Clicking on any record allows you to edit it. Save the record by clicking **Save**.
+
+# Work Type (Mandatory)
+
+Select the type of the work from the dropdown list:
 * Book Chapter
 * Monograph
 * Edited Book
@@ -8,8 +24,9 @@ Work type is a controlled list in a drop-down menu:
 * Journal Issue
 * Book Set
 
-## work_status
-Work status is a controlled list in a drop-down menu:
+# Work Status (Mandatory)
+
+Select the status of the work from the dropdown list:
 * Unspecified
 * Cancelled
 * Forthcoming
@@ -24,11 +41,19 @@ Work status is a controlled list in a drop-down menu:
 * Withdrawn from Sale
 * Recalled
 
-## title
+# Imprint (Mandatory)
 
-## subtitle
+Select the [[Imprint|Thoth_Imprints]] from the dropdown list.
 
-## edition
+## Title (Mandatory)
+
+The title of the Work.
+
+## Subtitle
+
+The subtitle of the Work.
+
+## Edition
 An edition of a particular work usually encompasses all copies of the work that
 contain the same content, and (most often) which have been produced by the same
 publisher. Publisher identification of a specified or distinct edition may be due
@@ -41,13 +66,45 @@ large print edition. (BISG, _Revised Best Practices for Book Metadata_, 93)
 Numbered editions: Please use "1" for the initial edition of a work, even if other editions are not planned.
 **Named editions: [ONIX list 21?]**
 
-## doi
+## Publication Date
 
-Digital Object Identifier of the work as full URL. It must use the HTTPS scheme and the doi.org domain (e.g. https://doi.org/10.11647/obp.0001). It is parsed using the following regular expression: `^https:\/\/doi\.org\/10\.\d{4,9}\/[-._\;\(\)\/:a-zA-Z0-9]+$`
+The date of publication in the format `dd/mm/yyyy`.
 
-## publication_date
+## Place of Publication
 
-## publication_place
+The place of publication. 
+
+## Cover URL
+
+URL referring to the cover image.
+
+## Cover Caption
+
+Caption referring to the cover image.
+
+## DOI
+
+[[Digital Object Identifier|DOI]] of the Work. 
+
+## LCCN
+
+The [[Library of Congress Catalog Number|LCCN]] of the Work.
+
+## OCLC Number
+
+The [[OCLC Number]] of the Work
+
+## Internal Reference
+
+The reference to the Work used by the Publisher internally.
+
+## Width
+Measurement perpendicular to the spine of the book, in millimeters.
+
+## Height
+Measurement along the spine of the book, in millimeters.
+
+
 
 ## license
 
@@ -55,11 +112,7 @@ Digital Object Identifier of the work as full URL. It must use the HTTPS scheme 
 
 ## landing_page
 
-## width
-Measurement perpendicular to the spine of the book, in millimeters.
 
-## height
-Measurement along the spine of the book, in millimeters.
 
 ## page_count
 In most cases, unnumbered pages (e.g., endpapers) should be omitted from this count.
