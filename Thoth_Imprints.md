@@ -1,4 +1,6 @@
-"The imprint name is the 'brand' name that the [[publisher|Thoth_Publishers]] uses as the public identity responsible for the product. Imprints usually appear on the title page and copyright page of the [[book|Thoth_Works]], or on the physical media of audio or digital products. Imprint names usually also appear on book spines and dust jackets, audio packages, and advertisements and other marketing material" (BISG, _Revised Best Practices for Book Metadata_, 156). For many publishers, the publisher and imprint are the same, in which case the name must be included in both a book's publisher and imprint metadata field.
+"The imprint name is the 'brand' name that the [[publisher|Thoth_Publishers]] uses as the public identity responsible for the product. Imprints usually appear on the title page and copyright page of the [[book|Thoth_Works]], or on the physical media of audio or digital products. Imprint names usually also appear on book spines and dust jackets, audio packages, and advertisements and other marketing material" (BISG, _Revised Best Practices for Book Metadata_, 156). 
+
+For many publishers, the publisher and imprint are the same, in which case the name must be included in both a book's publisher and imprint metadata field. Every publisher must have at least one imprint, usually with the same name as the publisher.
 
 The **Imprints** page will display the Imprints the user has access to. The following information is displayed:
 
