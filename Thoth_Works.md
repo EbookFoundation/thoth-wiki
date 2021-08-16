@@ -218,7 +218,7 @@ Integer determining the order in which contributions are listed.
 
 ## Publications
 
-[[Publications|Thoth_Publications]] are separate instances of a single work. Click **Add Publication** to add a new publication.
+[[Publications|Thoth_Publications]] are separate instances of a single work. Click **Add Publication** to add a new publication. Click **View** to view any Publication record and add a price.
 
 ### Publication Type
 
