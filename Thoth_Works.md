@@ -295,15 +295,32 @@ Integer determining the order codes or keywords.
 
 ## Issues
 
-## funding
-### funding_funder
-Name of the agency providing funding.
+Use the searchbar to find a [[Series|Thoth_Series]] belonging under the [[Imprint|Thoth_Imprints]] under which the Work is published.
 
-### funding_funder_doi
-To find funder DOIs, download the table of funders ([CSV file](https://doi.crossref.org/funderNames?mode=list)) with assigned DOIs from Crossref.
+### Issue Ordinal
 
-### funding_program
+The number of the Work in the Series.
 
-### funding_project
+## Funding
 
-### funding_jurisdiction
+Use the searchbar to find a [[Funder|Thoth_Funders]]
+
+### Program
+
+The name of the funding program.
+
+### Project Name
+
+The name of the project.
+
+### Project Short Name
+
+The short name of the project.
+
+### Grant Number
+
+The grant number of the project.
+
+### Jurisdiction
+
+The jurisdiction of the project.
