@@ -99,23 +99,21 @@ The [[OCLC Number]] of the Work
 The reference to the Work used by the Publisher internally.
 
 ## Width
-Measurement perpendicular to the spine of the book, in millimeters.
+Measurement perpendicular to the spine of the book.
 
 ## Height
-Measurement along the spine of the book, in millimeters.
+Measurement along the spine of the book.
 
+## Units
 
+Select the unit of **Width** and **Height** from the dropdown list:
+* mm
+* cm
+* in
 
-## license
+## Page Count
 
-## copyright_holder
-
-## landing_page
-
-
-
-## page_count
-In most cases, unnumbered pages (e.g., endpapers) should be omitted from this count.
+Total number of pages. In most cases, unnumbered pages (e.g., endpapers) should be omitted from this count.
 (Unnumbered pages that are part of plate sections/inserts are part of the book’s content and
 should be counted.) Books that have pages numbered in both roman and Arabic numerals
 (and no inserts) should have a Page Count that reflects the sum of the highest number of the
@@ -140,35 +138,61 @@ guidelines, the Page Count sent out for this book should be 930 (the sum of the 
 number of the roman-numbered pages, 9, plus the highest number of the Arabic-numbered
 pages, 921). (BISG, _Revised Best Practices for Book Metadata_, 104)
 
-## page_breakdown
 
-## image_count
+## Page Breakdown
 
-## table_count
+Breakdown of **Total number of pages** in frontmatter, main, and backmatter.
 
-## audio_count
+## Image Count
 
-## video_count
+Total number of images.
 
-## lccn
+## Table Count
 
-## oclc
+Total number of tables.
 
-## short_abstract
+## Audio Count
 
-## long_abstract
+Total number of audio fragments.
 
-## general_note
+## Video Count
 
-## toc
+Total number of video fragments.
 
-## cover_url
+## License (Mandatory)
 
-## cover_caption
+URL of the pertinent [[Creative Commons]] license.
 
-## contributions
-### contribution_type
-Contributions type is a controlled list in a drop-down menu:
+## Copyright Holder
+
+Copyright holder of the work.
+
+## Landing Page
+
+URL of the web page of the work.
+
+## Short Abstract
+
+Short abstract of the work.
+
+## Long Abstract
+
+Long abstract of the work.
+
+## General Note
+
+Note about the work.
+
+## Table of Content
+
+Table of content of the work.
+
+## Contributions
+
+Use the searchbar to find a [[Contributor|Thoth_Contributor]]. The **Contributor's Given Name**, **Contributor's Family Name**, and **Contributor's Full Name** have been imported from the Contributor record.
+
+### Contribution Type
+Select the contribution type from the dropdown list:
 * Author
 * Editor
 * Translator
@@ -180,19 +204,25 @@ Contributions type is a controlled list in a drop-down menu:
 * Afterward by
 * Preface by
 
-### contribution_first_name
+### Institution
+The institution of the contributor at the moment of contribution.
 
-### contribution_last_name
+### Biography
+The biography of the contributor at the moment of contribution.
 
-### contribution_full_name
+### Main
+Select whether the contribution is main contribution from the dropdown list. Main contributions are represented on the [[Catalogue|Thoth_Catalogue]] page.
 
-### contribution_institution
+### Contribution Ordinal
+Integer determining the order in which contributions are listed.
 
-### contribution_orcid
+## Publications
 
-## publications
-### publication_type
-Publications type is a controlled list in a drop-down menu:
+[[Publications|Thoth_Publications]] are separate instances of a single work. Click **Add Publication** to add a new publication.
+
+### Publication Type
+
+Select the publication type from the dropdown list:
 * Paperback
 * Hardback
 * PDF
@@ -201,63 +231,47 @@ Publications type is a controlled list in a drop-down menu:
 * Epub
 * Mobi
 
-### publication_isbn
+### ISBN
+The [[ISBN]] of the publication.
 
-### publication_url
+### URL
+The URL of the publication, for example a link to a repository such as [[OAPEN]] or [[JSTOR]].
 
-### publication_ISO_4217_currency [code]
-For the international standard three-letter alphabetic code used to denominate currencies, download the ISO 4217 code list ([CSV or XML file](https://www.six-group.com/en/products-services/financial-information/data-standards.html#scrollTo=current-historical-lists)) its maintenance agency, the Six Group. Use the alphabetic, not the numeric, codes.
+## Languages
 
-### publication_price
+Click **Add Language** to add a new language.
 
-## series
-### series_type
-Series type is a controlled list in a drop-down menu:
-* Journal
-* Book Series
+### Language Code
 
-### series_name
+Select the language code from a dropdown list. See [ISO 639-3](https://iso639-3.sil.org/code_tables/639/data) for full list of language codes.
 
-### series_issn_print
-
-### series_issn_digital
-
-### series_url
-
-### series_issue
-
-## languages
-### language_relation
-Language relation is a controlled list in a drop-down menu:
+### Language Relation
+Select the language relation from a dropdown list.
 * Original
 * Translated from
 * Translated into
 
-### language_ISO_639-3/B
-Language code is a controlled list in a drop-down menu. See [ISO 639-3](https://iso639-3.sil.org/code_tables/639/data) for full list of language codes.
+### Main
+Select whether the language is the main language of the work from a dropdown list.
 
-### language_is_main
-Language is main is a binary yes/no in a drop-down menu:
-* Yes
-* No
+## Subjects
 
-## BIC [code]
-See the Book Industry Communication (BIC) Subject Categories and Qualifiers Scheme on the EDItEUR website for [BIC categories and codes](https://ns.editeur.org/bic_categories). 
+Click **Add Subject** to add a new subject.
 
-Note that BIC has announced that there will be no further development of the BIC scheme (after 2010), and that Thema is its preferred subject scheme for current and future use. If your books do not already have BIC codes, please use the Theme codes instead.
+### Subject Type
 
-## THEMA [code]
-See the Thema Subject Categories 1.4 browser on the EDItEUR website for [Thema categories and codes](https://ns.editeur.org/thema/en). For help, see Thema's [instructions on categorizing books](https://www.editeur.org/files/Thema/20200619%20Thema%20v1.4%20Basic%20instructions.pdf).
+Select the subject type from a dropdown list:
+* [[BIC]]
+* [[BISAC]]
+* [[Thema]]
+* [[LCC]]
+* Custom
+* Keyword
 
-## BISAC [code]
-See the Book Industry Study Group (BISG) website for [BISAC categories and their codes](https://bisg.org/page/BISACEdition). For help, see BISG's [instructions on categorizing books](https://bisg.org/page/BISACSelection).
+### Subject Code
 
-## LCC [code]
-See the Library of Congress website an outline of the [Library of Congress Classification (LCC) schedules of categories and codes](https://www.loc.gov/catdir/cpso/lcco/), and the set of schedules for the [full classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html#About).
+In case of [[BIC]], [[BISAC]], [[Thema]], [[LCC]], and Custom, add the appropriate subject code. 
 
-## custom_categories [...]
-
-## keywords
 Keywords are words or phrases that describe content. In the context of structured metadata,
 keywords are not necessarily part of a controlled vocabulary of subject terms (such as
 BISAC Subject Headings, Thema or BIC Subject Classifications, or Library of Congress
@@ -274,6 +288,12 @@ include words already used within the BISAC, BIC or Thema subject schemes.
 
 Additional information about keywords can be found in the [BISG Best Practices for Keywords
 in Metadata](https://www.bisg.org/best-practices-keywords-metadata). [BISG, _Revised Best Practices for Book Metadata_, 110]
+
+### Subject Ordinal
+
+Integer determining the order codes or keywords.
+
+## Issues
 
 ## funding
 ### funding_funder
