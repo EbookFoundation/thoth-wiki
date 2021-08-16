@@ -1,4 +1,4 @@
-The **Funders** page will display the Funders the user has access to. The following information is displayed:
+The **Funders** page will display the Funders all users have access to. The following information is displayed:
 
 | Column Name  | Content      |
 | :---         | :---          | 
