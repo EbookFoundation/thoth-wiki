@@ -11,7 +11,7 @@ The **Publishers** page will display the Publishers the user has access to, usua
 | URL          | Publisher URL |
 | UpdatedAt    | Date/time of most recent update |
 
-Clicking on any record allows you to edit it.
+Clicking on any record allows you to edit it. Save the record by clicking **Save**.
 
 # Edit publisher
 
