@@ -1,10 +1,24 @@
 Welcome to Thoth! This manual is meant to help publishers who are using Thoth to create, manage, and disseminate title metadata. The manual is a work in progress.
 
-This manual gives an overview of the main features of Thoth
+This manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. The current version of Thoth is 0.4.5.
 
 # Metadata Fields
 
-[[Works|Thoth_Works]]
+## [[Works|Thoth_Works]]
+
+## [[Publications|Thoth_Publications]]
+
+## [[Publishers|Thoth_Publishers]]
+
+## [[Imprints|Thoth_Imprints]]
+
+## [[Contributors|Thoth_Contributors]]
+
+## [[Series|Thoth_Series]]
+
+## [[Funders|Thoth_Funders]]
+
+
 
 ## publisher
 BISG defines a publisher as the "entity that owns the legal right to make the given product available in this
