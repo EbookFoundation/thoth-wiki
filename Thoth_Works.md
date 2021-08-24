@@ -4,12 +4,12 @@ The **Works** page will display the Works all users have access to. The followin
 
 | Column Name  | Content      |
 | :---         | :---          | 
-| ID           | Unique primary key    | 
-| Title      | Title |
+| ID           | Unique primary key (UUID)    | 
+| Title      | [Title](#title-mandatory) |
 | Type    | Type |
 | Contributors  | List of comma-separated contributors|
-| DOI | DOI |
-| Publisher | Publisher |
+| DOI | [DOI](#doi) |
+| Publisher | [Publisher](#imprint-mandatory) |
 | UpdatedAt | Date/time of most recent update |
 
 Clicking on any record allows you to edit it. Save the record by clicking **Save**.
