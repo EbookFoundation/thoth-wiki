@@ -1,7 +1,7 @@
 ### Link: [metaarchive.org](https://metaarchive.org/) 
 
 ### Summary: 
-The mission of the MetaArchive Cooperative is to foster better understanding of distributed digital preservation methods and to create enduring and stable, geographically dispersed “dark archives” of digital materials that can be drawn upon to restore collections at member organisations.
+A cooperative of (primarily US) libraries working collectively to create preservation network. The mission of the MetaArchive Cooperative is to foster better understanding of distributed digital preservation methods and to create enduring and stable, geographically dispersed “dark archives” of digital materials that can be drawn upon to restore collections at member organisations.
 
 ### Format types: 
 Not specified.
