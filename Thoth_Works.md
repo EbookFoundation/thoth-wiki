@@ -4,9 +4,9 @@ The **Works** page will display the Works all users have access to. The followin
 
 | Column Name  | Content      |
 | :---         | :---          | 
-| ID           | Unique primary key (UUID)    | 
+| ID           | Unique primary key ([[UUID]])    | 
 | Title      | [Title](#title-mandatory) |
-| Type    | Type |
+| Type    | [Type](#work-type-mandatory) |
 | Contributors  | List of comma-separated contributors|
 | DOI | [DOI](#doi) |
 | Publisher | [Publisher](#imprint-mandatory) |
