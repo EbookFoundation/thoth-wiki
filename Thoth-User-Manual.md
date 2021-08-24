@@ -6,7 +6,7 @@ This manual pertains to Thoth version 0.4.5.
 
 # Docs
 
-## [[GraphiQL|Thoth_GraphiQL]]
+## [[GraphQL API|Thoth_GraphQL_API]]
 
 ## [[Export API|Thoth_Export_API]]
 
