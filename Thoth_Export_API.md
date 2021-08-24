@@ -17,3 +17,5 @@ After filling in both parameters, click **TRY**. With ONIX records, there will b
 # Get a work's metadata record
 
 The same procedure as getting a publisher's metadata record. Instead of **publisher_id**, you'll need a **work_id**. To find the work_id, enter the **Admin** section of Thoth, go to the list of [[Works|Thoth_Works]], and copy the **ID**. For example, *A Boy Asleep under the Sun* has the unique id `5402ea62-7a1b-48b4-b5fb-7b114c04bc27`.
+
+Alternatively, you may obtain a work_id from the [[GraphQL API|Thoth_GraphQL_API]].
