@@ -14,3 +14,7 @@ DOAB upload requirements are provided on their [website](https://www.doabooks.or
 ![DOAB Metdata Upload Form](https://punctumbooks.com/punctum/wp-content/uploads/2020/10/Screenshot-2020-10-15-at-14.52.08.png)
 
 OA books in the [[OAPEN]] repository are automatically indexed in the [[DOAB]]. [[DOAB]] in turn feeds into [[Library Hub Discover]].
+
+## Ingest
+
+OAPEN would prefer to ingest data from Thoth via an [[OAI-PMH]] feed.
