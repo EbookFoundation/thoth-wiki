@@ -1,5 +1,8 @@
 [Issue 102](https://github.com/thoth-pub/thoth/issues/102)
 
+### Progress: 
+ONIX metadata output can be generated from Thoth
+
 [Project Muse](https://muse.jhu.edu/) is an online scholarly library managed by Johns Hopkins University focused on the humanities and social sciences. 
 
 * Preferred metadata format: [[ONIX 3.0]]
