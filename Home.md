@@ -217,7 +217,7 @@ Library-agnostic, global content indices.
 
 ## Third-party Content Indices 
 
-* [[DOAB]]*    
+* [[DOAB]]*^    
 * [[Unpaywall]]
 
 ## DOI Registries
