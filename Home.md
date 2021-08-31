@@ -1,6 +1,6 @@
 <img src="https://punctumbooks.com/punctum/wp-content/uploads/2020/09/thoth-logo-latin.png" alt="Thoth" height="300" align="right"/>
 
-The following wiki lists all output formats, platforms, and other stakeholders that relate to the development of [[open]] source metadata management system Thoth. Those wikis marked with an asterisk (*) are identified in the [WP5 Scoping Report](https://copim.pubpub.org/pub/wp5-scoping-report-building-open-dissemination-system/) and are indexed as an issue in the [Thoth Project](https://github.com/thoth-pub/thoth/projects).
+The following wiki lists all output formats, platforms, and other stakeholders that relate to the development of [[open]] source metadata management system Thoth. Those wikis marked with an asterisk (*) are identified in the [WP5 Scoping Report](https://copim.pubpub.org/pub/wp5-scoping-report-building-open-dissemination-system/) and are indexed as an issue in the [Thoth Project](https://github.com/thoth-pub/thoth/projects). Those wikis marked with a caret (^) have been successfully implemented in Thoth. 
 
 The transfer protocols and file specifications listed in this wiki are those which have current or future support by Thoth. Any updates are welcome at wp5@copim.ac.uk.
 
@@ -25,8 +25,8 @@ Data formats are the formats in which the textual content of an [[object]] are c
 Metadata formats are the formats in which the [[metadata]] of an [[object]] are stored. Metadata formats have been developed as part of software packages or as consortial standards and mayb be constructed on top of higher-level metadata syntax. Different stakeholders in the [[scholcomm pipeline]] use different metadata formats for different purposes. Moreover, different stakeholders maintain different subsets of the metadata potentially contained in specific formats. Thoth aims for a holistic approach, being able to export as many formats in as many flavors as possible. [[Dublin Core]] defines minimal metadata requirements that can be expressed in [[RDF]], [[JSON]], or [[XML]] based formats. [[CRediT]]* defines guidelines for the definition of contributor metadata.
 
 
-* [[CSV]]* or [[XLSX]]
-  * [[KBART]]*
+* [[CSV]]*^ or [[XLSX]]
+  * [[KBART]]*^
 * [[DCAT]]
 * [[JSON]]
 * [[MAB2]]
@@ -38,8 +38,8 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
   * [[MABXML]]
   * [[MARCXML]]*
   * [[OAI-PMH]]
-  * [[ONIX 2.1]]*
-  * [[ONIX 3.0]]*
+  * [[ONIX 2.1]]*^
+  * [[ONIX 3.0]]*^
   * [[BITS XML]]
   * [[OPDS]]
 * [[WikiData]]
@@ -124,7 +124,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 | :---                            | :---          | :---          |:---|:---    |:---         |
 | [[EBSCO ebooks]]*               | Commercial    | Y             | Y  | Y      | Push        |
 | [[JSTOR]]*                      | Non-Profit    | Y             | Y  | Y      | Push        |
-| [[Project MUSE]]*               | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[Project MUSE]]*^              | Non-Profit    | Y             | Y  | Y      | Push        |
 | [[ProQuest Ebook Central]]      | Commercial    | Y             | Y  | Y      | Push        |
 
 ### OA Platforms and Repositories
@@ -136,7 +136,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 | [[Finna.fi]]                    | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Y  | N      | Push        |
 | [[Internet Archive]]*           | Non-Profit    | N             | Y  | Y      | Push        |
-| [[OAPEN]]*                      | Non-Profit    | Y             | Y  | N      | Push        |
+| [[OAPEN]]*^                     | Non-Profit    | Y             | Y  | N      | Push        |
 | [[Open Bookshelf]] (DPLA)       | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Edition]]                | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Library]]                | Non-Profit    | Y             | Y  | Y      | Push        |
