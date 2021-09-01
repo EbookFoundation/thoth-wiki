@@ -6,5 +6,9 @@ Archived specs of ONIX 2.1 can be downloaded on [EDItEUR](https://www.editeur.or
 
 ONIX 2.1 records can be imported in:
 * [EBSCO ebooks](https://github.com/thoth-pub/thoth/wiki/EBSCO-ebooks)
+* [OAPEN](https://github.com/thoth-pub/thoth/wiki/OAPEN)
+* [DOAB](https://github.com/thoth-pub/thoth/wiki/DOAB)
+
+
 
 
