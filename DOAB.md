@@ -11,10 +11,10 @@ The [DOAB](https://www.doabooks.org/) (Directory of Open Access Books) is a disc
 
 DOAB upload requirements are provided on their [website](https://www.doabooks.org/doab?func=forPublishers&uiLanguage=en) and in a list of [required metadata](https://www.doabooks.org/docs/doabMetadataApril2012.pdf)
 
-![DOAB Metdata Upload Form](https://punctumbooks.com/punctum/wp-content/uploads/2020/10/Screenshot-2020-10-15-at-14.52.08.png)
+![DOAB Metadata Upload Form](https://punctumbooks.com/punctum/wp-content/uploads/2020/10/Screenshot-2020-10-15-at-14.52.08.png)
 
-OA books in the [[OAPEN]] repository are automatically indexed in the [[DOAB]]. [[DOAB]] in turn feeds into [[Library Hub Discover]].
+OA books in the [[OAPEN]] repository are automatically indexed in the [[DOAB]] provided they are published under a free to share license. [[DOAB]] in turn feeds into [[Library Hub Discover]].
 
 ## Ingest
 
-OAPEN would prefer to ingest data from Thoth via an [[OAI-PMH]] feed.
+DOAB would prefer to ingest data from Thoth via an [[OAI-PMH]] feed.
