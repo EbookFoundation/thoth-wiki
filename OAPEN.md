@@ -3,10 +3,10 @@
 [OAPEN](https://oapen.org/) is an online library and publication platform promoting and supporting the transition to open access for academic books by providing open infrastructure services to stakeholders in scholarly communication. 
 
 * Preferred metadata format: [[ONIX 3.0]], encoded in UTF-8
-* Other supported formats: [[DOCX]], [[XLSX]], [[CSV]]
+* Other supported formats: [[DOCX]], [[XLSX]], [[CSV]], [[ONIX 2.1]]
 * File transfer: through URL in [[ONIX 3.0]] spec
 * Cover file: Extracted from content file
-* Content files: [[PDF]]
+* Content files: [[PDF]], [[EPUB]]
 * Chapter support: No
 
 OAPEN provides guidelines for [uploading books and metadata](https://cloud.copim.ac.uk/s/C7KPbNDaLwJcfL5) and a [sample ONIX 3.0 file](https://cloud.copim.ac.uk/s/PjxsDr7TbjxGgPJ).
