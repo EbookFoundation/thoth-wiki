@@ -3,7 +3,7 @@
 The [DOAB](https://www.doabooks.org/) (Directory of Open Access Books) is a discovery service for Open Access monographs, a joint project of [[OAPEN]], OpenEdition, CNRS and Aix-Marseille Université.
 
 * Preferred metadata format: through [custom form](https://www.doabooks.org/doabAdmin?func=books) with the following [fields](https://www.doabooks.org/docs/doabUploadFieldDescription.xlsx)
-* Other supported formats: [[XLSX]]
+* Other supported formats: [[XLSX]], [[ONIX 3.0]], [[ONIX 2.1]]
 * File transfer: Browser
 * Cover file: URL
 * Content files: URL
