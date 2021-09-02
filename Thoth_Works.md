@@ -289,6 +289,8 @@ include words already used within the BISAC, BIC or Thema subject schemes.
 Additional information about keywords can be found in the [BISG Best Practices for Keywords
 in Metadata](https://www.bisg.org/best-practices-keywords-metadata). [BISG, _Revised Best Practices for Book Metadata_, 110]
 
+[[BIC]], [[BISAC]], and [[LCC]] are all legacy classifications that are no longer properly maintained and are copyright protected. Only [[Thema]] is consistently maintained, has the widest collection of categories, and is open. 
+
 ### Subject Ordinal
 
 Integer determining the order codes or keywords.
