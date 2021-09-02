@@ -204,6 +204,8 @@ Select the contribution type from the dropdown list:
 * Afterward by
 * Preface by
 
+Do _not_ add contributors of chapters as contributors/author in case the book is an edited collection. Once chapter functionality is installed, these will be able to be added.
+
 ### Institution
 The institution of the contributor at the moment of contribution.
 
