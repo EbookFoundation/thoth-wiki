@@ -9,3 +9,5 @@
 * Chapter support: No
 
 ![Library Genesis Metadata Form](https://punctumbooks.com/punctum/wp-content/uploads/2020/10/Screenshot-2020-10-15-at-14.27.03.png)
+
+Library Genesis also allows for bulk upload through FTP (seems temporarily disabled), which requires filling in a [custom Excel sheet](https://cloud.copim.ac.uk/s/YrDkA9pzgcNaQZr). 
