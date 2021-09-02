@@ -1,6 +1,6 @@
 [Issue 75](https://github.com/thoth-pub/thoth/issues/75)
 
-[Library Genesis](http://gen.lib.rus.ec/) is a pirate library without explicit governance structure. (Anonymous) upload of individual PDFs is possible through a custom form.
+[Library Genesis](http://gen.lib.rus.ec/) is a shadow library without explicit governance structure. (Anonymous) upload of individual PDFs is possible through a custom form.
 
 * Preferred metadata format: Custom form
 * Other supported formats: N/A
