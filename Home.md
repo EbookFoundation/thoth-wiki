@@ -279,7 +279,9 @@ All currently available bibliographic management platforms support import from [
 | [[RefWorks]]     | Individual    | Commercial  | ? | [Y](https://knowledge.exlibrisgroup.com/RefWorks/Legacy_RefWorks/03Get_References/020Converting_from_Other_Bibliographic_Management_Programs) |
 | [[Zotero]]*      | Individual    | Open Source | [Y](https://www.zotero.org/support/kb/importing_standardized_formats)| [Y](https://www.zotero.org/support/kb/importing_standardized_formats)|
 
+# Title Management Platforms
 
+* [[BookSonix]]
 
 # Publishing Platforms
 
