@@ -282,6 +282,7 @@ All currently available bibliographic management platforms support import from [
 # Title Management Platforms
 
 * [[BookSonix]]
+* [[Consonance]]
 
 # Publishing Platforms
 
