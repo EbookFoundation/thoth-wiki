@@ -37,7 +37,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[XML]]
   * [[MABXML]]
   * [[MARCXML]]*
-  * [[OAI-PMH]]
+
   * [[ONIX 2.1]]*^
   * [[ONIX 3.0]]*^
   * [[BITS XML]]
@@ -46,7 +46,11 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
   * [[WikiCite]]
 
 
+## Feed Formats
 
+* [[XML]]
+  * [[OAI-PMH]]
+* [[RSS]]
 
 
 ### Citations and Bibliographies
