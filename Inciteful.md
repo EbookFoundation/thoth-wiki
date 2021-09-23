@@ -5,3 +5,5 @@ website: https://inciteful.xyz/data
 
 
 Pulls data from several databases, including [[CrossRef]] and [[Semantic Scholar]]
+
+23.09.21: picking up OBP (at chapter level) and punctum titles.
