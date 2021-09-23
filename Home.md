@@ -255,7 +255,7 @@ Search engines built on top of publication databases tailored toward researches.
 * [[ScienceOpen]]
 * [[SciFinder]]
 * [[Scopus]] (RELX)
-* [[Sematic Scholar]]
+* [[Semantic Scholar]]
 * [[SHARE]] (ARL/COS)
 * [[Summon]] (ProQuest)
 * [[Triple]]
