@@ -395,5 +395,6 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 ## Repository Systems
 
 * [[DSpace]]
+* [[Figshare]]
 * [[LibreCat]]
 
