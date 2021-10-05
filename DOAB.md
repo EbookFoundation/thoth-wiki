@@ -17,4 +17,4 @@ OA books in the [[OAPEN]] repository are automatically indexed in the [[DOAB]] p
 
 ## Ingest
 
-DOAB would prefer to ingest data from Thoth via an [[OAI-PMH]] feed.
+DOAB would prefer to ingest data from Thoth via an [[OAI-PMH]] feed. Upon metadata retrieval the book will typically be live on DOAB within 5 working days.
