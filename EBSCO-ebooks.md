@@ -12,7 +12,7 @@ OBP: EBSCO knowledge base accepts KBART data via FTP, and requires an email aler
 
 * EBSCO Host
 
-OBP: EBSCO Host accepts ONIX files and ebook files (pdf, epub) to be uploaded via FTP. Since the introduction of the OA eBook collection can accept OA content (at no cost and thus also no earnings). A naming convention required for ebook files submitted. email alert to be sent when new content uploaded.
+OBP: EBSCO Host accepts ONIX files and ebook files (pdf, epub) to be uploaded via FTP. Since the introduction of the EBSCO Host OA eBook collection can accept OA content (at no cost and thus also no earnings). A naming convention required for ebook files submitted. email alert to be sent when new content uploaded.
 
 * GOBI
 
