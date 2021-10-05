@@ -13,6 +13,12 @@ OAPEN provides guidelines for [uploading books and metadata](https://cloud.copim
 
 OAPEN provides multiple [metadata feeds](https://oapen.org/librarians/15635975-metadata), including [[MARCXML]], [[ONIX 3.0]], and [[CSV]].
 
+
 ## Ingest
 
-OAPEN would prefer to ingest data from Thoth via an [[OAI-PMH]] feed.
+OAPEN would prefer to ingest data from Thoth via an [[OAI-PMH]] feed. Upon metadata & file retrieval the book will typically be live on OAPEN within 5 working days.
+
+
+## Embargo
+
+OAPEN can support embargo periods for books (typically up to 3 months). The book page will be live, including description but the book file(s) cannot be accessed yet. Upon request and for special occasions only OAPEN can manually input a title and its metadata on an exact day to ensure it won't appear in any form online prior to the desired date.
