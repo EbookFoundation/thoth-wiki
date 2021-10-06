@@ -163,7 +163,7 @@ Total number of video fragments.
 
 URL of the pertinent [[Creative Commons]] license.
 
-## Copyright Holder
+## Copyright Holder (Mandatory)
 
 Copyright holder of the work.
 
