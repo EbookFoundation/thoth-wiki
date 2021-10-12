@@ -1,4 +1,4 @@
-[Issue 102](https://github.com/thoth-pub/thoth/issues/102)
+[Issue 102](https://github.com/thoth-pub/thoth/issues/102) Issue closed. ONIX 3.0 output for Project MUSE available.
 
 
 [Project Muse](https://muse.jhu.edu/) is an online scholarly library managed by Johns Hopkins University focused on the humanities and social sciences. 
