@@ -14,9 +14,6 @@ For metadata uploads in [[XLSX]] there is a [proprietary template](https://about
 
 Project MUSE exposes a [[KBART]] [file](https://about.muse.jhu.edu/lib/metadata?format=kbart&content=book&no_auth=1&collection_ids=726) of its OA holdings
 
-### Progress: 
-ONIX metadata output can be generated from Thoth
-
 ## Metadata Requirements
 
 Regardless of format, the following fields are required for a metadata feed to successfully load into our system:
