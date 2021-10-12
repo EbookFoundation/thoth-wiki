@@ -1,4 +1,4 @@
-[Issue 47](https://github.com/thoth-pub/thoth/issues/47)
+[Issue 47](https://github.com/thoth-pub/thoth/issues/47) ONIX 3.0 output for OAPEN is also compliant with DOAB requirements.
 
 The [DOAB](https://www.doabooks.org/) (Directory of Open Access Books) is a discovery service for Open Access monographs, a joint project of [[OAPEN]], OpenEdition, CNRS and Aix-Marseille Université.
 
