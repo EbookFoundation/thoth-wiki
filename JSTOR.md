@@ -1,4 +1,4 @@
-[Issue 44](https://github.com/thoth-pub/thoth/issues/44)
+[Issue 44](https://github.com/thoth-pub/thoth/issues/44) Issue closed. ONIX 3.0 output for JSTOR available.
 
 [JSTOR](https://www.jstor.org/) is a digital library for the scholarly community, managed by non-profit ITHAKA. JSTOR focuses mainly on articles, but has been increasing its range with monographs and edited collections. Books are automatically cut up in individual chapters, and provided with stable URLs and DOIs, sometimes in conflict with already extant persistent identifiers.
 
