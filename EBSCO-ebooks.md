@@ -1,4 +1,4 @@
-[Issue 49](https://github.com/thoth-pub/thoth/issues/49) Issue closed. ONIX 2.1 output for EBSCO Host available. Standard Thoth KBART output accepted by Ebsco KnowledgeBase.
+[Issue 49](https://github.com/thoth-pub/thoth/issues/49) Issue closed. ONIX 2.1 output for EBSCO Host available. Standard Thoth KBART output accepted by EBSCO KnowledgeBase.
 
 [EBSCO ebooks](https://www.ebsco.com/products/ebooks) is a ebook library service of EBSCO. Technical specification for (meta)data upload are provided [here](https://www.ebsco.com/publisher-support/ebooks).
 
