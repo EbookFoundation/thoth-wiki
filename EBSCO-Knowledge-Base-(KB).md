@@ -11,3 +11,4 @@ Another platform, EBSCOHost, provides publishers with a metadata template in .xl
 
 Similarly EBSCO KB, a service used by libraries to manage collections and help with content discoverability, allows the input of metadata in KBART that includes title, ISBN, URL, Author(s), Publisher, DOI, Edition / Volume Number and access type of the e-books, but not of metadata information related to the copyright / license of the title as a whole. This ultimately makes it difficult for publishers to flag content as Open Access. 
 
+See also the Wiki page for [EBSCO ebooks](https://github.com/thoth-pub/thoth/wiki/EBSCO-ebooks).
