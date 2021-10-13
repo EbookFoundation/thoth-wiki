@@ -19,3 +19,5 @@ OBP: EBSCO Host accepts ONIX files and ebook files (pdf, epub) to be uploaded vi
 * GOBI
 
 OBP: Printed works submitted. No metadata provided. GOBI creates their own metadata from printed editions.
+
+See also the Wiki page for [EBSCO Knowledge Base (KB)](https://github.com/thoth-pub/thoth/wiki/EBSCO-Knowledge-Base-(KB)).
