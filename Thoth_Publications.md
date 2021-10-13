@@ -30,7 +30,9 @@ Select a currency code from the dropdown list. For the international standard th
 
 The price of the publication in the selected currency.
 
-# I have the publication file to enter into Thoth but no publication URL. How can I generate a publication URL?
+# Generating a publication URL
+
+### _FAQ: I have the publication file to enter into Thoth but no publication URL. How can I generate a publication URL?_
 
 Thoth does not host book or chapter files. If you do not have a publication URL yet upon entering metadata into Thoth you can freely generate one via one of the following two options. Once your metadata and book/chapter is live on a third-party hosting platform additional publication URLs can be added within Thoth.
 
