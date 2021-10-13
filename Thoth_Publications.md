@@ -29,3 +29,18 @@ Select a currency code from the dropdown list. For the international standard th
 ### Unit Price
 
 The price of the publication in the selected currency.
+
+# I have the publication file to enter into Thoth but no publication URL. How can I generate a publication URL?
+
+Thoth does not host book or chapter files. If you do not have a publication URL yet upon entering metadata into Thoth you can freely generate one via one of the following two options. Once your metadata and book/chapter is live on a third-party hosting platform additional publication URLs can be added within Thoth.
+
+### Dropbox
+
+You can upload the publication file to [Dropbox](https://dropbox.com/), resulting in a unique publication URL which can be entered into the **'Publication URL'** field within Thoth which can be further disseminated to third-parties. 
+
+### Zenodo
+
+You can upload the publication file to [Zenodo](https://zenodo.org/), resulting in a unique publication URL which can be entered as the **'Publication URL'** within Thoth which can be further disseminated to third-parties. Zenodo also generates a DOI for all of its records.
+An example of how another OA book publisher works with Zenodo can be found [here](https://zenodo.org/communities/langscipress/?page=1&size=20).
+
+ ###
