@@ -1,6 +1,6 @@
 A Work is a unit of publication with at least one unique identifier.
 
-The **Works** page will display the Works all users have access to. The following information is displayed:
+The **Works** page will display the Works the current user has access to. The following information is displayed:
 
 | Column Name  | Content      |
 | :---         | :---          | 
