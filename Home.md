@@ -246,6 +246,7 @@ Search engines built on top of publication databases tailored toward researches.
 * [[Library Hub Discover]]* (Jisc)
 * [[MathSciNet]]
 * [[OpenAIRE Research Graph]]
+* [[OpenAlex]]
 * [[Open Research Knowledge graph]]
 * [[OpenTexts.World]] 
 * [[Orion Search]]
