@@ -30,6 +30,6 @@ The backend of Thoth can be accessed by clicking the **Admin** menu item in the 
 
 ### [[Series|Thoth_Series]]
 
-### [[Institutions|Thoth_Funders]]
+### [[Institutions|Thoth_Institutions]]
 
 # [[Sample Records|Thoth_Sample_Records]]
