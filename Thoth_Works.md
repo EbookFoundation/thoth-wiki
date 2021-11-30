@@ -216,7 +216,9 @@ The biography of the contributor at the moment of contribution.
 Select whether the contribution is main contribution from the dropdown list. Main contributions are represented on the [[Catalogue|Thoth_Catalogue]] page.
 
 ### Contribution Ordinal
-Integer determining the order in which contributions are listed.
+Integer determining the order in which contributions are listed, start with `1`.
+
+Once a Contribution has been entered, you can also add one or more institutional Affiliations per Contrubition. As with Funders (see below) Affiliations are drawn from the [[Institutions|Thoth_Institutions]] table. Search for the Institution affiliated with the Contribution, to which you can also add a Position and Affiliation Ordinal, which determines the order in which the affiliations are listed.
 
 ## Publications
 
@@ -236,8 +238,7 @@ Select the publication type from the dropdown list:
 ### ISBN
 The [[ISBN]] of the publication.
 
-### URL
-The URL of the publication, for example a link to a repository such as [[OAPEN]] or [[JSTOR]].
+By clicking View, Locations and Prices can be added via the [[Publications|Thoth_Publications]] page.
 
 ## Languages
 
@@ -307,7 +308,7 @@ The number of the Work in the Series.
 
 ## Funding
 
-Use the searchbar to find a [[Funder|Thoth_Funders]]
+Use the searchbar to find a funding [[Institution|Thoth_Institutions]]
 
 ### Program
 
