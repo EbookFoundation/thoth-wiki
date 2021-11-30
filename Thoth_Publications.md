@@ -17,7 +17,39 @@ Clicking on any record allows you to edit it. Save the record by clicking **Save
 
 **Publication Type**, **Publication ISBN**, and **Publication URL** are determined when creating a specific Publication under a [[Work|Thoth_Works]] record.
 
-## Add price
+## Locations
+
+Click **Add Location** to add a new price.
+
+### Landing Page
+
+The landing page is the human-readable URL on which the Publication can be accessed.
+
+### Full Text URL
+
+The Full Text URL is the direct link to the full text file. Optional.
+
+### Location Platform
+
+Select the platform on which the publication is hosted. The following options are currently available:
+
+* Project MUSE
+* OAPEN
+* DOAB
+* JSTOR
+* EBSCO Host
+* OCLC KB
+* Proquest KB
+* Proquest ExLibris
+* EBSCO KB
+* Jisc KB
+* Other 
+
+### Canonical
+
+Indicate whether this is the canonical location for this specific publication. For print books this may be the main platform on which the book is sold, for ebooks the official version of record hosted on the publisher's own server.
+
+## Prices
 
 Click **Add Price** to add a new price.
 
