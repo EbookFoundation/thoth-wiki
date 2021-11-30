@@ -189,7 +189,7 @@ Table of content of the work.
 
 ## Contributions
 
-Use the searchbar to find a [[Contributor|Thoth_Contributor]]. The **Contributor's Given Name**, **Contributor's Family Name**, and **Contributor's Full Name** have been imported from the Contributor record.
+Use the searchbar to find a [[Contributor|Thoth_Contributors]]. The **Contributor's Given Name**, **Contributor's Family Name**, and **Contributor's Full Name** have been imported from the Contributor record.
 
 ### Contribution Type
 Select the contribution type from the dropdown list:
