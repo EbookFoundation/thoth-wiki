@@ -1,0 +1,3 @@
+**[Standard Ebooks](https://standardebooks.org/ebooks)** is a community-led endeavour to create high-quality ebooks from source material that has entered the Public Domain.
+
+> a volunteer-driven effort to produce a collection of high quality, carefully formatted, accessible, open source, and free public domain ebooks that meet or exceed the quality of commercially produced ebooks. The text and cover art in our ebooks is already believed to be in the U.S. public domain, and Standard Ebooks dedicates its own work to the public domain, thus releasing the entirety of each ebook file into the public domain. All the ebooks we produce are distributed free of cost and free of U.S. copyright restrictions.
