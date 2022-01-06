@@ -17,4 +17,4 @@ Can download from interface, validate and migrate file formats, perform fixity c
 Tiered model based on revenue, starting at $1,000. Additional one-off set-up fee.
 
 ### Submission guidelines:
-[https://www.portico.org/wp-content/uploads/2018/02/P_EbookSubmissionGuidelines_180205.pdf] (https://www.portico.org/wp-content/uploads/2018/02/P_EbookSubmissionGuidelines_180205.pdf)
+https://www.portico.org/wp-content/uploads/2018/02/P_EbookSubmissionGuidelines_180205.pdf
