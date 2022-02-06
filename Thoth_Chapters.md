@@ -1,0 +1,1 @@
+A **Chapter** is a Type of [[Work|Thoth_Works]].
