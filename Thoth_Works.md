@@ -24,7 +24,7 @@ Select the type of the work from the dropdown list:
 * Journal Issue
 * Book Set
 
-Some fields below are unavailable for certain Work Types.
+Not all fields are available for all Work Types. Non-available fields are greyed out.
 
 # Work Status (Mandatory)
 
