@@ -24,6 +24,8 @@ Select the type of the work from the dropdown list:
 * Journal Issue
 * Book Set
 
+Some fields below are unavailable for certain Work Types.
+
 # Work Status (Mandatory)
 
 Select the status of the work from the dropdown list:
@@ -143,6 +145,14 @@ pages, 921). (BISG, _Revised Best Practices for Book Metadata_, 104)
 
 Breakdown of **Total number of pages** in frontmatter, main, and backmatter.
 
+## First Page
+
+Only for the Work Type **Book Chapter**: First page of the chapter.
+
+## Last Page
+
+Only for the Work Type **Book Chapter**: Last page of the chapter.
+
 ## Image Count
 
 Total number of images.
@@ -187,6 +197,26 @@ Note about the work.
 
 Table of content of the work.
 
+## Related Works
+
+This section allows the addition of a related Work, such as a Book Chapter to an Edited book. Start by searching for the related work
+
+### Relation Type
+Select the Relation Type from the dropdown list:
+* Replaces
+* Has Translation 
+* Has Part
+* Has Child
+* Is Replaced By
+* Is Translation Of
+* Is Part Of 
+* Is Child Of
+
+Relation Types are symmetrical. The converse Relation Type is added to the selected Related Work.
+
+### Relation Ordinal
+Integer determining the order in which Related Works are listed, start with `1`.
+
 ## Contributions
 
 Use the searchbar to find a [[Contributor|Thoth_Contributors]]. The **Contributor's Given Name**, **Contributor's Family Name**, and **Contributor's Full Name** have been imported from the Contributor record.
@@ -206,9 +236,6 @@ Select the contribution type from the dropdown list:
 
 In case the Work is an Edited Book, do _not_ add chapters contributors as Authors. Once chapter functionality is installed, these will be able to be added separately.
 
-### Institution
-The institution of the contributor at the moment of contribution.
-
 ### Biography
 The biography of the contributor at the moment of contribution.
 
@@ -219,6 +246,16 @@ Select whether the contribution is main contribution from the dropdown list. Mai
 Integer determining the order in which contributions are listed, start with `1`.
 
 Once a Contribution has been entered, you can also add one or more institutional Affiliations per Contrubition. As with Funders (see below) Affiliations are drawn from the [[Institutions|Thoth_Institutions]] table. Search for the Institution affiliated with the Contribution, to which you can also add a Position and Affiliation Ordinal, which determines the order in which the affiliations are listed.
+
+### Institution
+The [[Institution|Thoth_Institutions]] affiliated with the contributor at the moment of contribution. Seach for the institution in the search bar and select it. 
+
+#### Position
+Optionally, add the position of the Contributor at the Institution at the moment of contribution
+
+#### Affiliation Ordinal
+Integer determining the order in which affiliations are listed, start with `1`.
+
 
 ## Publications
 
