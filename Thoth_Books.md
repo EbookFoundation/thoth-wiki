@@ -1,0 +1,1 @@
+A **Book** is a Type of [[Work|Thoth_Works]].
