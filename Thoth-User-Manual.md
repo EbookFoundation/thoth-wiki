@@ -20,6 +20,10 @@ The backend of Thoth can be accessed by clicking the **Admin** menu item in the 
 
 ### [[Works|Thoth_Works]]
 
+#### [[Works|Thoth_Books]]
+
+#### [[Chapters|Thoth_Chapters]]
+
 ### [[Publications|Thoth_Publications]]
 
 ### [[Publishers|Thoth_Publishers]]
