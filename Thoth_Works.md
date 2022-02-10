@@ -271,6 +271,9 @@ Select the publication type from the dropdown list:
 * XML
 * Epub
 * Mobi
+* AZW3
+* DOCX
+* FictionBook
 
 ### ISBN
 The [[ISBN]] of the publication.
