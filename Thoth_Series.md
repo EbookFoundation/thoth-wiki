@@ -38,4 +38,12 @@ The Digital [[ISSN]] number of the series.
 
 ## Series URL
 
-The URL of the imprint's website. Preface with `http://` or `https://`.
+The URL of the series website. Preface with `http://` or `https://`.
+
+## Series Call for Proposals URL
+
+The URL of the series call for proposals. Preface with `http://` or `https://`.
+
+## Series Description
+
+The description of the book series
