@@ -100,19 +100,6 @@ The [[OCLC Number]] of the Work
 
 The reference to the Work used by the Publisher internally.
 
-## Width
-Measurement perpendicular to the spine of the book.
-
-## Height
-Measurement along the spine of the book.
-
-## Units
-
-Select the unit of **Width** and **Height** from the dropdown list:
-* mm
-* cm
-* in
-
 ## Page Count
 
 Total number of pages. In most cases, unnumbered pages (e.g., endpapers) should be omitted from this count.
