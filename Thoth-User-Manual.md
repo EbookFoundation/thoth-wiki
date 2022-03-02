@@ -1,6 +1,6 @@
 This user manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. This manual is a work in progress and has been written from the perspective of a publisher managing their metadata in Thoth.
 
-This manual pertains to Thoth version 0.7.2. 
+This manual pertains to Thoth version 0.8.0. 
 
 # [[Catalogue|Thoth_Catalogue]]
 
