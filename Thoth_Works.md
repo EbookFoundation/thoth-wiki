@@ -265,6 +265,18 @@ Select the publication type from the dropdown list:
 ### ISBN
 The [[ISBN]] of the publication.
 
+### Width (only for Paperback and Hardback)
+Measurement perpendicular to the spine of the book. Automatically converted from in to mm or vice versa if the conversion box is ticked.
+
+### Height (only for Paperback and Hardback)
+Measurement along the spine of the book. Automatically converted from in to mm or vice versa if the conversion box is ticked.
+
+### Depth (only for Paperback and Hardback)
+Measurement of the thickness of the spine of the book. Automatically converted from in to mm or vice versa if the conversion box is ticked.
+
+### Weight (only for Paperback and Hardback)
+Weight of the book. Automatically converted from oz to g or vice versa if the conversion box is ticked.
+
 By clicking View, Locations and Prices can be added via the [[Publications|Thoth_Publications]] page.
 
 ## Languages
