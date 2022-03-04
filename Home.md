@@ -364,6 +364,8 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 
 ## Archiving Formats
 
+* [[SWORD]]
+
 ### Web Archiving Formats
 
 * [[ARC]]
@@ -397,6 +399,7 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 ## Repository Systems
 
 * [[DSpace]]
+* [[EPrints]]
 * [[Figshare]]
 * [[LibreCat]]
 
