@@ -134,6 +134,8 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
 | :---                            | :---          | :---          |:---|:---    |:---         |
+| [[Cairn]]                       |               |               |    |        |             | 
+| [[CEEOL]]|                      |               |               |    |        |             |
 | [[CLACSO]]                      | Non-Profit    | ?             | Y  | N      | ?           |
 | [[Érudit]]                      | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Finna.fi]]                    | Non-Profit    | ?             | Y  | Y      | ?           |
@@ -147,6 +149,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 | [[ScIELO Books]]                | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Standard Ebooks]]             | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[TOME]] (figshare)             | Non-Profit    | ?             | Y  | Y      | ?           |
+| [[UC Digitalis]]                |               |               |    |        |             |
 | [[Verdensbiblioteket]]          | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikibooks]]                   | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikisource]]                  | Non-Profit    | N             | Y  | N      | ?        |
