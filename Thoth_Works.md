@@ -243,6 +243,10 @@ Optionally, add the position of the Contributor at the Institution at the moment
 #### Affiliation Ordinal
 Integer determining the order in which affiliations are listed, start with `1`.
 
+By cicking Edit, contributor details can be edited.
+
+By clicking Remove, contributions can be removed.
+
 
 ## Publications
 
@@ -277,7 +281,12 @@ Measurement of the thickness of the spine of the book. Automatically converted f
 ### Weight (only for Paperback and Hardback)
 Weight of the book. Automatically converted from oz to g or vice versa if the conversion box is ticked.
 
+
+By cicking Edit, publication details can be edited.
+
 By clicking View, Locations and Prices can be added via the [[Publications|Thoth_Publications]] page.
+
+By clicking Remove, publications can be removed.
 
 ## Languages
 
