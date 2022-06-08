@@ -1,0 +1,3 @@
+**[VuFind](https://vufind.org/vufind/about.html)**®, developed and maintained by [Villanova University's Falvey Memorial Library](https://www.library.villanova.edu/), is 
+
+> a library resource portal designed and developed for libraries by libraries. The goal of VuFind® is to enable your users to search and browse through all of your library's resources by replacing the traditional OPAC to include Catalog Records, Digital Library Items, Institutional Repository, Institutional Bibliography, and other Library Collections and Resources.
