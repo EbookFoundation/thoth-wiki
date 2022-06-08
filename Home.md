@@ -209,6 +209,8 @@ Catalog management systems for individual libraries.
 * [[ExLibris]] Alma (ProQuest)
 * [[Folio]]
 * [[Koha]]
+* [[VuFind]]
+* [[Evergreen]]
 * [[Worldshare]] (OCLC)
 
 
