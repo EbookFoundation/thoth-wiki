@@ -105,6 +105,7 @@ Most subject identifiers are copyrighted schemata with limited reach, especially
 * [[BIC]]
 * [[BISAC]]
 * [[Bowker]]
+* [[FAST]]
 * [[LCC]]
 * [[Thema]]
 
