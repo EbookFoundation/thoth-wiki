@@ -229,7 +229,7 @@ Library-agnostic, global content indices.
 * [[Alma's Central KnowledgeBase]] (ProQuest)
 * [[BDSLive]]* 
 * [[EBSCO Knowledge Base]]
-* [[JISC KnowledgeBase+]]
+* [[JISC Knowledge Base+]] (KB+)
 * [[ProQuest 360 Core]] 
 * [[WikiData]]
 * [[WorldCat KnowledgeBase]] (OCLC)
