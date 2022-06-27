@@ -159,8 +159,8 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
 | :---                            | :---          | :---          |:---|:---    |:---         |
-| [[Academia.edu]]                | For Profit    | Y             | Y  | N      | Push        | 
-| [[ResearchGate]]                | For Profit    | Y             | Y  | N      | Push        |
+| [[Academia.edu]]                | For Profit    | Y             | Y  | Y      | Push        | 
+| [[ResearchGate]]                | For Profit    | Y             | Y  | Y      | Push        |
 
 ### Shadow Libraries
 
