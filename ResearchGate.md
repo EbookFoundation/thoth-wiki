@@ -1,0 +1,2 @@
+Authors can upload their own titles (but links only to RG version and usage stats difficult to obtain)
+Appears that RG now partnering with publishers to allow links to VoR (with gateway for nonOA content): [https://www.researchgate.net/publisher-solutions](https://www.researchgate.net/publisher-solutions)
