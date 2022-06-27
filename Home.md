@@ -155,6 +155,13 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 | [[Wikibooks]]                   | Non-Profit    | N             | Y  | N      | ?        |
 | [[Wikisource]]                  | Non-Profit    | N             | Y  | N      | ?        |
 
+### Other platforms and repositories
+
+| Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
+| :---                            | :---          | :---          |:---|:---    |:---         |
+| [[Academia.edu]]                | For Profit    | Y             | Y  | N      | Push        | 
+| [[ResearchGate]]                | For Profit    | Y             | Y  | N      | Push        |
+
 ### Shadow Libraries
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
@@ -221,6 +228,8 @@ Library-agnostic, global content indices.
 
 * [[Alma's Central KnowledgeBase]] (ProQuest)
 * [[BDSLive]]* 
+* [[EBSCO Knowledge Base]]
+* [[JISC KnowledgeBase+]]
 * [[ProQuest 360 Core]] 
 * [[WikiData]]
 * [[WorldCat KnowledgeBase]] (OCLC)
