@@ -267,7 +267,7 @@ Select the publication type from the dropdown list:
 * FictionBook
 
 ### ISBN
-The [[ISBN]] of the publication.
+The [[ISBN]] of the publication. Only ISBN-13s are accepted.
 
 ### Width (only for Paperback and Hardback)
 Measurement perpendicular to the spine of the book. Automatically converted from in to mm or vice versa if the conversion box is ticked.
