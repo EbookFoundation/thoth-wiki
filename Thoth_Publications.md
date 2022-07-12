@@ -19,7 +19,7 @@ Clicking on any record allows you to edit it. Save the record by clicking **Save
 
 ## Locations
 
-Click **Add Location** to add a new price.
+Click **Add Location** to add a new location.
 
 ### Landing Page
 
