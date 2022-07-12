@@ -168,13 +168,13 @@ Copyright holder of the work.
 
 URL of the web page of the work.
 
-## Short Abstract
-
-Short abstract of the work.
-
 ## Long Abstract
 
-Long abstract of the work.
+Abstract of the work. Where a work has only one abstract, it should be entered here, and Short Abstract can be left blank. Long Abstract is output in metadata formats, and Short Abstract is not.
+
+## Short Abstract
+
+Short abstract of the work. Where a work has two different versions of the abstract, the truncated version should be entered here. Otherwise, it can be left blank. This field is not output in metadata formats; where relevant, Long Abstract is used instead.
 
 ## General Note
 
