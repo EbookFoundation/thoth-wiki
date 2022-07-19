@@ -1,1 +1,5 @@
 [Issue 58](https://github.com/thoth-pub/thoth/issues/58)
+
+Library of Congress Recommended Formats Statement 2022-2023: [https://www.loc.gov/preservation/resources/rfs/TOC.html](https://www.loc.gov/preservation/resources/rfs/TOC.html)
+
+"The Library of Congress is excited to release the newest version of the Recommended Formats Statement. Over the last several months, the team of experts charged with maintaining, improving and ensuring the accuracy of the Statement have been engaged in the annual process of examining the Statement and its content categories, to ensure that it correctly reflects the technical characteristics for best practices regarding preservation and long-term access.  This year we are very pleased to announce that not merely have the characteristics for previous content categories been updated and improved; we have also included Email as a category, meeting a crucial need for users of the RFS."
