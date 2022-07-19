@@ -1,1 +1,4 @@
 PDF is [[human-readable]] file format developed by Adobe in 1993. It is based on Postscript and encodes the appearance of information on a printed page, as such it contains a complete description of layout and typography. There are multiple PDF extensions, with PDF/A being the preferred format for long-term preservation. 
+
+Archiving & preservation concerns: As confirmed with a digital preservation body, a PDF file is not recognised in preservation workflows as a "container" file, and therefore any embedded files (images, videos, etc.) are not updated to the most recent format during active preservation (even if the PDF file itself is updated). This is in contrast to XML, Zip, or BaggIt packages, which are recognised as "containers" and therefore the files within these are actively preserved as files.  
+
