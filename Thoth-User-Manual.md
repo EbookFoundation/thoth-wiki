@@ -1,4 +1,6 @@
-This user manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. This manual is a work in progress and has been written from the perspective of a publisher managing their metadata in Thoth. A demonstration video can also be found here: https://www.youtube.com/watch?v=DiEZI_3Ksmg
+This user manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. This manual is a work in progress and has been written from the perspective of a publisher managing their metadata in Thoth. 
+
+A video demonstration of the Thoth interface can be found here: https://www.youtube.com/watch?v=DiEZI_3Ksmg
 
 This manual pertains to Thoth version 0.8.5. 
 
