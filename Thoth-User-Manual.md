@@ -1,7 +1,7 @@
 This user manual gives an overview of the main features of Thoth with the aim of helping publishers using Thoth to create, manage, and disseminate title metadata. This manual is a work in progress and has been written from the perspective of a publisher managing their metadata in Thoth. 
 
 A video walkthrough of Thoth's metadata manager can be found here: https://www.youtube.com/watch?v=DiEZI_3Ksmg
-And a video demo of Thoth's GraphQL API can be found here https://youtube.be/8dGn-JsvViI 
+And a video demo of Thoth's GraphQL API can be found here https://youtu.be/8dGn-JsvViI 
 
 This manual pertains to Thoth version 0.8.5. 
 
