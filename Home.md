@@ -243,7 +243,7 @@ Library-agnostic, global content indices.
 
 * [[Crossref]]
 
-## Publication Database Search Engines
+## Publication Database Search Engines / Knowledge Graphs
 
 Search engines built on top of publication databases tailored toward researches. See [Jeroen Bosman's excellent Scholarly search engine comparison](https://tinyurl.com/searchenginecomparison) for useful information regarding availability of publication types, etc. See also the [recent comparative study](https://arxiv.org/abs/2005.10732) by Visser, Van Eck, and Waltman. 
 
