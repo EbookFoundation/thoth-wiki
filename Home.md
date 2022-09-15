@@ -70,7 +70,7 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 * [[ISBN]]
 * [[ISSN]]
 * [[LCCN]]
-* [[OAI Idenitifiers]]
+* [[OAI Identifier]]
 * [[OCLC Number]]
 
 #### DOI Registration Agencies
