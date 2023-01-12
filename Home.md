@@ -28,7 +28,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[CSV]]*^ or [[XLSX]]
   * [[KBART]]*^
 * [[DCAT]]
-* [[JSON]]
+* [[JSON]]^
 * [[MAB2]]
 * [[MARC 21]]
 * [[RDF]]
@@ -54,7 +54,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 
 ### Citations and Bibliographies
 
-* [[BibTeX]]*
+* [[BibTeX]]*^
 * [[CSL]]
 * [[ENL]]
 * [[ENW]]
@@ -66,15 +66,15 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 Persistent identifiers allow the unique identification of an [[object]] such as a book or chapter, institution, project, or [[maker]].
 
 ### Object Identifiers
-* [[DOI]]
-* [[ISBN]]
-* [[ISSN]]
-* [[LCCN]]
+* [[DOI]]^
+* [[ISBN]]^
+* [[ISSN]]^
+* [[LCCN]]^
 * [[OAI Identifier]]
-* [[OCLC Number]]
+* [[OCLC Number]]^
 
 #### DOI Registration Agencies
-* [[CrossRef]]*
+* [[CrossRef]]*^
 * [[DataCite]]
 * [[EZID]]
 
@@ -90,25 +90,25 @@ There are several databases of institution identifiers. The largest is GRID (98,
 * [[Funder Registry]]*
 * [[GRID]]
 * [[ISNI]]
-* [[ROR]]*
+* [[ROR]]*^
 * [[Wikidata]]
 
 ### Project Identifiers
 * [[RAiD]]*
 
 ### Maker Identifiers
-* [[ORCiD]]*
+* [[ORCiD]]*^
 * [[ISNI]]*
 
 ### Subject Identifiers
 Most subject identifiers are copyrighted schemata with limited reach, especially the schemes of [[Bowker]] and [[Amazon]]. The only open standard is [[Thema]].
 
-* [[BIC]]
-* [[BISAC]]
+* [[BIC]]^
+* [[BISAC]]^
 * [[Bowker]]
 * [[FAST]]
 * [[LCC]]
-* [[Thema]]
+* [[Thema]]^
 
 ## Metadata Standards
 
@@ -127,10 +127,10 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 
 | Name                            | Governance    | Membership    | OA | non-OA | Ingest      |
 | :---                            | :---          | :---          |:---|:---    |:---         |
-| [[EBSCO ebooks]]*               | Commercial    | Y             | Y  | Y      | Push        |
-| [[JSTOR]]*                      | Non-Profit    | Y             | Y  | Y      | Push        |
+| [[EBSCO ebooks]]*^              | Commercial    | Y             | Y  | Y      | Push        |
+| [[JSTOR]]*^                     | Non-Profit    | Y             | Y  | Y      | Push        |
 | [[Project MUSE]]*^              | Non-Profit    | Y             | Y  | Y      | Push        |
-| [[ProQuest Ebook Central]]      | Commercial    | Y             | Y  | Y      | Push        |
+| [[ProQuest Ebook Central]]^     | Commercial    | Y             | Y  | Y      | Push        |
 
 ### OA Platforms and Repositories
 
@@ -142,7 +142,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 | [[Érudit]]                      | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Finna.fi]]                    | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Hathi Trust Digital Library]] | Non-Profit    | ?             | Y  | N      | Push        |
-| [[Internet Archive]]*           | Non-Profit    | N             | Y  | Y      | Push        |
+| [[Internet Archive]]*^          | Non-Profit    | N             | Y  | Y      | Push        |
 | [[OAPEN]]*^                     | Non-Profit    | Y             | Y  | N      | Push        |
 | [[Open Bookshelf]] (DPLA)       | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Edition]]                | Non-Profit    | ?             | Y  | Y      | ?           |
@@ -202,7 +202,7 @@ Ebook distributors differ from Digital Libraries in the sense that they do not c
 * [[Axiell]]
 * [[Open Edition]] 
 * [[Open Research Library]]
-* [[OverDrive]]*
+* [[OverDrive]]*^
 * [[RNIB Bookshare]]
 * [[StreetLib]]
 * [[Unglue.it]]
@@ -239,10 +239,6 @@ Library-agnostic, global content indices.
 
 * [[DOAB]]*^    
 * [[Unpaywall]]
-
-## DOI Registries
-
-* [[Crossref]]
 
 ## Publication Database Search Engines / Knowledge Graphs
 
@@ -305,6 +301,7 @@ All currently available bibliographic management platforms support import from [
 
 # Title Management Platforms
 
+* [[Bibliosuite]]
 * [[BookSonix]]
 * [[Consonance]]
 
