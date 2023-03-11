@@ -29,6 +29,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
   * [[KBART]]*^
 * [[DCAT]]
 * [[JSON]]^
+  *[[commonmeta.org]]
 * [[MAB2]]
 * [[MARC 21]]
 * [[RDF]]
