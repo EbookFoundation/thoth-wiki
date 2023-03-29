@@ -178,7 +178,9 @@ Short abstract of the work. Where a work has two different versions of the abstr
 
 ## General Note
 
-Note about the work.
+Note about the work. This field is often used to provide information about the extent and type of the book's content. In MARC records, it corresponds to field 504.
+
+An example of a general note is: "Includes bibliography (pages 289-321) and index.".
 
 ## Table of Content
 
