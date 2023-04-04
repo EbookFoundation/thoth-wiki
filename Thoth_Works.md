@@ -184,7 +184,7 @@ Examples of general notes: "Previous edition: 2017.", "Links to additional resou
 
 ## Bibliography Note
 
-Indicates that the work contains a bibliogrpahy or other similar information. In MARC records, it corresponds to field 504.
+Indicates that the work contains a bibliography or other similar information. In MARC records, it corresponds to field 504.
 
 An example of a bibliography note is: "Includes bibliography (pages 289-321) and index.".
 
