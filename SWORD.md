@@ -1,4 +1,4 @@
-SWORD is a standardised web protocol by which repository users' computers (clients) can "talk to" online repositories (servers). Variants of it are used by many archiving and repository services, such as EPrints and DSpace.
+SWORD is a standardised web protocol by which repository users' computers (clients) can "talk to" online repositories (servers). Variants of it are used by many archiving and repository services, such as [EPrints](https://github.com/thoth-pub/thoth/wiki/EPrints) and [DSpace](https://github.com/thoth-pub/thoth/wiki/DSpace).
 
 Interaction with a SWORD-based repository is done using HTTP calls (similarly to interaction with the [Figshare](https://github.com/thoth-pub/thoth/wiki/Figshare) API, or the Thoth APIs). The SWORD protocol describes the structure that these HTTP calls should take. There is some flexibility within the protocol, so individual repository services are free to implement certain aspects of it in different ways, or not at all.
 
