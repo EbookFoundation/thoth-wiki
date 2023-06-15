@@ -6,7 +6,7 @@ They also host the [WayBack Machine](https://web.archive.org/), which archives s
 
 * Preferred metadata format: Custom form
 * Other supported formats: N/A
-* File transfer: browser upload
+* File transfer: browser upload or API
 * Content files: [[PDF]] (and many others)
 * Chapter support: No
 
