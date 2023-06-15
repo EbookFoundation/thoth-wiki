@@ -1,0 +1,1 @@
+[EPrints](https://wiki.eprints.org) is a repository system based on freely-downloadable (not open-source) software. It allows programmatic access via both its own API and [the SWORD protocol](https://github.com/thoth-pub/thoth/wiki/SWORD).
