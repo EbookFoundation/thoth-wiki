@@ -1,0 +1,1 @@
+[DSpace](https://dspace.lyrasis.org/) is an [open-source](https://github.com/DSpace) repository system. It allows programmatic access via both its own API and [the SWORD protocol](https://github.com/thoth-pub/thoth/wiki/SWORD).
