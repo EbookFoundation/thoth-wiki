@@ -18,6 +18,9 @@ The Internet Archive, a 501(c)(3) non-profit, is a digital library of internet s
 ### Third-party content support: 
 When a dynamic page contains forms, JavaScript, or other elements that require interaction with the originating host, the archived version in the WayBack Machine will not contain the original site’s functionality.
 
+### Costs:
+Free (some features require a free account).
+
 ### Features: 
 WayBack Machine crawls are contributed from various sources, some imported from third parties and others generated internally by the Archive. The frequency of snapshot captures varies per website.
 
