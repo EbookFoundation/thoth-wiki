@@ -6,3 +6,5 @@ The service proposes to become a
 ##### Current development status: 
 
 > This is a new service [in beta]. Metadata is being improved and features have not been finalized.
+
+[Technical notes](https://github.com/thoth-pub/thoth/wiki/Internet-Archive#fatcatinternet-archive-scholar)
