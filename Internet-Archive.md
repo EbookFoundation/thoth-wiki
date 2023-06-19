@@ -2,7 +2,7 @@
 
 The [Internet Archive](https://archive.org/) is a free online digital library. Anyone with a free account can upload materials to the Internet Archive via a drag/drop interface or an API. It supports all kinds of digital materials, so it can accept a wide range of file formats, but its metadata model is not tailored to books.
 
-They also host the [WayBack Machine](https://web.archive.org/), which archives snapshots of web pages. Anyone can submit URLs to be archived, whether or not they have an account. The archived webpages are transformed to [[WARC]] and can then be publicly accessed as HTML.
+They also host the [[WayBack Machine]], which archives snapshots of web pages. Anyone can submit URLs to be archived, whether or not they have an account. The archived webpages are transformed to [[WARC]] and can then be publicly accessed as HTML.
 
 * Preferred metadata format: Custom form
 * Other supported formats: N/A
