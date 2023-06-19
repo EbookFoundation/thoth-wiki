@@ -7,4 +7,4 @@ The service proposes to become a
 
 > This is a new service [in beta]. Metadata is being improved and features have not been finalized.
 
-[Technical notes](https://github.com/thoth-pub/thoth/wiki/Internet-Archive#fatcatinternet-archive-scholar)
+[Technical notes in this wiki](https://github.com/thoth-pub/thoth/wiki/Internet-Archive#fatcatinternet-archive-scholar)
