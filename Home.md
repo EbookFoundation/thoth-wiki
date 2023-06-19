@@ -253,7 +253,7 @@ Search engines built on top of publication databases tailored toward researches.
 * [[FederatedFAIR]]
 * [[IEEE Xplore]]
 * [[Inciteful]]
-* [[Internet Scholar Archive]] (Internet Archive)
+* [[Internet Archive Scholar]] (Internet Archive)
 * [[ISIDORE]] (huma-num)
 * [[Lens]]
 * [[LexisNexis]]
