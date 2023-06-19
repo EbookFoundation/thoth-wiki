@@ -7,3 +7,4 @@ The portal provides an openly-available RESTful API, best used to link into Open
 * https://openlibrary.org/data
 * https://openlibrary.org/developers/api
 * GitHub repo: https://github.com/openlibrary
+* [Technical notes in this wiki](https://github.com/thoth-pub/thoth/wiki/Internet-Archive#open-library)
