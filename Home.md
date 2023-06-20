@@ -305,6 +305,8 @@ All currently available bibliographic management platforms support import from [
 * [[Bibliosuite]]
 * [[BookSonix]]
 * [[Consonance]]
+* [[Firebrand]]
+* [[Klopotek]]
 
 # Publishing Platforms
 
