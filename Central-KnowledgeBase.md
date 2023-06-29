@@ -1,0 +1,1 @@
+Central KnowledgeBase is part of [[ExLibris]]' library management system Alma's Community Zone that contains linking information to electronic resources around the world.
