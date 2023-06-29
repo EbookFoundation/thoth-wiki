@@ -1,0 +1,13 @@
+EBSCO Integrated Knowledge Base serves as the foundation of EBSCO's discovery tools. 
+
+> To ensure EBSCO has the most up-to-date information, please send title list information on a regular basis.
+
+### Technical Specifications
+
+Preferred File Formats: KBART, Excel, Tab Delimited Text, CSV, MARC, XML
+
+Preferred Delivery Methods: FTP, Email, Site Download
+
+For additional information, please see the [Knowledge Base Data Elements Document](https://cdn1-originals.webdamdb.com/13463_127808294?cache=1635353204&response-content-disposition=inline;filename=Knowledge_Base_Flyer_3.pdf&response-content-type=application/pdf&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpbmFscy53ZWJkYW1kYi5jb20vMTM0NjNfMTI3ODA4Mjk0P2NhY2hlPTE2MzUzNTMyMDQmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmU7ZmlsZW5hbWU9S25vd2xlZGdlX0Jhc2VfRmx5ZXJfMy5wZGYmcmVzcG9uc2UtY29udGVudC10eXBlPWFwcGxpY2F0aW9uL3BkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NzQxNDQwMH19fV19&Signature=lSq~oumk2fgur0GeOxJ-h2Noy99fTQ0eGUndce-jcTD8N96M6g4mXyKxLi9DnXaF9xTL6UADn6OMD3nf9XTPzDKP82xbBi6Z1GotxUeY1BncyXp6P7bWsPvjw70rVwqpLzdUMdpsvxZbQ5obGHR~6mehbWUczB1BWEAemEDO4wYUE5r-a22y37dyPFpUZ8zYMOGVS~OIOAPAO3hOs3th9NFdWCo08z~4jqwsEhZlZeRstA2fRRekx6cu1QlW-HO75JEkaZSbZs-btjSUtkeMJeN8mejCjLuVM7g2uHnCzLF7QLwrfHIPphnvDmku8~TG0lwcEcUp1MLPNYbHDB56BA__&Key-Pair-Id=APKAI2ASI2IOLRFF2RHA).
+
+Source: https://www.ebsco.com/publishers-partnerships/publisher-support/knowledge-base
