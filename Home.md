@@ -228,7 +228,7 @@ Catalog management systems for individual libraries.
 
 Library-agnostic, global content indices.
 
-* [[Alma's Central KnowledgeBase]] (ProQuest)
+* [[Central KnowledgeBase]] (ProQuest ExLibris Alma)
 * [[BDSLive]]* 
 * [[EBSCO Knowledge Base]]
 * [[JISC Knowledge Base+]] (KB+)
