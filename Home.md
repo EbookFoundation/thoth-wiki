@@ -235,6 +235,7 @@ Library-agnostic, global content indices.
 * [[ProQuest 360 Core]] 
 * [[WikiData]]
 * [[WorldCat KnowledgeBase]] (OCLC)
+* [[Diamond Discovery Hub]] (OpenAIRE/EOSC/DIAMAS/CRAFT-OA)
 
 ## Third-party Content Indices 
 
