@@ -316,8 +316,9 @@ Publishing platforms allow authors, editors, and publishers to collaborate in a 
 * [[Editoria]]
 * [[Fulcrum]]
 * [[Manifold]]
-* [[PubPub]]
+* [[Open Monograph Press]] (PKP)
 * [[Pressbooks]]
+* [[PubPub]]
 * [[Scalar]]
 
 # Print Book Distributors
