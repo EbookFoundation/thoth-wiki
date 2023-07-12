@@ -146,7 +146,7 @@ The following categorization in **Content Platforms and Distributors** and **Cat
 | [[Internet Archive]]*^          | Non-Profit    | N             | Y  | Y      | Push        |
 | [[OAPEN]]*^                     | Non-Profit    | Y             | Y  | N      | Push        |
 | [[Open Bookshelf]] (DPLA)       | Non-Profit    | ?             | Y  | Y      | ?           |
-| [[Open Edition]]                | Non-Profit    | ?             | Y  | Y      | ?           |
+| [[OpenEdition]]                 | Non-Profit    | ?             | Y  | Y      | ?           |
 | [[Open Library]]                | Non-Profit    | Y             | Y  | Y      | Push        |
 | [[Project Gutenberg]]           | Non-Profit    | N             | Y  | N      | Push        |
 | [[ScIELO Books]]                | Non-Profit    | ?             | Y  | Y      | ?           |
