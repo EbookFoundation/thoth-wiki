@@ -375,6 +375,7 @@ See also list: https://coptr.digipres.org/Category:Preservation_System
 * [[Samvera]]
 * [[Wayback Machine]]
 * [[WebCite]]
+* [[Zenodo]]
 
 ## Metadata Schemas
 
