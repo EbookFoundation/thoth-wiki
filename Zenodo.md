@@ -2,7 +2,7 @@
 [zenodo.org](https://zenodo.org )
 
 ### Summary: 
-Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artefacts. The repository is based on the [Invenio](https://inveniosoftware.org/products/rdm/) research data management repository software.
+Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artefacts. The repository is based on the open source [Invenio](https://inveniosoftware.org/products/rdm/) research data management repository software.
 
 ### Format types: 
 All formats
