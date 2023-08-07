@@ -90,7 +90,7 @@ Caption referring to the cover image.
 
 ## LCCN
 
-The [[Library of Congress Catalog Number|LCCN]] of the Work.
+The [[Library of Congress Control Number|LCCN]] of the Work.
 
 ## OCLC Number
 
@@ -229,21 +229,24 @@ Select the contribution type from the dropdown list:
 * Afterward by
 * Preface by
 
-In case the Work is an Edited Book, do _not_ add chapters contributors as Authors. Once chapter functionality is installed, these will be able to be added separately.
+In case the Work is an Edited Book, **do _not_ add chapter contributors as Authors**. Chapter contributors are to be recorded on the chapter level via the chapters listed under Related Works.
 
 ### Biography
 The biography of the contributor at the moment of contribution.
 
 ### Main
-Select whether the contribution is main contribution from the dropdown list. Main contributions are represented on the [[Catalogue|Thoth_Catalogue]] page.
+Select `Yes` or `No` from the dropdown list to indicate whether the contribution is a main contribution to the Work. Main contributions are listed as such on the [[Catalogue|Thoth_Catalogue]] page. 
+
+To provide good practice examples, in the case of a Monograph, one would mark the Main Author(s) of that monograph with `Yes`, while contributions such as e.g. prefaces, forewords, introductions, would be marked with `No`. 
+With Edited Collections, the Editors of said collection would be listed on the book-level entry and marked with `Yes`, while contributions such as prefaces, introductions, concludions would would be recorded on the chapter level via Related Works, and marked with `No`. Contributions by authors of full chapters will conversely be recorded on the chapter level via Related Works, and marked with `Yes`. 
 
 ### Contribution Ordinal
 Integer determining the order in which contributions are listed, start with `1`.
 
-Once a Contribution has been entered, you can also add one or more institutional Affiliations per Contrubition. As with Funders (see below) Affiliations are drawn from the [[Institutions|Thoth_Institutions]] table. Search for the Institution affiliated with the Contribution, to which you can also add a Position and Affiliation Ordinal, which determines the order in which the affiliations are listed.
+Once a Contribution has been entered, you can also add one or more institutional Affiliations per Contribution. As with Funders (see below) Affiliations are drawn from the [[Institutions|Thoth_Institutions]] table. Search for the Institution affiliated with the Contribution, to which you can also add a Position and Affiliation Ordinal, which determines the order in which the affiliations are listed.
 
 ### Institution
-The [[Institution|Thoth_Institutions]] affiliated with the contributor at the moment of contribution. Seach for the institution in the search bar and select it. 
+The [[Institution|Thoth_Institutions]] affiliated with the contributor at the moment of contribution. Seach for the institution in the search bar and select it. In the rare case of an institution not being listed 
 
 #### Position
 Optionally, add the position of the Contributor at the Institution at the moment of contribution
@@ -251,9 +254,9 @@ Optionally, add the position of the Contributor at the Institution at the moment
 #### Affiliation Ordinal
 Integer determining the order in which affiliations are listed, start with `1`.
 
-By cicking Edit, contributor details can be edited.
+By cicking `Edit`, contributor details can be edited.
 
-By clicking Remove, contributions can be removed.
+By clicking `Remove`, contributions can be removed.
 
 
 ## Publications
@@ -290,15 +293,15 @@ Measurement of the thickness of the spine of the book. Automatically converted f
 Weight of the book. Automatically converted from oz to g or vice versa if the conversion box is ticked.
 
 
-By cicking Edit, publication details can be edited.
+By cicking `Edit`, publication details can be edited.
 
-By clicking View, Locations and Prices can be added via the [[Publications|Thoth_Publications]] page.
+By clicking `View`, Locations and Prices can be added via the [[Publications|Thoth_Publications]] page.
 
-By clicking Remove, publications can be removed.
+By clicking `Remove`, publications can be removed.
 
 ## Languages
 
-Click **Add Language** to add a new language.
+Click `Add Language` to add a new language.
 
 ### Language Code
 
@@ -338,7 +341,7 @@ Subject Headings); instead, they are words or phrases assigned by the metadata c
 anticipation of ways in which the end user might search for content.
 
 Although optional, and not a substitute for controlled subject schema such as the BISAC and
-BIC systems, keywords can be transmitted in ONIX and provide an additional data point for
+Thema systems, keywords can be transmitted in ONIX and provide an additional data point for
 search results and for data analysis via search engine algorithms.
 
 For fiction, important keywords might include character names, locations, genre words.
@@ -348,7 +351,7 @@ include words already used within the BISAC, BIC or Thema subject schemes.
 Additional information about keywords can be found in the [BISG Best Practices for Keywords
 in Metadata](https://www.bisg.org/best-practices-keywords-metadata). [BISG, _Revised Best Practices for Book Metadata_, 110]
 
-[[BIC]], [[BISAC]], and [[LCC]] are all legacy classifications that are no longer properly maintained and are copyright protected. Only [[Thema]] is consistently maintained, has the widest collection of categories, and is open. 
+Note: [[BIC]], [[BISAC]], and [[LCC]] are all legacy classifications that are no longer properly maintained and are copyright protected. Only [[Thema]] is consistently maintained, has the widest collection of categories, and is open. 
 
 ### Subject Ordinal
 
