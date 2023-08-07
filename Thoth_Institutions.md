@@ -1,4 +1,4 @@
-The **Institutions** page will display the Funders all users have access to. The following information is displayed:
+The **Institutions** page will display the Research Institutions and Funders that all users have access to. The following information is displayed:
 
 | Column Name  | Content      |
 | :---         | :---          | 
@@ -9,7 +9,7 @@ The **Institutions** page will display the Funders all users have access to. The
 | Country | Country |
 | UpdatedAt    | Date/time of most recent update |
 
-Clicking on any record allows you to edit it. Save the record by clicking **Save**.
+Clicking on any record allows you to edit it. Save the record by clicking `Save`.
 
 # Edit funder
 
