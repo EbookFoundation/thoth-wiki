@@ -82,7 +82,7 @@ Caption referring to the cover image.
 
 ## DOI (_Recommended if available_)
 
-[[Digital Object Identifier|DOI]] of the Work. 
+[[Digital Object Identifier|DOI]] of the Work. In case no DOI is available, we recommend provision of the work's URL via the Landing Page field (see below).
 
 ## LCCN (_Optional_)
 
