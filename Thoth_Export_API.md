@@ -22,6 +22,8 @@ Alternatively, you may obtain a work_id from the [[GraphQL API|Thoth_GraphQL_API
 
 # Supplement: Per-Publisher MARC records
 
+These MARC record files can be used by libraries to integrate a publisher's whole catalogue of books into their library management systems. _Please note that other formats are also available, and the export API's endpoint can also be used to directly pull relevant records from Thoth into your respective Library Management System.
+
 ### MARC21record
 
 * Mattering Press: [Mattering Press' books](https://export.thoth.pub/specifications/marc21record%3A%3Athoth/publisher/17d701c1-307e-4228-83ca-d8e90d7b87a6)
