@@ -1,0 +1,1 @@
+A demonstration of / How To on Thoth's GraphQL API is available at https://youtu.be/8dGn-JsvViI [archived at [doi 10.5281/zenodo.7744319](https://doi.org/10.5281/zenodo.7744319)].
