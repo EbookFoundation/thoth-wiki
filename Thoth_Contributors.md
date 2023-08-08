@@ -1,4 +1,6 @@
-The **Contributors** page will display the contributors all users have access to. The following information is displayed:
+The **Contributors** page will display the contributors all users have access to. In the Thoth backend, Contributor details are shared across all publishers using Thoth to avoid duplication of entries e.g. when authors have published with multiple publishers.
+
+The following information is displayed:
 
 | Column Name  | Content      |
 | :---         | :---          | 
