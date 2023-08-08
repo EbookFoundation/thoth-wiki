@@ -61,7 +61,8 @@ The subtitle of the Work.
 (BISG, _Revised Best Practices for Book Metadata_, 93)
 
 👀 Numbered editions: Please use "1" for the initial edition of a Work, even if subsequent editions are not planned.
-**Named editions: [ONIX list 21?]**
+
+[>>> REVISIT] **Named editions: [ONIX list 21?]**
 
 ## Publication Date
 
