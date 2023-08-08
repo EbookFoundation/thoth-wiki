@@ -1,4 +1,4 @@
-In the context of Thoth, "Series" are deemed serial publications with no clearly-defined end date. For serial publications with a defined end date or amount of individual publications or volumes, please refer to [[Book Set]].
+In the context of Thoth, "Series" are deemed serial publications with no clearly-defined end date. For serial publications with a defined end date or amount of individual publications or volumes, please refer to the Work type [Book Set](https://github.com/thoth-pub/thoth/wiki/Thoth_Works#work-type-mandatory).
 
 The **Series** page will display the Series the user has access to. The following information is displayed:
 
