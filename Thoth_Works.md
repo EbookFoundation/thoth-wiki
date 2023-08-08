@@ -64,39 +64,39 @@ The subtitle of the Work.
 
 [>>> REVISIT] **Named editions: [ONIX list 21?]**
 
-## Publication Date
+## Publication Date (_Recommended_)
 
 The date of publication in the format `dd/mm/yyyy`.
 
-## Place of Publication
+## Place of Publication (_Recommended_)
 
 The place of publication. 
 
-## Cover URL
+## Cover URL (_Recommended_)
 
 URL of the cover image.
 
-## Cover Caption
+## Cover Caption (_Recommended_)
 
 Caption referring to the cover image.
 
-## DOI
+## DOI (_Recommended if available_)
 
 [[Digital Object Identifier|DOI]] of the Work. 
 
-## LCCN
+## LCCN (_Optional_)
 
 The [[Library of Congress Control Number|LCCN]] of the Work. _Only provide this if you already happen to have the information at hand. Not a requirement. Relevant primarily for US publishers._
 
-## OCLC Number
+## OCLC Number (_Optional_)
 
 The [[OCLC Number]] of the Work. _Only provide this if you already happen to have the information at hand. Not a requirement. Relevant primarily for US publishers._
 
-## Internal Reference
+## Internal Reference (_Optional_)
 
 A reference to the Work used by the Publisher internally.
 
-## Page Count
+## Page Count (_Recommended_)
 
 Total number of pages. In most cases, unnumbered pages (e.g., endpapers) should be omitted from this count. (Unnumbered pages that are part of plate sections/inserts are part of the book’s content and should be counted.) Books that have pages numbered in both roman and Arabic numerals (and no inserts) should have a Page Count that reflects the sum of the highest number of the roman-numbered pages plus the highest number of the Arabic-numbered pages. _This value_ is therefore **not necessarily** the total number of pages bound into the book – there may for example be blank leaves at the back_. The sole exception to this is the case of a book with no numbered pages; in such a case the value given for Page Count should be the total number of all pages in the book.
 
@@ -109,31 +109,31 @@ For multi-volume books sold under a single Product Identifier, enter the total f
 (BISG, _Revised Best Practices for Book Metadata_, 104)
 
 
-## Page Breakdown
+## Page Breakdown (_Optional_)
 
 Breakdown of **Total number of pages** in frontmatter, main, and backmatter.
 
-## First Page
+## First Page (_Recommended for Chapters_)
 
 Only relevant for the Work type **Book Chapter**: First page of the chapter.
 
-## Last Page
+## Last Page (_Recommended for Chapters_)
 
 Only relevant for the Work type **Book Chapter**: Last page of the chapter.
 
-## Image Count
+## Image Count (_Optional_)
 
 Total number of images.
 
-## Table Count
+## Table Count (_Optional_)
 
 Total number of tables.
 
-## Audio Count
+## Audio Count (_Optional_)
 
 Total number of audio fragments.
 
-## Video Count
+## Video Count (_Optional_)
 
 Total number of video fragments.
 
@@ -145,39 +145,39 @@ URL of the pertinent [[Creative Commons]] license.
 
 Copyright holder of the work.
 
-## Landing Page
+## Landing Page (_Recommended_)
 
 URL of the web page of the work.
 
-## Long Abstract
+## Long Abstract (_Recommended_)
 
 Abstract of the work. **Where a work has only one abstract, it should be entered here, and Short Abstract can be left blank.** Long Abstract is output in metadata formats, and Short Abstract is not.
 
-## Short Abstract
+## Short Abstract (_Optional_)
 
 Short abstract of the work. Where a work has two different versions of the abstract, the truncated version should be entered here. Otherwise, it can be left blank. This field is not output in metadata formats; where relevant, Long Abstract is used instead.
 
-## General Note
+## General Note (_Optional_)
 
 A general-purpose field used to include information that does not have a specific designated field. In MARC records, it corresponds to field 500.
 
 Examples of general notes: "Previous edition: 2017.", "Links to additional resources are available from the publisher's website.", "Please note that in this book the mathematical formulas are encoded in MathML.".
 
-## Bibliography Note
+## Bibliography Note (_Optional_)
 
 Indicates that the work contains a bibliography or other similar information. In MARC records, it corresponds to field 504.
 
 An example of a bibliography note is: "Includes bibliography (pages 289-321) and index.".
 
-## Table of Content
+## Table of Content (_Optional_)
 
 Table of content of the work.
 
-## Related Works
+## Related Works (_Optional_)
 
 This section allows the addition of a related Work, such as a Book Chapter to an Edited book. Start by searching for an existing Related Work, and if it does not exist in that list, create a new entry.
 
-### Relation Type
+### Relation Type (_Recommended_)
 Select the Relation Type from the dropdown list:
 * Replaces
 * Has Translation 
@@ -190,11 +190,11 @@ Select the Relation Type from the dropdown list:
 
 Relation Types are symmetrical. The converse Relation Type is added to the selected Related Work.
 
-### Relation Ordinal
+### Relation Ordinal (_Required if Related Work has been added_)
 
 Integer determining the order in which Related Works are listed, start with `1`.
 
-## Contributions
+## Contributions (_Recommended if Related Work has been added_)
 
 Use the searchbar to find a [[Contributor|Thoth_Contributors]]. The **Contributor's Given Name**, **Contributor's Family Name**, and **Contributor's Full Name** have been imported from the Contributor record.
 
@@ -213,31 +213,32 @@ Select the contribution type from the dropdown list:
 
 In case the Work is an Edited Book, **do _not_ add chapter contributors as Authors**. Chapter contributors are to be recorded on the individual chapter level via the chapters listed under Related Works.
 
-### Biography
-The biography of the contributor at the moment of contribution.
+### Biography (_Recommended_)
+The biography of the contributor at the time of contribution.
 
-### Main
+### Main (_Recommended_)
 Select `Yes` or `No` from the dropdown list to indicate whether the contribution is a main contribution to the Work. Main contributions are listed as such on the [[Catalogue|Thoth_Catalogue]] page. 
 
 To provide good practice examples, in the case of a Monograph, one would mark the Main Author(s) of that monograph with `Yes`, while contributions such as prefaces, forewords, introductions, would be marked with `No`. 
 
 With Edited Collections, the Editors of said collection would be listed on the book-level entry and marked with `Yes`, while contributions such as prefaces, introductions, concludions would be recorded on the chapter level via Related Works, and marked with `No`. Contributions by authors of full chapters will be recorded on the chapter level via Related Works, and marked with `Yes`. 
 
-### Contribution Ordinal
+### Contribution Ordinal (_Required if Contribution has been added_)
 
 Integer determining the order in which contributions are listed, start with `1`.
 
 Once a Contribution has been entered, you can also add one or more Institutional Affiliations per Contribution. As with Funders (see below) Affiliations are drawn from the [[Institutions|Thoth_Institutions]] table. Search for the Institution affiliated with the Contribution, to which you can also add a Position and Affiliation Ordinal, which determines the order in which the affiliations are listed.
 
 
-### Institution
+### Institution (_Recommended_)
 The [[Institution|Thoth_Institutions]] affiliated with the contributor at the moment of contribution. Search for the institution in the search bar and select it. In the rare case of an institution not being listed, it is best to keep the field empty (no additional free text input available). _Optional_: Check with the Thoth development team (via info@thoth.pub) to see if an update of the underlying ROR database might be necessary, or if there are other ways for them to include the missing institution in the list.
 
-#### Position
+#### Position (_Optional_)
 Optionally, add the position of the Contributor at the Institution at the moment of contribution (free text input). 
 Examples: "Associate Professor", "Researcher in the Social Systems department", etc. 
 
-#### Affiliation Ordinal
+#### Affiliation Ordinal (_Required if Institution has been added_)
+
 Integer determining the order in which affiliations are listed, start with `1`.
 
 By cicking `Edit`, contributor details can be edited.
@@ -245,7 +246,7 @@ By cicking `Edit`, contributor details can be edited.
 By clicking `Remove`, contributions can be removed.
 
 
-## Publications
+## Publications (_Optional; recommended for book-level entries_)
 
 [[Publications|Thoth_Publications]] are separate instances of a single work. Click **Add Publication** to add a new publication. Click **View** to view any Publication record, and add a price.
 
@@ -284,7 +285,7 @@ By clicking `View`, Locations and Prices can be added via the [[Publications|Tho
 
 By clicking `Remove`, publications can be removed.
 
-## Languages
+## Languages (_Recommended_)
 
 Click `Add Language` to add a new language.
 
@@ -301,7 +302,7 @@ Select the language relation from a dropdown list.
 ### Main
 Select whether the language is the main language of the work from a dropdown list.
 
-## Subjects
+## Subjects (_Optional on chapter level, recommended on book level entries)
 
 Click **Add Subject** to add a new subject.
 
@@ -341,11 +342,11 @@ in Metadata](https://www.bisg.org/best-practices-keywords-metadata). [BISG, _Rev
 [[LCC]] will be generated by the Library of Congress, and [[BIC]] is [to become obsolete](https://bic.org.uk/press-releases/bic-announces-date-for-bic-standard-subject-categories-scheme-end-of-life/) as of Feb 2024. 
 For BISAC, there is a [BISAC-to-Thema translator](https://bisactothema.biblioshare.org/) available, courtesy to the [Booknet Canada](https://www.booknetcanada.ca/blog/2014/4/24/introducing-bncs-bisac-to-thema-translator.html). To map back from Thema to BISAC (which is a required classification by e.g. JSTOR), the official reverse Mapping from BISAC 2022 to Thema v.1.5 [XLS](https://www.editeur.org/files/Thema/20230301_BISAC%202022%20to%20Thema%201.5%20Mapping.xlsx) might be useful, as provided by [EDItEUR](https://www.editeur.org/151/Thema/#Code_lists). 
 
-### Subject Ordinal
+### Subject Ordinal (_Required if Subject has been added_)
 
 Integer determining the order codes or keywords.
 
-## Issues
+## Issues (_Optional, relevant to Series_)
 
 Use the searchbar to find a [[Series|Thoth_Series]] belonging under the [[Imprint|Thoth_Imprints]] under which the Work is published.
 
@@ -353,7 +354,7 @@ Use the searchbar to find a [[Series|Thoth_Series]] belonging under the [[Imprin
 
 The number of the Work in the Series.
 
-## Funding
+## Funding (_Optional, recommended where available_)
 
 Use the searchbar to find a funding [[Institution|Thoth_Institutions]]
 
