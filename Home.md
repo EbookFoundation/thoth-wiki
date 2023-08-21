@@ -35,6 +35,7 @@ Metadata formats are the formats in which the [[metadata]] of an [[object]] are 
 * [[RDF]]
   * [[BIBFRAME 2.0]]*
   * [[SKOS]]
+* [[Rioxx]]
 * [[XML]]
   * [[MABXML]]
   * [[MARCXML]]*
