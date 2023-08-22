@@ -290,6 +290,7 @@ Search engines built on top of publication databases tailored toward researches.
 Bibliographies managed by scholarly organizations related to a specific field of inquiry.
 
 * [[MLA Bibliography]]
+* [[Database of Medieval Digital Resources]] (Medieval Academy of America)
 
 # Bibliographic Reference Management Platforms
 
