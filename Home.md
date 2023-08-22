@@ -90,7 +90,7 @@ Persistent identifiers allow the unique identification of an [[object]] such as 
 There are several databases of institution identifiers. The largest is GRID (98,598 records), which is freely downloadable. Funder Registry (21,242 records) is run by Crossref, which provides Crossref funder IDs. A community-led option is ROR, whose database is correlated with GRID, Wikidata, and ISNI.
 
 * [[Funder Registry]]*^
-* [[GRID]]
+* [[GRID]] (superseded by [[ROR]])
 * [[ISNI]]
 * [[ROR]]*^
 * [[Wikidata]]
@@ -105,7 +105,7 @@ There are several databases of institution identifiers. The largest is GRID (98,
 ### Subject Identifiers
 Most subject identifiers are copyrighted schemata with limited reach, especially the schemes of [[Bowker]] and [[Amazon]]. The only open standard is [[Thema]].
 
-* [[BIC]]^
+* [[BIC]]^ (superseded by [[Thema]])
 * [[BISAC]]^
 * [[Bowker]]
 * [[FAST]]
