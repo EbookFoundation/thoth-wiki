@@ -285,6 +285,12 @@ Search engines built on top of publication databases tailored toward researches.
 * [[Microsoft Academic]]
 * [[Semantic Scholar]]
 
+## Topic-specific bibliographies
+
+Bibliographies managed by scholarly organizations related to a specific field of inquiry.
+
+* [[MLA Bibliography]]
+
 # Bibliographic Reference Management Platforms
 
 All currently available bibliographic management platforms support import from [[BibTeX]] and [[RIS]]. Overall, these appear to be the two major formats. An excellent overview of every single platform is provided on the [OpenOffice wiki](https://wiki.openoffice.org/wiki/Bibliographic/Software_and_Standards_Information).
